@@ -2,11 +2,11 @@ collections:
   programmes:
     output: true
     order:
-      - Retail and Food & Beverages/.keep
-      - Pets & Wildlife/.keep
-      - Sports & Wellness/.keep
-      - Gardening & Nature/.keep
       - What's On.md
-      - Concert & Performances/.keep
       - Arts & Culture/.keep
       - Arts & Culture/subfolder-page.md
+      - Concert & Performances/.keep
+      - Gardening & Nature/.keep
+      - Pets & Wildlife/.keep
+      - Sports & Wellness/.keep
+      - Retail and Food & Beverages/.keep
