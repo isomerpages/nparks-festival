@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Pets & Wildlife/.keep
       - Sports & Wellness/.keep
       - Gardening & Nature/.keep
       - What's On.md
