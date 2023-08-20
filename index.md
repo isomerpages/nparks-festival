@@ -15,14 +15,14 @@ sections:
       url: /whats-on/
       key_highlights:
         - title: About Parks Festival
-          description: Important highlight A is important
-          url: https://google.com
+          description: Established since 2016
+          url: /about
         - title: Programmes
-          description: Important highlight B is equally important
-          url: https://gmail.com
+          description: Plan your festival activities
+          url: /whats-on
         - title: Getting here
-          description: Page A is important too
-          url: /privacy/
+          description: How to get to West Coast Park
+          url: /visit
   - infobar:
       title: "#SGParksFest"
       subtitle: Share your experience
