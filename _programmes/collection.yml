@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - What's On.md
+      - Arts & Culture/Satelite Activities.md
       - Arts & Culture/.keep
       - Arts & Culture/Arts & Culture @ Festival Site.md
       - Concert & Performances/.keep
