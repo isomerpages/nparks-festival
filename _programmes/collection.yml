@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - What's On.md
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
+      - Arts & Culture/.keep
+      - Arts & Culture/subfolder-page.md
