@@ -2,7 +2,7 @@ collections:
   programmes:
     output: true
     order:
-      - Concert & Performances/.keep
       - What's On.md
+      - Concert & Performances/.keep
       - Arts & Culture/.keep
       - Arts & Culture/subfolder-page.md
