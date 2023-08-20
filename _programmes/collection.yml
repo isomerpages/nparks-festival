@@ -1,5 +1,5 @@
 collections:
-  whats-on:
+  programmes:
     output: true
     order:
       - folder-page.md
