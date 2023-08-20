@@ -5,14 +5,14 @@ description: Parks Festival celebrates NParks’ signature programmes and
   activities that are offered in our parks and nature spaces in Singapore.
 image: /images/park festival event id.png
 permalink: /
-notification: "Notification: Latest Updates!"
+notification: Hungry? Fast bites available at the F&B section!
 sections:
   - hero:
       title: Parks For Everyone!
       subtitle: NParks Parks Festival 2023
       background: /images/park festival event id.png
       button: Whats On?
-      url: /contact-us/
+      url: /whats-on/
       key_highlights:
         - title: About Parks Festival
           description: Important highlight A is important
@@ -24,9 +24,9 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: "#SGParksFest"
+      subtitle: Share your experience
+      description: Hashtag your event experience with us and see others in action!
+      button: what's happening!
+      url: /media/
 ---
