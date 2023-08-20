@@ -24,7 +24,7 @@ Over one weekend, the festival brings together NParks’ signature programmes an
 <br>
 <br>
 
-Gardening &amp; Nature |  |
+|Gardening &amp; Nature |  |
 | -------- | -------- |
 | Appreciate the benefits of nature by learning about our natural heritage. Get gardening tips from our experts to maximise your greening skills!      | [image]       |
 
