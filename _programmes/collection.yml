@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Gardening & Nature/.keep
       - What's On.md
       - Concert & Performances/.keep
       - Arts & Culture/.keep
