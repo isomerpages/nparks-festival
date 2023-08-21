@@ -4,9 +4,9 @@ permalink: /programmes/arts-and-culture/onsite/
 third_nav_title: Arts & Culture
 description: ""
 ---
-## Day 1
+## Saturday
 
-| Saturday, 23 Aug 2023, 10am - 6pm |  |
+| 23 Aug 2023, 10am - 6pm |  |
 | -------- | -------- |
 
 **Upcycled wood cookie ornament painting**
