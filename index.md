@@ -10,7 +10,7 @@ sections:
   - hero:
       title: Parks For Everyone!
       subtitle: NParks Parks Festival 2023
-      background: /images/park festival event id.png
+      background: /images/pf 2019 montage.jpeg
       button: Whats On?
       url: /whats-on/
       key_highlights:
