@@ -14,11 +14,10 @@ third_nav_title: Arts & Culture
 | PM TBC | Fort Canning Park: Galleries Tour (Guided Tour) | |
 <br>
 
+### Sunday
 
-
-| Sunday, <br> 24 Aug 2023  | | |
+| 24 Aug 2023  | | |
 | -------- | -------- | -------- |
 | PM TBC | Fort Canning Park: Galleries Tour (Guided Tour) | |
-<br>
 | 7pm - 11pm | Jurong Lake Gardens: Lights by the Lake 2023 |  |
 <br>
