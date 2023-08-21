@@ -5,7 +5,7 @@ description: Parks Festival celebrates NParks’ signature programmes and
   activities that are offered in our parks and nature spaces in Singapore.
 image: /images/park festival event id.png
 permalink: /
-notification: Hungry? Fast bites available at the F&B section!
+notification: Bringing you richer content next week. Stay tuned!
 sections:
   - hero:
       title: Parks For Everyone!
