@@ -4,17 +4,13 @@ permalink: /programmes/arts-and-culture/satellite/
 description: ""
 third_nav_title: Arts & Culture
 ---
+### Saturday
 
-
-
-| Saturday, <br> 23 Aug 2023  | | |
+| 23 Aug 2023  | | |
 | -------- | -------- | -------- |
 | 9.30am - 10am | Singapore Botanic Gardens: Singapore Botanic Gardens Heritage Tour | |
-<br>
 | 10am - 11am | Singapore Botanic Gardens, Gallop Extension: Guided Exhibition Tour |  |
-<br>
-| AM TBC | Fort Canning Park: Heritage on the Hill (Guided Tour) |   |
-<br>
+| AM TBC | Fort Canning Park: Heritage on the Hill (Guided Tour) |   |~~~~
 | PM TBC | Fort Canning Park: Galleries Tour (Guided Tour) | |
 <br>
 
