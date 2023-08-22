@@ -4,26 +4,12 @@ permalink: /programmes/arts-and-culture/onsite/
 third_nav_title: Arts & Culture
 description: ""
 ---
-## Saturday
+Be inspired and join other talented creatives in the festival! View amazing sculptural displays and unveil your artistic side by creating your own masterpieces in the park!
 
-| 23 Aug 2023, 10am - 6pm |  |
-| -------- | -------- |
 
+* **23 &amp; 24 Aug 2023, 10am - 6pm  | West Coast Park** <br>
 **Upcycled wood cookie ornament painting**
-![](/images/wood%20ornament%20painting%20(sample).jfif)
+![Wood Cookie art](/images/parks%20fest%20wood%20cookie%20art.jpg)
 
 
 
-
-
-
-
-
-
-| Saturday, 23 Aug 2023, 10am - 6pm |  |
-| -------- | -------- |
-| Upcycled wood cookie ornament painting | |
-| Open Mic: Jamming Sessions |  |
-| Displays from Woodworking Symposium 2023 |   |
-| Yeo's Celebrating LKY Heritagen | |
-<br>
