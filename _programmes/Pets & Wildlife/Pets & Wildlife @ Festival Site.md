@@ -4,7 +4,9 @@ permalink: /programmes/pets-and-wildlife/permalink/
 description: ""
 third_nav_title: Pets & Wildlife
 ---
-Spot wildlife and native biodiversity together with nature champions! Chat with our vets to learn more on your pet’s health and how to better care for them! 
+Pet lovers - Learn more about responsible pet ownership and how to take care of your pet! Our vets will be there too, chat with them to learn expert tips on your pet. 
+
+In celebration of wildlife conservation, check out Singapore’s wildlife kaleidoscope that spotlights the native biodiversity.
 
 
 
