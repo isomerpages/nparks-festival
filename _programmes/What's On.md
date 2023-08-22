@@ -40,7 +40,7 @@ Over one weekend, the festival brings together NParks’ signature programmes an
 
 | Pet's &amp; Wildlife | |
 | -------- | -------- |
-| Spot wildlife and native biodiversity together with nature champions! Chat with our vets to learn more on your pet’s health and how to better care for them!      |  ![](/images/wildlife%20display.JPG)    |
+| Learn about our native biodiversity and spot wildlife in parks and nature areas in Singapore. For pet lovers, have a chat with our vets or be part of our adoption drives and educational activities on responsible pet ownership.      |  ![](/images/wildlife%20display.JPG)    |
 
 <br>
 <br>
