@@ -10,7 +10,7 @@ third_nav_title: Arts & Culture
 | -------- | -------- | -------- |
 | 9.30am - 10am | Singapore Botanic Gardens: Singapore Botanic Gardens Heritage Tour | |
 | 10am - 11am | Singapore Botanic Gardens, Gallop Extension: Guided Exhibition Tour |  |
-| AM TBC | Fort Canning Park: Heritage on the Hill (Guided Tour) |   |~~~~
+| AM TBC | Fort Canning Park: Heritage on the Hill (Guided Tour) |   |
 | PM TBC | Fort Canning Park: Galleries Tour (Guided Tour) | |
 <br>
 
