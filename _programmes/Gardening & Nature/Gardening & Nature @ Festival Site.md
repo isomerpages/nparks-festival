@@ -4,7 +4,7 @@ permalink: /programmes/gardening-and-nature/permalink/
 description: ""
 third_nav_title: Gardening & Nature
 ---
-Appreciate the benefits of nature by learning about our natural heritage. Get gardening tips from our experts to maximise your greening skills!
+For the rookie nature and wildlife lover, learn about our green spaces and rich biodiversity. Witness Singapore’s nature heritage and join in the guided walks and forest tours at the satellite locations! 
 
 
 [Schedule]
