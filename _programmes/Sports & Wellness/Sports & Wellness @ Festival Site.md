@@ -4,7 +4,8 @@ permalink: /programmes/sports-and-wellness/satellite/
 description: ""
 third_nav_title: Sports & Wellness
 ---
-Take charge of your health by engaging in wellness activities lined up for you. Have a game or two in the park together with your family and friends.
+Care for your mind and body by visiting the park! Take charge of your fitness with programmes by the Health Promotion Board. Engage your senses when visiting the therapeutic gardens on display. <br>
+Get active while creating trails of your own with the NParks Explore a Route app! Learn to check\-in and create deeper connections with your loved ones when visiting Haywecare!
 
 #### Saturday <br>
 **23 September 2023**
