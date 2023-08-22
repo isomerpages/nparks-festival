@@ -18,7 +18,7 @@ Parallel to West Coast Highway
 
 | Nearby Park Connectors |  
 | -------- | 
-| [West Coast Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/west-coast-pc)
+| [Click here to visit West Coast Park Connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network/west-coast-pc)
 
 <br>
 
