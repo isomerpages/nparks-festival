@@ -3,7 +3,6 @@ title: About Parks Festival
 permalink: /about/
 description: ""
 ---
-
 ![2019 montage](/images/pf%202019%20montage.jpeg)
 
 Have you ever experience all the fun activities in our parks?
@@ -13,3 +12,5 @@ Parks Festival fosters community spirit and brings together people through activ
 Visitors can engage in art and craft, pick up gardening tips, learn more about Singapore’s flora and fauna and its natural heritage, learn how to take care of their pets, keeping fit and healthy with wellness programmes or even shop for gifts for their loved ones at home. There is something for everyone!
 
 Explore this website to learn more about the programmes offered at the event as well as satellite activities happening all over Singapore.
+
+#SGParksFest
