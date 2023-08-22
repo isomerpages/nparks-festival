@@ -13,4 +13,4 @@ Visitors can engage in art and craft, pick up gardening tips, learn more about S
 
 Explore this website to learn more about the programmes offered at the event as well as satellite activities happening all over Singapore.
 
-#SGParksFest
+**#SGParksFest**
