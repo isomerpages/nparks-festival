@@ -3,9 +3,11 @@ title: Visit
 permalink: /visit/
 description: ""
 ---
-NParks' Parks Festival invites everyone to a culmination of park activities, installations and experiences on 23rd &amp; 24th September 2023 at West Coast Park and together with participating satellite locations at other parks and nature spaces in Singapore!
+Join us at NParks' Parks Festival on 23rd &amp; 24th September 2023 at West Coast Park. <br>
 
-Our events and activities are conducted in green spaces, do come prepared for the elements and please ensure to be sufficiently hydrated.
+Come and experience a variety of park activities, installations, and immersive nature experiences at West Coast Park as well as other satellite programmes happening at other parks and nature spaces in Singapore! <br>
+
+Please note that our events and activities take place in green spaces, so make sure to dress appropriately for the outdoors and stay hydrated throughout the event. We look forward to seeing you there! <br>
 
 Please approach our staff and volunteers stationed across the festival zones should you require assistance.  The Information Booth can be found at the entrance of the festival.
 
@@ -40,7 +42,7 @@ Parallel to West Coast Highway <br>
 	
 **Driving** <br>
 West Coast Highway - West Coast Carpark Area 3 <br>
-2 EV chargers are available at West Coast Park Car Park 3
+2 EV chargers are available at West Coast Park Carpark 3
 
 <br>	
 
