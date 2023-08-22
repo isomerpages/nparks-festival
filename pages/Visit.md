@@ -5,7 +5,7 @@ description: ""
 ---
 Parks Festival 2023 will be held at West Coast Park!
 
-Journeying to the west? Below are some ways you can to the park!
+Journeying to the west? Below are some ways you can get to the park!
 
 
 | Event Location |  
