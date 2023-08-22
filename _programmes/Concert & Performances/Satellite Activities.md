@@ -14,3 +14,5 @@ third_nav_title: Concert & Performances
 |6pm - 8pm | Singapore Chinese Orchestra Performance | Jurong Lake Gardens  |
 |7pm - 11pm |  Lights by the Lake 2023 | Jurong Lake Gardens |
 <br>
+
+![](/images/slide5.jpg)
