@@ -15,3 +15,6 @@ Therapeutic Garden Showcase and Outreach |  |
 <br>
 NParks Explore a Route Mobile Application | |
 <br>
+
+
+![](/images/sched%201%20-%20sports%20&amp;%20wellness.jpg)
