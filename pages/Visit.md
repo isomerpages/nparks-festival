@@ -3,7 +3,11 @@ title: Visit
 permalink: /visit/
 description: ""
 ---
-Parks Festival 2023 will be held at West Coast Park!
+NParks' Parks Festival invites everyone to a culmination of park activities, installations and experiences on 23rd &amp; 24th September 2023 at West Coast Park and together with participating satellite locations at other parks and nature spaces in Singapore!
+
+Our events and activities are conducted in green spaces, do come prepared for the elements and please ensure to be sufficiently hydrated.
+
+Please approach our staff and volunteers stationed across the festival zones should you require assistance.  The Information Booth can be found at the entrance of the festival.
 
 Journeying to the west? Below are some ways you can get to the park!
 
