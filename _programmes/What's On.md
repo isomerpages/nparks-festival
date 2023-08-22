@@ -3,7 +3,7 @@ title: What's On
 permalink: /whats-on/
 description: ""
 ---
-[Festival Image]
+![Festival image](/images/5%20categories.png)
 
 Over one weekend, the festival brings together NParks’ signature programmes and activities that are commonly offered in our parks and nature spaces in Singapore.   
 
