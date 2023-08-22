@@ -3,6 +3,9 @@ title: About Parks Festival
 permalink: /about/
 description: ""
 ---
+
+![2019 montage](/images/pf%202019%20montage.jpeg)
+
 Have you ever experience all the fun activities in our parks?
 
 Parks Festival fosters community spirit and brings together people through activities such as gardening, wildlife and nature appreciation, exploring the arts, getting active with sports, and taking care of our wellness by visiting our parks. 
