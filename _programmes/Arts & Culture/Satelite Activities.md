@@ -24,3 +24,5 @@ third_nav_title: Arts & Culture
 | PM TBC | Fort Canning Park: Galleries Tour (Guided Tour) | |
 | 7pm - 11pm | Jurong Lake Gardens: Lights by the Lake 2023 |  |
 <br>
+
+![](/images/slide9.jpg)
