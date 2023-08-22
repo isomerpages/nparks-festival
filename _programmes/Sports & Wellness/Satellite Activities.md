@@ -17,3 +17,8 @@ third_nav_title: Sports & Wellness
 | 9am - 11.30am | Hong Kah North: Therapeutic Horticulture Programme (Scent bah making, Senosry soil mixing &amp; plant propagation) |
 <br>
 | 10.30am - 12.30pm | HortPark: HortPark Therapeutic Garden Tour + Pressed Flower Craft (10 pax) |
+
+
+
+
+![](/images/sched%202%20-%20sports%20&amp;%20wellness.jpg)
