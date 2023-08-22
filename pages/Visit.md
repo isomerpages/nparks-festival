@@ -9,7 +9,7 @@ Journeying to the west? Below are some ways you can get to the park!
 
 
 | Event Location |  
-| -------- | -------- |
+| -------- |
 | West Coast Park, Area 3
 Parallel to West Coast Highway
 [Click here for directions via OneMap](https://www.onemap.gov.sg/v2/?lat=1.296153293668301&amp;lng=103.7629999530119)
