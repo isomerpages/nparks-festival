@@ -14,6 +14,9 @@ third_nav_title: Arts & Culture
 | PM TBC | Fort Canning Park: Galleries Tour (Guided Tour) | |
 <br>
 
+![](/images/slide8.jpg)
+
+
 ### Sunday
 
 | 24 Aug 2023  | Programme | Weblink |
