@@ -4,7 +4,7 @@ permalink: /programmes/arts-and-culture/onsite/
 third_nav_title: Arts & Culture
 description: ""
 ---
-Be inspired and join other talented creatives in the festival! View amazing sculptural displays and unveil your artistic side by creating your own masterpieces in the park!
+Be inspired in the park! Pick up a paintbrush and share your creative side on upcycled wood cookies! Visit wood\-sculpture displays by talented artistes from this year’s wood\-sculpting symposium. For the music lover in you, come jam with us at the open mic or listen to our curated playlists @ Park Beats!
 
 
 ![](/images/slide7.jpg)
