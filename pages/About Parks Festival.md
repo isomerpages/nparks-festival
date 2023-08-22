@@ -13,4 +13,11 @@ Visitors can engage in art and craft, pick up gardening tips, learn more about S
 
 Explore this website to learn more about the programmes offered at the event as well as satellite activities happening all over Singapore.
 
+##### Past Park Festival editions #####
+* 19 & 20 Nov 2016 @ Bishan-Ang Mo Kio Park
+* 28 & 29 Oct 2017 @ Admiralty Park, Bishan-Ang Mo Kio Park, Esplanade Park, Jurong Central Park & Pasir Ris Park
+* 27 & 28 Oct 2018 @ Esplanade Park & Empress Lawn
+* 26 & 27 Oct 2019 @ Esplanade Park, Empress Lawn & Queen Elizabeth Walk
+
+
 **#SGParksFest**
