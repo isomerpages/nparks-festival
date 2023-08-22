@@ -4,17 +4,6 @@ permalink: /programmes/sports-and-wellness/satellite/
 description: ""
 third_nav_title: Sports & Wellness
 ---
-| Saturday, 23 Aug 2023 <br> 10am - 6pm |  |
-| -------- | -------- |
-
-Haywecare: Interactive Check-in game | |
-<br>
-Health Promotion Board: Healthy 365 Mobile Application |  |
-<br>
-Therapeutic Garden Showcase and Outreach |  |
-<br>
-NParks Explore a Route Mobile Application | |
-<br>
-
-
+#### Saturday <br>
+**23 September 2023**
 ![](/images/sched%201%20-%20sports%20&amp;%20wellness.jpg)
