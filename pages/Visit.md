@@ -46,5 +46,7 @@ Parallel to West Coast Highway
 | West Coast Park Map |  
 | -------- | 
 |![West Coast Park map](/images/wcp%20map.jfif)
+[Click here to view map](https://www.nparks.gov.sg/-/media/nparks-real-content/gardens-parks-and-nature/parks-and-nature-reserve/west-coast-park/west-coast-park-map.ashx)
+
 
 For more information on West Coast Park, you can visit the park webpage via the link here: [Learn more about West Coast Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/west-coast-park)
