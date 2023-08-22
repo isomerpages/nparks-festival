@@ -47,4 +47,4 @@ Over one weekend, the festival brings together NParks’ signature programmes an
 
 | Retail &amp; Food and Beverages | |
 | -------- | -------- |
-| Don’t miss out on the shopping experience with our retail stretch! Bring something home for you or your loved ones at the marketplace featuring 100 vendors offering arts, gardening, pets and lifestyle products. Not to forget, fast bites and beverages to fuel you up during your visit!       |   |
+| Don’t miss out on the shopping experience with our retail stretch! Bring something home for you or your loved ones at the marketplace featuring 100 vendors offering arts, gardening, pets and lifestyle products. Not to forget, fast bites and beverages to fuel you up during your visit!     |  ![Plant sale](/images/plant%20sale%20.jpg) |
