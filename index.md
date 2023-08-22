@@ -9,7 +9,7 @@ notification: Stay tuned for more content updates!
 sections:
   - hero:
       title: Parks For Everyone!
-      subtitle: NParks Parks Festival 2023
+      subtitle: NParks' Parks Festival 2023 | 23rd & 24th September
       background: /images/5 categories.png
       button: Whats On?
       url: /whats-on/
