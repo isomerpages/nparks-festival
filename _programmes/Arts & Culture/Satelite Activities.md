@@ -6,9 +6,8 @@ third_nav_title: Arts & Culture
 ---
 ### Saturday <br>
 **23 September 2023**
-![](/images/slide8.jpg)
-
+![](/images/sat%20of%20a&amp;c.jpg)
 
 ### Sunday <br>
 **24 September 2023**
-![](/images/slide9.jpg)
+![](/images/sun%20of%20a&amp;c.jpg)
