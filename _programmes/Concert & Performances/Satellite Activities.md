@@ -10,9 +10,7 @@ third_nav_title: Concert & Performances
 
 | Time  | Programme | Location |
 | -------- | -------- | -------- |
-| 6pm - 7pm | Shaw Foundation Symphony Stage: Australian Youth Band in Concert | Singapore Botanic Gardens |
-<br>
-| 6pm - 8pm | Singapore Chinese Orchestra Performance | Jurong Lake Gardens  |
-<br>
-| 7pm - 11pm |  Lights by the Lake 2023 | Jurong Lake Gardens |
+|6pm - 7pm | Shaw Foundation Symphony Stage: Australian Youth Band in Concert | Singapore Botanic Gardens |
+|6pm - 8pm | Singapore Chinese Orchestra Performance | Jurong Lake Gardens  |
+|7pm - 11pm |  Lights by the Lake 2023 | Jurong Lake Gardens |
 <br>
