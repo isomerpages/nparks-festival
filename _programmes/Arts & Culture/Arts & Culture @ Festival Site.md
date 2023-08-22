@@ -4,7 +4,9 @@ permalink: /programmes/arts-and-culture/onsite/
 third_nav_title: Arts & Culture
 description: ""
 ---
-Be inspired in the park! Pick up a paintbrush and share your creative side on upcycled wood cookies! Visit wood\-sculpture displays by talented artistes from this year’s wood\-sculpting symposium. For the music lover in you, come jam with us at the open mic or listen to our curated playlists @ Park Beats!
+Be inspired in the park! <br>
+Pick up a paintbrush and share your creative side on upcycled wood cookies! Visit wood\-sculpture displays by talented artistes from this year’s wood\-sculpting symposium. <br>
+For the music lover in you, come jam with us at the open mic or listen to our curated playlists @ Park Beats!
 
 
 ![](/images/slide7.jpg)
