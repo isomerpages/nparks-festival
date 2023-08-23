@@ -47,3 +47,7 @@ Over one weekend, the festival brings together NParks’ signature programmes an
 | Retail &amp; Food and Beverages | |
 | -------- | -------- |
 | Don’t miss out on the shopping experience with our retail stretch! Bring something home for you or your loved ones at the marketplace featuring 100 vendors offering arts, gardening, pets and lifestyle products. Not to forget, fast bites and beverages to fuel you up during your visit!     |  ![Plant sale](/images/plant%20sale%20.jpg) |
+
+
+#### #SGParksFest <br>
+Are your ready to have a blast at Parks Festival? We sure are! And we want to hear all about your amazing experience at the event.  Don't forget to share your stories, photos and videos on social media with the hashtag **#SGParksFest**. Let's show the world how much fun we're having! So get your cameras ready, put on your dancing shoes and let's make some unforgettable memories together!
