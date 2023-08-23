@@ -3,8 +3,6 @@ title: What's On
 permalink: /whats-on/
 description: ""
 ---
-
-
 ![](/images/5%20categories_2208_2.png)
 Over one weekend, the festival brings together NParks’ signature programmes and activities that are commonly offered in our parks and nature spaces in Singapore.   
 
@@ -13,14 +11,14 @@ Over one weekend, the festival brings together NParks’ signature programmes an
 
 |  Arts &amp; Culture | |
 | -------- | -------- |
-| Be inspired and join other talented creatives in the festival! View amazing sculptural displays and unveil your artistic side by creating your own masterpieces in the park!     |![](/images/parks%20fest%20wood%20cookie%20art.jpg)     |
+| Be inspired with sculptural displays by talented local creatives. You can also unveil your artistic side by creating your own masterpieces in the park!     |![](/images/parks%20fest%20wood%20cookie%20art.jpg)     |
 
 <br>
 <br>
 
 | Concerts &amp; Performances |  |
 | -------- | -------- |
-| Celebrate the weekend by partying with us at NParks Concert Series in the Parks: Rockestra®,and go back in time with the hits of 1999! |  ![Concert in the park](/images/rockestra.jpg)  | 
+| Celebrate the weekend by partying with us at NParks Concert Series in the Parks: Rockestra®, and go back in time with the hits of 1999! |  ![Concert in the park](/images/rockestra.jpg)  | 
 
 <br>
 <br>
@@ -34,14 +32,14 @@ Over one weekend, the festival brings together NParks’ signature programmes an
 
 | Sports &amp; Wellness |  |
 | -------- | -------- |
-| Take charge of your health by engaging in wellness activities lined up for you. Have a game or two in the park together with your family and friends.      | ![wellness activities](/images/picture1_2.jpg)    |
+| Take charge of your health with exciting wellness activities lined up! Have a game or two in the park together with your family and friends.      | ![wellness activities](/images/picture1_2.jpg)    |
 
 <br>
 <br>
 
 | Pet's &amp; Wildlife | |
 | -------- | -------- |
-| Learn about our native biodiversity and spot wildlife in parks and nature areas in Singapore. For pet lovers, have a chat with our vets or be part of our adoption drives and educational activities on responsible pet ownership.      |  ![](/images/wildlife%20display.JPG)    |
+| Spot wildlife and native biodiversity together with guided tours. Pet owners can chat with our vets to learn more on your pet's health and how to better care for them.     |  ![](/images/wildlife%20display.JPG)    |
 
 <br>
 <br>
