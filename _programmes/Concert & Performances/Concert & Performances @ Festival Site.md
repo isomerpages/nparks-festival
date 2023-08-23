@@ -14,7 +14,7 @@ Celebrate the weekend by partying with us at NParks Concert Series in the Parks:
 
 * **23 September 2023, 6pm - 6.30pm | West Coast Park <br>
 Singapore Kindness Movement - Singapore and the Kindness Cubbies, Kindness Dance**<br>
-
+![Kindness Cubbies](/images/pxl_20230716_085058241.jpg)
 
 
 * **23 September 2023, 6.30pm - late | West Coast Park <br>
