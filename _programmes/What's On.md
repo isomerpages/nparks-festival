@@ -18,7 +18,7 @@ Over one weekend, the festival brings together NParks’ signature programmes an
 
 | Concerts &amp; Performances |  |
 | -------- | -------- |
-| Celebrate the weekend by partying with us at NParks Concert Series in the Parks: Rockestra®, and go back in time with the hits of 1999! |  ![Concert in the park](/images/rockestra.jpg)  | 
+| Celebrate the weekend by partying with us at NParks Concert Series in the Parks: Rockestra® and go back in time with the hits of 1999! |  ![Concert in the park](/images/rockestra.jpg)  | 
 
 <br>
 <br>
