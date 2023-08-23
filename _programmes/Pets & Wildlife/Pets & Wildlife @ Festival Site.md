@@ -1,6 +1,6 @@
 ---
 title: Pets & Wildlife @ Festival Site
-permalink: /programmes/pets-and-wildlife/permalink/
+permalink: /programmes/pets-and-wildlife/onsite/
 description: ""
 third_nav_title: Pets & Wildlife
 ---

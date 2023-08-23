@@ -1,6 +1,6 @@
 ---
 title: Gardening & Nature @ Festival Site
-permalink: /programmes/gardening-and-nature/permalink/
+permalink: /programmes/gardening-and-nature/onsite/
 description: ""
 third_nav_title: Gardening & Nature
 ---

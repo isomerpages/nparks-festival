@@ -36,7 +36,7 @@ Parallel to West Coast Highway <br>
 ##### By Public Transport  <br>
 **Bus stop ID:** 17291, 16241 <br>
 **Bus services:** 175, 176 <br>
-**Neartest MRT:** Haw Par Villa Station  
+**Nearest MRT:** Haw Par Villa Station  
 
 <br>
 	

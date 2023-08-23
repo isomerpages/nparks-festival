@@ -1,6 +1,6 @@
 ---
 title: Sports & Wellness @ Festival Site
-permalink: /programmes/sports-and-wellness/satellite/
+permalink: /programmes/sports-and-wellness/onsite/
 description: ""
 third_nav_title: Sports & Wellness
 ---
