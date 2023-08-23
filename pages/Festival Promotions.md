@@ -7,5 +7,4 @@ description: ""
 
 | Canopy Garden Dining |
 | -------- |
-|      | 
-
+|      |
