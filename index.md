@@ -1,32 +1,31 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: NParks Parks Festival
+description: Parks Festival celebrates NParks’ signature programmes and
+  activities that are offered in our parks and nature spaces in Singapore.
+image: /images/park festival event id.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Stay tuned for more content updates!
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Parks For Everyone!
+      subtitle: NParks' Parks Festival 2023 | 23rd & 24th September
+      button: Whats On?
+      url: /whats-on/
+      key_highlights:
+        - title: About Parks Festival
+          description: Established since 2016
+          url: /about
+        - title: Programmes
+          description: Plan your festival activities
+          url: /whats-on
+        - title: Getting here
+          description: How to get to West Coast Park
+          url: /visit
+  - infobar:
+      title: "#SGParksFest"
+      subtitle: Share your experience
+      description: Hashtag your event experience with us and see others in action!
+      button: what's happening!
+      url: /media/
 ---
-
