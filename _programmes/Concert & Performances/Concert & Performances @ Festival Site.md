@@ -4,10 +4,10 @@ permalink: /programmes/concert-and-performances/onsite/
 description: ""
 third_nav_title: Concert & Performances
 ---
+Check out our stage programmes happening at West Coast Park! <br>
+Celebrate the weekend by partying with us at NParks Concert Series in the Parks: Rockestra® and go back in time with the top hits of 1999!
 
-Check out our stage programmes happening at West Coast Park!
-Celebrate the weekend by partying with us at NParks Concert Series in the Parks: Rockestra®,and go back in time with the top hits of 1999!
-
+![Concert Series in the Park: Rockestra](/images/rockestra.jpg)
 
 #### Saturday
 **23 September 2023**
