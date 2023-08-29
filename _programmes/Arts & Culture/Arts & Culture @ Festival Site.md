@@ -10,6 +10,6 @@ Explore wooden sculptures crafted by skilled artists from this year’s wood-scu
 
 ![](/images/sat%20sun%20a&amp;c.jpg)
 
-* **23 &amp; 24 Aug 2023, 10am - 6pm  | West Coast Park** <br>
+* **23 &amp; 24 September 2023, 10am - 6pm  | West Coast Park** <br>
 **Upcycled wood cookie ornament painting**
 ![Wood Cookie art](/images/parks%20fest%20wood%20cookie%20art.jpg)
