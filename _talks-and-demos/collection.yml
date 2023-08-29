@@ -1,4 +1,5 @@
 collections:
   talks-and-demos:
     output: true
-    order: []
+    order:
+      - Gardening & Nature.md
