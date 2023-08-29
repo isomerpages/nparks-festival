@@ -54,7 +54,7 @@ staging: https://staging.degof0lsbr4yg.amplifyapp.com
 prod: https://master.degof0lsbr4yg.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/park festival event id.png
-is_government: false
+is_government: true
 google_analytics: ""
 google_analytics_ga4: ""
 linkedin-insights: ""
