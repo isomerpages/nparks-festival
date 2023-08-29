@@ -2,4 +2,5 @@ collections:
   talks-and-demos:
     output: true
     order:
+      - Sports & Wellness.md
       - Gardening & Nature.md
