@@ -4,5 +4,13 @@ links:
     url: /about/
   - title: What's On
     url: /whats-on/
+  - title: Programs
+    collection: programmes
   - title: Visit
     url: /visit
+  - title: Talks
+    collection: programmes
+  - title: Festival Map
+    url: /permalink
+  - title: Promotions
+    url: /permalink
