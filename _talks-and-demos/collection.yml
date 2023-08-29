@@ -1,0 +1,4 @@
+collections:
+  talks-and-demos:
+    output: true
+    order: []
