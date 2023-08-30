@@ -109,7 +109,7 @@ For more information, visit https://www.rasaistimewa.sg/pasir-ris-park-menu or c
 ##### Singapore Botanic Gardens
 | Garden Shop at Tanglin Gate |
 | -------- |
-|[image]
+|![Garden Shop at Tanglin Gate](/images/garden%20shop%20at%20tanglin%20gate.jpg)
 
 **Tea Bar Specials**
 Enjoy a cup of Chelsea Straight Tea at $2.80 (U.P $3.80), exclusively at Gardens Shops at Tanglin Gate. 
@@ -125,7 +125,7 @@ For more information, visit https://www.nparks.gov.sg/sbg/shop-and-dine/gardens-
 ##### Woodlands Waterfront Park
 | Rasa Istimewa |
 | -------- |
-|[image]
+|![Rasa Istimewa @ Woodlands Waterfont](/images/rasa%20istimewa%20@%20waterfront.jpg)
 
 Spend in a single receipt and enjoy free items on your next visit! 
 * $50 and above for a free Baby Kailan (worth $8). 
@@ -143,7 +143,7 @@ For more information, visit https://www.rasaistimewa.sg/woodlands-waterfront-men
 ##### Various Parks
 | The Gym Pod |
 | -------- |
-|[image]
+|![The Gym Pod at various parks](/images/the%20gym%20pod.jpg)
 
 10% off Starter Pack.  
 Use code: NPARKSFESTIVAL23 on The Gym Pod App to redeem.  
