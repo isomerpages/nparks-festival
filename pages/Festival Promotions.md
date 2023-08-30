@@ -3,7 +3,7 @@ title: Festival Promotions
 permalink: /promotions/
 description: ""
 ---
-Check out the festival promotions happening at participating tenants in our parks all over Singapore! From delicious food and drinks to exciting activities and discounts, there's something for everyone to enjoy. Take a stroll through the park and discover the amazing deals and offers available at our participating tenants. Don't miss out on this opportunity to celebrate the festive season with your loved ones while enjoying the beauty of our parks. Visit us today and experience the joy of the season
+Check out the festival promotions happening at participating tenants in our parks all over Singapore! From delicious food and drinks to exciting activities and discounts, there's something for everyone to enjoy. Take a stroll through the park and discover the amazing deals and offers available at our participating tenants. Don't miss out on this opportunity to celebrate the festive season with your loved ones while enjoying the beauty of our parks. Visit the parks during the festival period to enjoy these promotions!
 
 <br>
 
@@ -11,7 +11,7 @@ Check out the festival promotions happening at participating tenants in our park
 
 | Canopy Garden Dining |
 | -------- |
-|[image]
+|![Canopy Garden Dining](/images/canopy%20garden%20dining.jpg)
 
 
 Free Caesar Salad with purchase of any main dish. Download e-voucher on Oddle Eats to redeem. 
@@ -26,7 +26,7 @@ For more information, visit https://www.canopygardendining.com/ |
 
 | Bike Stop by Coastline Leisure |
 | -------- |
-|[image]
+|![Bike Stop at Coastline Leisure](/images/coastline%20leisure.jpg)
 
 $5 off for family bike rental.  
 * Valid for 1 bike redemption per person. 
@@ -41,7 +41,7 @@ For more information, visit www.coastlineleisure.com.sg   |
 
 | Singapore Wake Park |
 | -------- |
-|[image]
+|![Singapore Wake Park](/images/singapore%20wake%20park.jpg)
 
 Spend $80 nett at Singapore Wake Park’s Coastal Rhythm Cafe &amp; Bar between 18 and 24 September 2023 and redeem a pair of riding vouchers on the beginners riding system (System A) worth $100 ($50 x 2). 
 * Voucher is valid for use on weekdays only. Other T&amp;Cs apply.  
@@ -58,7 +58,7 @@ or contact 66364266 / 97722780 (WhatsApp).    |
 
 | Georges at the Cove  |
 | -------- |
-|[image]
+|![Georges at the Cove](/images/georges%20at%20the%20cove.jpg)
 
 Free Ice Cream worth $5.90 (regular scoop in a 100ml cup) with every main course or kid’s meal ordered. 
 * Only available in 2 flavours – Chocolate and Cookies n Cream. 
@@ -74,7 +74,8 @@ For more information, visit www.georges.com.sg     |
 
 | Kokomo Beach Club |
 | -------- |
-|[image]
+| ![Kokomo Beach Club](/images/kokomo%20beach%20club.jpg)
+
 Kayaking Coastal Clean-Up 
 Fantastic opportunity for families to engage in a meaningful activity while enjoying the serene coastal environment from Pasir Ris Park to the scenic Coney Island. 
 * Date: 23 September 2023 (9am – 1pm) 
@@ -90,7 +91,7 @@ Sign up here or for more information, visit https://kokomo-beachclub.com/ or con
  
 | Rasa Istimewa |
 | -------- |
-|[image]
+|![Rasa Istimewa @ Pasir Ris Park](/images/rasa%20istimewa%20@%20pasir%20ris%20park.jpg)
 
 Spend in a single receipt and enjoy free items on your next visit! 
 * $50 and above for a free Baby Kailan (worth $8). 
@@ -149,4 +150,4 @@ Use code: NPARKSFESTIVAL23 on The Gym Pod App to redeem.
 * Valid until 31 October 2023. 
 * Terms and conditions apply (refer to The Gym Pod app) 
 
-For outlet locations in the parks, visit https://www.thegympod.com/locations/ or contact support@thegympod.com for enquiries.  
+For outlet locations in the parks, visit https://www.thegympod.com/locations/ or contact support@thegympod.com for enquiries.
