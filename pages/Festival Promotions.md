@@ -160,4 +160,5 @@ Use code: NPARKSFESTIVAL23 on The Gym Pod App to redeem.
 * Valid until 31 October 2023. 
 * Terms and conditions apply (refer to The Gym Pod app) 
 
-For outlet locations in the parks, visit https://www.thegympod.com/locations/ or contact support@thegympod.com for enquiries.
+For outlet locations in the parks, visit [https://www.thegympod.com/locations/ ](https://www.thegympod.com/locations/ )  
+or contact support@thegympod.com for enquiries.
