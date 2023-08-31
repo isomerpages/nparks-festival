@@ -6,4 +6,5 @@ third_nav_title: Concert & Performances
 ---
 #### Saturday
 **23 September 2023**
-![](/images/slide5.jpg)
+
+![Concerts & Performances at satellite locations](/images/c&p_sat%20of.jpg)

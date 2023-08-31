@@ -5,7 +5,7 @@ description: Parks Festival celebrates NParks’ signature programmes and
   activities that are offered in our parks and nature spaces in Singapore.
 image: /images/park festival event id.png
 permalink: /
-notification: Stay tuned for more content updates!
+notification: Rockestra® happening on 23rd Sept (Sat). Stay tuned for more content updates!
 sections:
   - hero:
       title: Parks For Everyone!
