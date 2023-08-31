@@ -33,6 +33,7 @@ For more information, visit [https://www.canopygardendining.com/](https://www.ca
 $5 off for family bike rental.  
 * Valid for 1 bike redemption per person. 
 * Valid on 23 and 24 September 2023. 
+<br>
 
 For more information, visit [ www.coastlineleisure.com.sg]( www.coastlineleisure.com.sg)
 
@@ -47,9 +48,9 @@ For more information, visit [ www.coastlineleisure.com.sg]( www.coastlineleisure
 
 Spend $80 nett at Singapore Wake Park’s Coastal Rhythm Cafe &amp; Bar between 18 and 24 September 2023 and redeem a pair of riding vouchers on the beginners riding system (System A) worth $100 ($50 x 2). 
 * Voucher is valid for use on weekdays only. Other T&amp;Cs apply.  
+<br>  
 
-For more information, visit [www.singaporewakepark.com ](www.singaporewakepark.com )
-
+For more information, visit [www.singaporewakepark.com ](www.singaporewakepark.com )  
 or contact 66364266 / 97722780 (WhatsApp).
 
 <br>
@@ -67,8 +68,9 @@ Free Ice Cream worth $5.90 (regular scoop in a 100ml cup) with every main course
 * Only available in 2 flavours – Chocolate and Cookies n Cream. 
 * Valid on 23 and 24 September 2023. 
 * For dine-in patrons only. Show NParks’ website/Social Media Post to redeem. While stocks last.  
+<br> 
 
-For more information, visit www.georges.com.sg     |
+For more information, visit [www.georges.com.sg](www.georges.com.sg)
 
 <br>
 <br>
@@ -85,8 +87,8 @@ Fantastic opportunity for families to engage in a meaningful activity while enjo
 * Price per participant: $60 (individual), $55 (group of 2-3 persons) or $45 (group of 4 or more persons) 
 * Children under 12: FREE (one child per accompanying adult) 
 
-To sign up or for more information, 
-visit [ https://kokomo-beachclub.com/ ]( https://kokomo-beachclub.com/ )
+For more information, 
+visit [ https://kokomo-beachclub.com/ ]( https://kokomo-beachclub.com/ )  
 or contact 9834 7984. 
 
 <br>
@@ -103,8 +105,9 @@ Spend in a single receipt and enjoy free items on your next visit!
 * $150 and above for a free small Seabass dish (worth $26). 
 * $200 and above for a free Baby Kailan and a small Seabass dish (worth $34). 
 * For dine-in only. Redeem by showing original receipt on your next visit. Valid from 23 September 2023 till 22 October 2023. 
+<br>
 
-For more information, visit [ https://kokomo-beachclub.com/ ]( https://kokomo-beachclub.com/ )
+For more information, visit [ https://kokomo-beachclub.com/ ]( https://kokomo-beachclub.com/ )  
 or contact 6386 9339.
 
 <br>
@@ -121,7 +124,7 @@ or contact 6386 9339.
 Enjoy a cup of Chelsea Straight Tea at $2.80 (U.P $3.80), exclusively at Gardens Shops at Tanglin Gate. 
 * Valid on 23 and 24 September 2023. 
 
-For more information, visit https://www.nparks.gov.sg/sbg/shop-and-dine/gardens-shops 
+For more information, visit  [www.nparks.gov.sg/sbg/shop-and-dine/gardens-shops](https://www.nparks.gov.sg/sbg/shop-and-dine/gardens-shops)
 
 <br>
 <br>
@@ -139,7 +142,8 @@ Spend in a single receipt and enjoy free items on your next visit!
 * $200 and above for a free Baby Kailan and a small Seabass dish (worth $34). 
 * For dine-in only. Redeem by showing original receipt on your next visit. Valid from 23 September 2023 till 22 October 2023. 
 
-For more information, visit https://www.rasaistimewa.sg/woodlands-waterfront-menu or contact 6366 9339. 
+For more information, visit [www.rasaistimewa.sg/woodlands-waterfront-menu](https://www.rasaistimewa.sg/woodlands-waterfront-menu)   
+or contact 6366 9339. 
 
 <br>
 <br>
