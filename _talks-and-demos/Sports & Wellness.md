@@ -4,7 +4,8 @@ permalink: /talks-and-demos/sports-and-wellness/
 description: ""
 ---
 #### Saturday
-**23rd September 2023**
+**23rd September 2023** <br>
+
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
 | 11am | General Wellness the TCM Way   |   Lee Hui Fang  |
@@ -14,13 +15,15 @@ description: ""
 
 
 #### Sunday
-**24th September 2023**
+**24th September 2023** <br>
+
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
 | 11am | Forest Therapy  | Chew Ting Ching  |
 | 1pm  | Demonstation on Scent Bag Making  | David Yu    |
 | 2pm | #JalanKakis - Wellness and Positivity through Walks | Iman Samsi |
 
+<br>
 
 #### More about the Talks!
 * **General Wellness the TCM Way by Lee Hui Fang**
