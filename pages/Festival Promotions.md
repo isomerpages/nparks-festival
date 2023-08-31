@@ -85,7 +85,7 @@ Fantastic opportunity for families to engage in a meaningful activity while enjo
 * Price per participant: $60 (individual), $55 (group of 2-3 persons) or $45 (group of 4 or more persons) 
 * Children under 12: FREE (one child per accompanying adult) 
 
-To sign up for this event or for more information, 
+To sign up or for more information, 
 visit [ https://kokomo-beachclub.com/ ]( https://kokomo-beachclub.com/ )
 or contact 9834 7984. 
 
