@@ -104,7 +104,8 @@ Spend in a single receipt and enjoy free items on your next visit!
 * $200 and above for a free Baby Kailan and a small Seabass dish (worth $34). 
 * For dine-in only. Redeem by showing original receipt on your next visit. Valid from 23 September 2023 till 22 October 2023. 
 
-For more information, visit https://www.rasaistimewa.sg/pasir-ris-park-menu or contact 6386 9339.  |
+For more information, visit [ https://kokomo-beachclub.com/ ]( https://kokomo-beachclub.com/ )
+or contact 6386 9339.
 
 <br>
 <br>
