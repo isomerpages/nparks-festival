@@ -116,6 +116,7 @@ or contact 6386 9339.
 
 
 ##### Singapore Botanic Gardens
+
 | Garden Shop at Tanglin Gate |
 | -------- |
 |![Garden Shop at Tanglin Gate](/images/garden%20shop%20at%20tanglin%20gate.jpg)
@@ -132,6 +133,7 @@ For more information, visit  [www.nparks.gov.sg/sbg/shop-and-dine/gardens-shops]
 
 
 ##### Woodlands Waterfront Park
+
 | Rasa Istimewa |
 | -------- |
 |![Rasa Istimewa @ Woodlands Waterfont](/images/rasa%20istimewa%20@%20waterfront.jpg)
@@ -151,6 +153,7 @@ or contact 6366 9339.
 
 
 ##### Various Parks
+
 | The Gym Pod |
 | -------- |
 |![The Gym Pod at various parks](/images/the%20gym%20pod.jpg)
