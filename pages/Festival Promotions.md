@@ -16,7 +16,9 @@ Check out the festival promotions happening at participating tenants in our park
 
 Free Caesar Salad with purchase of any main dish. Download e-voucher on Oddle Eats to redeem. 
 * Valid on 23 and 24 September 2023. 
-For more information, visit https://www.canopygardendining.com/ |
+<br>
+
+For more information, visit [https://www.canopygardendining.com/](https://www.canopygardendining.com/)
 
 <br>
 <br>
@@ -32,7 +34,7 @@ $5 off for family bike rental. 
 * Valid for 1 bike redemption per person. 
 * Valid on 23 and 24 September 2023. 
 
-For more information, visit www.coastlineleisure.com.sg   |
+For more information, visit [ www.coastlineleisure.com.sg]( www.coastlineleisure.com.sg)
 
 <br>
 <br>
@@ -46,8 +48,9 @@ For more information, visit www.coastlineleisure.com.sg   |
 Spend $80 nett at Singapore Wake Park’s Coastal Rhythm Cafe &amp; Bar between 18 and 24 September 2023 and redeem a pair of riding vouchers on the beginners riding system (System A) worth $100 ($50 x 2). 
 * Voucher is valid for use on weekdays only. Other T&amp;Cs apply.  
 
-For more information, visit www.singaporewakepark.com 
-or contact 66364266 / 97722780 (WhatsApp).    |
+For more information, visit [www.singaporewakepark.com ](www.singaporewakepark.com )
+
+or contact 66364266 / 97722780 (WhatsApp).
 
 <br>
 <br>
@@ -82,7 +85,9 @@ Fantastic opportunity for families to engage in a meaningful activity while enjo
 * Price per participant: $60 (individual), $55 (group of 2-3 persons) or $45 (group of 4 or more persons) 
 * Children under 12: FREE (one child per accompanying adult) 
 
-Sign up here or for more information, visit https://kokomo-beachclub.com/ or contact 9834 7984. 
+To sign up for this event or for more information, 
+visit [ https://kokomo-beachclub.com/ ]( https://kokomo-beachclub.com/ )
+or contact 9834 7984. 
 
 <br>
 <br>
