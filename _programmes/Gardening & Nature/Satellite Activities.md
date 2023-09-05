@@ -33,7 +33,7 @@ nparks_sbg_visitor_services@nparks.gov.sg
 
 <br>
 
-* **HortPark: The Gardening Hub Trail**<br>Join us for a short, informative tour around HortPark. Learn all about interesting plants and gardening ideas as we take you through some of our themed gardens. <br> Don't miss out on this chance to reconnect with nature and revitalize your mental and physical well-being! disappointment. <br> **2 Sessions (9am - 10am) &amp; (5pm - 6pm)** <br> Limited spots available so register early to avoid 
+* **HortPark: The Gardening Hub Trail**<br>Join us for a short, informative tour around HortPark. Learn all about interesting plants and gardening ideas as we take you through some of our themed gardens. <br> Don't miss out on this chance to reconnect with nature and revitalize your mental and physical well-being! disappointment. <br> **Saturday: 2 Sessions (9am - 10am) &amp; (5pm - 6pm)** <br> **Sunday: (9am - 10am)** <br> Limited spots available so register early to avoid 
 <br> For interest, please write in to
 nparks_hortpark@nparks.gov.sg
 
