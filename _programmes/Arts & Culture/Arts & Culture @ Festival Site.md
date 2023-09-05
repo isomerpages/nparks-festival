@@ -15,3 +15,8 @@ Come explore and understand the biodiversity in West Coast Park and making use o
 
 
 ![Wood Cookie art](/images/parks%20fest%20wood%20cookie%20art.jpg)
+
+<br>
+<br>
+
+* **Displays from Wood Sculpture Symposium 2023** <br> Check out masterfully crafted wood sculptures created during this year's Wood Sculpture Symposium. 
