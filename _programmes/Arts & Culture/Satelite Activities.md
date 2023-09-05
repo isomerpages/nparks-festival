@@ -4,6 +4,8 @@ permalink: /programmes/arts-and-culture/satellite/
 description: ""
 third_nav_title: Arts & Culture
 ---
+ ## Arts &amp; Culture
+
 ### Saturday <br>
 **23 September 2023**
 ![](/images/2%20a&amp;c_2.jpg)
@@ -11,3 +13,27 @@ third_nav_title: Arts & Culture
 ### Sunday <br>
 **24 September 2023**
 ![](/images/sun%20of%20a&amp;c.jpg)
+
+
+<br>
+
+#### More on programs at other parks!
+
+* **Singapore Botanic Gardens: Heritage Tour** <br>
+A great introduction to the history of the Singapore Botanic Gardens in a 1-hour walking tour of Heritage Trail. Learn about the moments that lead to the boom of the rubber industry and how orchids are intertwined with Singapore. <br> For interest, please write in to 
+nparks_sbg_visitor_services@nparks.gov.sg
+
+<br>
+
+* **Singapore Botanic Gardens, Gallop Extension: Guided Exhibition Tour** <br>
+The Learning Forest features a network of boardwalks and elevated walkways that allow visitors to explore habitats ranging from a freshwater forest wetland to a lowland rainforest. Visitors can learn about freshwater forest wetland ecosystems at the&nbsp;Keppel Discovery Wetlands&nbsp;and walk amongst a collection of some of the tallest tree species in Southeast Asia at the&nbsp;SPH Walk of Giants. <br> For more information, visit: https://www.nparks.gov.sg/sbg/whats-happening/calendar-of-events/guided-exhibition-tour-sep-oct-2023
+
+<br>
+
+* **Fort Canning Park: Heritage on the Hill (Guided Tour)** <br>
+Did you know that the history of Fort Canning dates back to the 14th century? Check out the ancient artefacts from the hill, and join us on a journey that highlights the changing faces of Fort Canning, from the ancient 14th century to the colonial 19th century and beyond! <br> For interest, visit this link: https://form.gov.sg/64e6fb01bab63100113af58a
+
+<br>
+
+* **Fort Canning Park: Galleries Tour (Guided Tour)** <br>
+Join us on a guided tour of the newly-opened Fort Canning Heritage Gallery, which traces the rich history of the hill and showcases the rare artefacts found here. This tour will also take you to the Spice Gallery, which looks at the history of spices and spice traders in Singapore, and is nestled in Singapore's most diverse spice garden. <br> For interest, visit this link: https://form.gov.sg/64e6fb01bab63100113af58a
