@@ -21,8 +21,7 @@ third_nav_title: Arts & Culture
 
 * **Singapore Botanic Gardens: Heritage Tour** <br>
 A great introduction to the history of the Singapore Botanic Gardens in a 1-hour walking tour of Heritage Trail. Learn about the moments that lead to the boom of the rubber industry and how orchids are intertwined with Singapore. <br> For interest, please write in to 
-nparks_sbg_visitor_services@nparks.gov.sg
-
+nparks_sbg_visitor_services@nparks.gov.sg <br>
 ![SBG Heritage Tour](/images/sbg%20heritage%20tour.PNG)
 
 <br>
