@@ -11,8 +11,11 @@ third_nav_title: Sports & Wellness
 
 ![Sports &amp; Wellness_OF_Saturday](/images/sports%20&amp;%20wellness_of.jpg)
 <br>
-<br>
+#### Sunday <br>
+**24 September 2023**
 
+
+<br>
 
 #### More on activities happening at other parks!
 <br>
@@ -32,3 +35,6 @@ Join us for a tour at the KPMG Wellness Garden, a first-of-its-kind multigenerat
 The Therapeutic Horticulture Programme uses plants and nature related activities to maximise the benefits of a therapeutic garden. With growing interest in the benefits of therapeutic gardens and therapeutic horticulture, we have developed a series of workshops which are suitable for elderly groups, persons with dementia and other special needs. <br>
 To sign up, visit: https://form.gov.sg/64e5bc3e38e2750012ea17aa
 
+
+* **Hong Kah North: Therapeutic Garden Walk and Therapeutic Horticultuture activities** <br>
+The Therapeutic Horticulture Programme uses plants and nature related activities to maximise the benefits of a therapeutic garden. With growing interest in the benefits of therapeutic gardens and therapeutic horticulture, we have developed a series of workshops which are suitable for elderly groups, persons with dementia and other special needs. <br> To sign up, visit: https://form.gov.sg/64ba39c9f4b0b50011197ad0
