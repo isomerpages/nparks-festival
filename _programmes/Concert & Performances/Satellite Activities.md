@@ -16,6 +16,8 @@ third_nav_title: Concert & Performances
 **6pm - 7pm** <br>
 The Australian Youth Band (AYB), a group of 50 young musicians from Melbourne, Australia, is proud to be presenting a symphonic performance at the UNESCO World Heritage Site Singapore Botanic Gardens during the band’s Singapore Concert Tour.
 
+![Australian Youth Band](/images/australian%20youth%20band.PNG)
+
 
 <br>
 
