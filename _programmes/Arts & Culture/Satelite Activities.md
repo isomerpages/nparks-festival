@@ -26,8 +26,9 @@ nparks_sbg_visitor_services@nparks.gov.sg <br>
 
 <br>
 
-* **Singapore Botanic Gardens, Gallop Extension: Guided Exhibition Tour** <br>
-The Learning Forest features a network of boardwalks and elevated walkways that allow visitors to explore habitats ranging from a freshwater forest wetland to a lowland rainforest. Visitors can learn about freshwater forest wetland ecosystems at the&nbsp;Keppel Discovery Wetlands&nbsp;and walk amongst a collection of some of the tallest tree species in Southeast Asia at the&nbsp;SPH Walk of Giants. <br> For more information, visit: https://www.nparks.gov.sg/sbg/whats-happening/calendar-of-events/guided-exhibition-tour-sep-oct-2023
+* **Singapore Botanic Gardens, Gallop Extension: Guided Exhibition Tour** <br> Visitors can see a selection of the Singapore Botanic Gardens’ collection that includes more than 2,000 botanical paintings, as well as hundreds of sketches, line drawings and photographs. The display showcases various art forms, from original watercolours and ink drawings to prints and printing blocks. The gallery highlights the vital role that art plays in the scientific documentation of plants in Singapore and the region, as well as how art can inspire renewed appreciation of the natural world around us.
+ <br> For more information, visit: https://www.nparks.gov.sg/sbg/whats-happening/calendar-of-events/guided-exhibition-tour-sep-oct-2023 <br> 
+ ![SBG Gallop Extension Gallery](/images/gallop%20extension%20gallery.PNG)
 
 <br>
 
