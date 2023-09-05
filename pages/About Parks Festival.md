@@ -5,6 +5,8 @@ description: ""
 ---
 ![2019 montage](/images/pf%202019%20montage.jpeg)
 
+**#SGParksFest**
+
 Since its inception in 2016, the 2-day annual Parks Festival event is a celebration and cumulation of NParks signature programmes and activities offered in our parks and green spaces throughout Singapore.
 
 With the tagline ‘Parks for Everyone’, Parks Festival invites one and all to partake in the wide range of offerings – engage in art and craft activities, enjoy live performances in our parks, pick up gardening tips, learn more about Singapore’s flora and fauna and its natural heritage, learn how to take better care of your pets, keep fit and healthy with wellness programmes or even shop for gifts for your loved ones at home. There is something for everyone!
@@ -23,4 +25,4 @@ Explore this website to learn more about the programmes offered at the event, as
 
 
 
-**#SGParksFest**
+![Acknowledgements](/images/acknowledgements.png)
