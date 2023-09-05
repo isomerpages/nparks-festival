@@ -64,7 +64,18 @@ https://form.gov.sg/649e7f8ee87a87001342c763
 
 <br>
 
+* **HortPark: The Gardening Hub Trail**<br> Join us for a short, informative tour around HortPark. Learn all about interesting plants and gardening ideas as we take you through some of our themed gardens. Don't miss out on this chance to reconnect with nature and revitalize your mental and physical well-being! Limited spots available so register early to avoid disappointment. <br> <br> For interest, please write in to nparks_hortpark@nparks.gov.sg
 
+<br>
+
+* **Nature Appreciation @ Rifle Range Nature Park**<br>Join us for a free guided walk at Rifle Range Nature Park to learn more about our rich biodiversity and the animal crossing features such as rope bridges and colugo poles. <br> For interest, please write in to Fadzleen_ARRIFFIN@nparks.gov.sg
+
+<br>
+
+* **Trees of the Fort @ Fort Canning Park**<br>Did you know that a Kapok tree can grow up to 40 metres high? Let our nature-loving guides bring you on a journey to find out more about our heritage trees and other beautiful trees like the Kapok, flaky Gelam and magnificent Madras Thorn! <br> For interest, visit the link here: https://form.gov.sg/64e6fb01bab63100113af58a 
+<br>
+
+<br>
 
 <br>
 <br>
