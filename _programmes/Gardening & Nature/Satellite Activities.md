@@ -33,8 +33,14 @@ nparks_sbg_visitor_services@nparks.gov.sg
 
 <br>
 
+* **HortPark: The Gardening Hub Trail**<br>Join us for a short, informative tour around HortPark. Learn all about interesting plants and gardening ideas as we take you through some of our themed gardens. <br> Don't miss out on this chance to reconnect with nature and revitalize your mental and physical well-being! Limited spots available so register early to avoid disappointment. <br> For interest, please write in to
+nparks_hortpark@nparks.gov.sg
 
+<br>
+
+* **Ecolife @ Bishan-Ang Mo Kio Hub**<br>This family tour introduces Bishan-Ang Mo Kio Park and its biodiversity through the use of interactive exploration themes and activities. Have fun working together to answer worksheets, conduct surveys and photo hunts, among other activities. <br> For interest, For interest, please write in to pauline_tan@nparks.gov.sg
+
+<br>
 
 <br>
 <br>
-
