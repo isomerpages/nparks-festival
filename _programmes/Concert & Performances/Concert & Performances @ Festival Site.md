@@ -16,7 +16,10 @@ Celebrate the weekend by partying with us at NParks Concert Series in the Parks:
 Singapore Kindness Movement - Singapore and the Kindness Cubbies, K-I-N-D-ness Dance**<br>
 ![Kindness Cubbies](/images/pxl_20230716_085058241.jpg)
 
+<br>
 
 * **23 September 2023, 6.30pm - late | West Coast Park <br>
 NParks Concert Series in the Parks: Rockestra®**
-![Concert Series in the Park: Rockestra](/images/rockestra.jpg) <br>
+![Concert Series in the Park: Rockestra](/images/rockestra.jpg) <br> Party the night away at West Coast Park to the hits of the millennium! Local acts 53A, Jukulele, and Supersonic will be energising the stage together with host Justin Misson amping out the crowd. 
+Sing along to your favourite tunes from Backstreet Boys, Britney Spears, Ricky Martin, Foo Fighters, Jennifer Lopez and the likes!
+Soak in the atmosphere and groove down to party beats like it was 1999! 
