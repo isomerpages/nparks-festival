@@ -33,7 +33,8 @@ nparks_sbg_visitor_services@nparks.gov.sg
 
 <br>
 
-* **HortPark: The Gardening Hub Trail**<br>Join us for a short, informative tour around HortPark. Learn all about interesting plants and gardening ideas as we take you through some of our themed gardens. <br> Don't miss out on this chance to reconnect with nature and revitalize your mental and physical well-being! Limited spots available so register early to avoid disappointment. <br> For interest, please write in to
+* **HortPark: The Gardening Hub Trail**<br>Join us for a short, informative tour around HortPark. Learn all about interesting plants and gardening ideas as we take you through some of our themed gardens. <br> Don't miss out on this chance to reconnect with nature and revitalize your mental and physical well-being! disappointment. <br> **2 Sessions (9am - 10am) &amp; (5pm - 6pm)** <br> Limited spots available so register early to avoid 
+<br> For interest, please write in to
 nparks_hortpark@nparks.gov.sg
 
 <br>
@@ -48,6 +49,22 @@ https://form.gov.sg/649e7f8ee87a87001342c763
 <br>
 
 * **Coney Island Ecolife Guide Tour**<br>The 80-hectare Coney Island Park houses a wide variety of habitats, including coastal forests, grasslands, mangroves, and Casuarina woodlands. It is home to a wide variety of fauna and flora, some of which are critically endangered. Come follow our volunteer guide to find out more and learn more about the interesting history of the island!This walk is not recommended for young children without supervision. Participants are advised to wear comfortable walking shoes and exercise caution when walking. <br> For interest, please write in to NG_Daniel_Ch@nparks.gov.sg
+
+<br>
+
+* **Fun Walk along The Southern Ridges**<br>Take your family on a leisure stroll through southern ridges, a soothing sanctuary of greenery that is not only steeped in history but also home to some of Singapore's most exciting flora and fauna. Highlights of the tour included the Henderson Waves, Sembcorp Forest of the Giants, Forest Walk and the Singing Forest. <br> For interest, please write in to elaine_poon@nparks.gov.sg
+
+<br>
+
+* **Sungei Buloh Wetland Reserve: What's in my Mangroves**<br>Join us for a guided walk of this unique mangrove wetlands located at the border of freshwater (river) and salt water (sea). Singapore used to have large areas of mangroves, but lost most of them to coastal development. Few mangroves are left in Singapore, one of which is at Sungei Buloh Wetland Reserve. <br><br> Registration for this walk opens on 15 September 2023 (Friday). For interest, please write in to nparks_sbwr@nparks.gov.sg
+
+<br>
+
+* **Nature Appreciation @ Bukit Timah Nature Reserve**<br> Experience nature in its pristine form at Bukit Timah Nature Reserve, which is a mere 12 km from the bustling city centre. Join us for a Guided Nature Appreciation Walk to find out more about the flora &amp; fauna that can be found in the reserve! <br> For interest, please write in to Fadzleen_ARRIFFIN@nparks.gov.sg
+
+<br>
+
+
 
 <br>
 <br>
