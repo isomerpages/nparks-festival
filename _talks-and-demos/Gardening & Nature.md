@@ -8,7 +8,8 @@ description: ""
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
-| 1pm | Plant Care &amp; Styling  |  Leo Tay  |
+| 10am | Pot-a-plant! | Edible Garden City |
+| 11am | Companion Planting as Pest Management | Nagip Elimad |
 | 2pm | Moss Preservation &amp; Terrarium Care  |  Arnold Kokezen  |
 
 
@@ -26,6 +27,21 @@ description: ""
 
 
 #### More on the Talks!
+
+* **Pot-a-plant! by Edible Garden City**
+<br>Come pot a plant to take home with you and start your edible growing journey! 
+<br> - Learn how to pot a cutting
+<br> - Get tips to nurture it into a productive plant for fresh harvest to add to your meals
+<br> - Did you know that tending to your plant can be very therapeutic and good for mental well-being?
+<br> - Kids who learn about growing their own food waste less food and this is taking a step towards contributing to food resiliency and sustainability!
+
+
+<br>
+
+* **Companion Planting as Pest Management by Nagib Elimad**
+<br>Companion planting is a sustainable and ecologically friendly gardening technique that harnesses the natural relationships between plants to enhance crop health and minimise pest damage. City Sprouts currently adopts this method in our community gardens of strategically planting different plants in close proximity to one another to promote mutually beneficial interactions that deter pests, improve soil quality, and optimise overall yields. By taking advantage of the chemical, physical, and biological properties of various plants, gardeners can effectively reduce the need for synthetic pesticides and create a more harmonious and self-sustaining growing environment.
+
+<br>
 
 * **Mushroom World Academy by Liam Lee**
 <br>Learn all about mushrooms, how they can be harnessed to provide environmental benefits and contribute to ecological well-being. Join this talk and jump start your mushroom growing journey now!
