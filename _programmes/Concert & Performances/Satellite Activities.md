@@ -7,4 +7,21 @@ third_nav_title: Concert & Performances
 #### Saturday
 **23 September 2023**
 
-![Concerts & Performances at satellite locations](/images/c&p_sat%20of.jpg)
+![Concerts &amp; Performances at satellite locations](/images/c&amp;p_sat%20of.jpg)
+
+<br>
+
+* **Australian Youth Band in Concert** <br>
+**Shawn Foundation Symphony Stage, Singapore Botanic Gardens**
+**6pm - 7pm**
+
+[insert text]
+
+
+<br>
+
+* **Singapore Chinese Orchestra Performance at Jurong Lake Gardens**
+**6pm - 8pm**
+
+
+Singapore Chinese Orchestra (SCO) makes its way to Wave Plaza at Jurong Lake Gardens this September! Ride the waves of music with your family and friends as you enjoy the evening breeze and unwind to popular tunes overlooking the green oasis. 
