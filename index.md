@@ -22,6 +22,7 @@ sections:
           description: How to get to West Coast Park
           url: /visit
       background: /images/5 categories_2208_2.png
+      title: Parks For Everyone
   - infobar:
       title: "#SGParksFest"
       subtitle: Share your experience
