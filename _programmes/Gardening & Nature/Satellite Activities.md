@@ -61,7 +61,7 @@ https://form.gov.sg/649e7f8ee87a87001342c763
 
 <br>
 
-* **Fun Walk along The Southern Ridges**<br>Take your family on a leisure stroll through southern ridges, a soothing sanctuary of greenery that is not only steeped in history but also home to some of Singapore's most exciting flora and fauna. Highlights of the tour included the Henderson Waves, Sembcorp Forest of the Giants, Forest Walk and the Singing Forest. <br> For interest, please write in to elaine_poon@nparks.gov.sg
+* **Fun Walk along The Southern Ridges**<br>Take your family on a leisure stroll through southern ridges, a soothing sanctuary of greenery that is not only steeped in history but also home to some of Singapore's most exciting flora and fauna. Highlights of the tour included the Henderson Waves, Sembcorp Forest of the Giants, Forest Walk and the Singing Forest. <br> For interest, please write in to elaine_poon@nparks.gov.sg <br> ![Walking along Southern Ridges](/images/bird%20watching%20along%20the%20southern%20ridges%20cropped.jpg)
 
 <br>
 
