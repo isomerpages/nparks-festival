@@ -23,7 +23,6 @@ A great opportunity to learn about the benefits of therapeutic gardening and con
 <br>
 
 * **Conservation: Wildlife Kaleidoscope**  
-Learn more about the habitats and diverse biodiversity we have at Bukit Timah Nature Reserve , Pulau Ubin and Sungei Buloh Wetland Reserve. Our aim is to educate and empower individuals to be custodians of our protected areas and to help mitigate conflict and foster human-wildlife coexistence. The activity space will comprise of craftwork and mini quizzes to spur children’s interest and love for nature.
+Learn more about the habitats and diverse biodiversity we have at Bukit Timah Nature Reserve , Pulau Ubin and Sungei Buloh Wetland Reserve. Our aim is to educate and empower individuals to be custodians of our protected areas and to help mitigate conflict and foster safe and responsible human-wildlife encounters. The activity space will comprise of craftwork and mini quizzes to spur children’s interest and love for nature.
 
 <br>
-
