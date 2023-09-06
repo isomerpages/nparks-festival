@@ -62,19 +62,18 @@ For interest, please write in to:
 
 <br>
 
-* **Fun Walk along The Southern Ridges**<br>Take your family on a leisure stroll through southern ridges, a soothing sanctuary of greenery that is not only steeped in history but also home to some of Singapore's most exciting flora and fauna. Highlights of the tour included the Henderson Waves, Sembcorp Forest of the Giants, Forest Walk and the Singing Forest. <br> For interest, please write in to elaine_poon@nparks.gov.sg[NG_Daniel_Ch@nparks.gov.sg](NG_Daniel_Ch@nparks.gov.sg) <br> ![Walking along Southern Ridges](/images/bird%20watching%20along%20the%20southern%20ridges%20cropped.jpg)
+* **Fun Walk along The Southern Ridges**<br>Take your family on a leisure stroll through southern ridges, a soothing sanctuary of greenery that is not only steeped in history but also home to some of Singapore's most exciting flora and fauna. Highlights of the tour included the Henderson Waves, Sembcorp Forest of the Giants, Forest Walk and the Singing Forest. <br> For interest, please write in to [elaine_poon@nparks.gov.sg](elaine_poon@nparks.gov.sg)<br> ![Walking along Southern Ridges](/images/bird%20watching%20along%20the%20southern%20ridges%20cropped.jpg)
 
 <br>
 
-* **Sungei Buloh Wetland Reserve: What's in my Mangroves**<br>Join us for a guided walk of this unique mangrove wetlands located at the border of freshwater (river) and salt water (sea). Singapore used to have large areas of mangroves, but lost most of them to coastal development. Few mangroves are left in Singapore, one of which is at Sungei Buloh Wetland Reserve. <br><br> Registration for this walk opens on 15 September 2023 (Friday). For interest, please write in to nparks_sbwr@nparks.gov.sg
+* **Sungei Buloh Wetland Reserve: What's in my Mangroves**<br>Join us for a guided walk of this unique mangrove wetlands located at the border of freshwater (river) and salt water (sea). Singapore used to have large areas of mangroves, but lost most of them to coastal development. Few mangroves are left in Singapore, one of which is at Sungei Buloh Wetland Reserve. <br><br> Registration for this walk opens on 15 September 2023 (Friday). For interest, please write in to [nparks_sbwr@nparks.gov.sg](nparks_sbwr@nparks.gov.sg)
 
 <br>
 
-* **Nature Appreciation @ Bukit Timah Nature Reserve**<br> Experience nature in its pristine form at Bukit Timah Nature Reserve, which is a mere 12 km from the bustling city centre. Join us for a Guided Nature Appreciation Walk to find out more about the flora &amp; fauna that can be found in the reserve! <br> For interest, please write in to Fadzleen_ARRIFFIN@nparks.gov.sg
-
+* **Nature Appreciation @ Bukit Timah Nature Reserve**<br> Experience nature in its pristine form at Bukit Timah Nature Reserve, which is a mere 12 km from the bustling city centre. Join us for a Guided Nature Appreciation Walk to find out more about the flora &amp; fauna that can be found in the reserve! <br> For interest, please write in to [Fadzleen_ARRIFFIN@nparks.gov.sg](Fadzleen_ARRIFFIN@nparks.gov.sg)
 <br>
 
-* **HortPark: The Gardening Hub Trail**<br> Join us for a short, informative tour around HortPark. Learn all about interesting plants and gardening ideas as we take you through some of our themed gardens. Don't miss out on this chance to reconnect with nature and revitalize your mental and physical well-being! Limited spots available so register early to avoid disappointment. <br> <br> For interest, please write in v.
+* **HortPark: The Gardening Hub Trail**<br> Join us for a short, informative tour around HortPark. Learn all about interesting plants and gardening ideas as we take you through some of our themed gardens. Don't miss out on this chance to reconnect with nature and revitalize your mental and physical well-being! Limited spots available so register early to avoid disappointment. <br> <br> For interest, please write in to [nparks_hortpark@nparks.gov.sg](nparks_hortpark@nparks.gov.sg)
 <br>
 
 * **Nature Appreciation @ Rifle Range Nature Park**<br>Join us for a free guided walk at Rifle Range Nature Park to learn more about our rich biodiversity and the animal crossing features such as rope bridges and colugo poles. <br> For interest, please write in to [Fadzleen_ARRIFFIN@nparks.gov.sg](Fadzleen_ARRIFFIN@nparks.gov.sg)
