@@ -42,13 +42,12 @@ For interest, please write in to:
 
 <br>
 
-* **Ecolife @ Bishan-Ang Mo Kio Hub**<br>This family tour introduces Bishan-Ang Mo Kio Park and its biodiversity through the use of interactive exploration themes and activities. Have fun working together to answer worksheets, conduct surveys and photo hunts, among other activities. <br> For interest, please write in to pauline_tan@nparks.gov.sg <br>
+* **Ecolife @ Bishan-Ang Mo Kio Hub**<br>This family tour introduces Bishan-Ang Mo Kio Park and its biodiversity through the use of interactive exploration themes and activities. Have fun working together to answer worksheets, conduct surveys and photo hunts, among other activities. <br> For interest, please write in to [pauline_tan@nparks.gov.sg](pauline_tan@nparks.gov.sg) <br>
 ![Ecolife](/images/ecolife%202.jpg)
 
 <br>
 
-* **Horticulture Maintenance**<br> Be involved in landscape maintenance at Bishan-Ang Mo Kio Park and pick up basic gardening skills like weeding, mulching, pruning, and planting. <br> Volunteer with us via this link https://www.volunteer.gov.sg/volunteer/opportunity/details/?id=9e6c28ac-8a15-ee11-aa0b-e89696cf9565
-![Horticulture Maintenance at Bishan-Ang Mo Kio Park](/images/horticulture%20maintenance%20-%20bamkp.PNG)
+* **Horticulture Maintenance**<br> Be involved in landscape maintenance at Bishan-Ang Mo Kio Park and pick up basic gardening skills like weeding, mulching, pruning, and planting. <br> Volunteer with us via this link: [https://www.volunteer.gov.sg/volunteer/opportunity/details/?id=9e6c28ac-8a15-ee11-aa0b-e89696cf9565](https://www.volunteer.gov.sg/volunteer/opportunity/details/?id=9e6c28ac-8a15-ee11-aa0b-e89696cf9565)![Horticulture Maintenance at Bishan-Ang Mo Kio Park](/images/horticulture%20maintenance%20-%20bamkp.PNG)
 
 
 <br>
