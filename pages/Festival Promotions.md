@@ -165,3 +165,11 @@ Use code: NPARKSFESTIVAL23 on The Gym Pod App to redeem.
 
 For outlet locations in the parks, visit [https://www.thegympod.com/locations/ ](https://www.thegympod.com/locations/ )  
 or contact support@thegympod.com for enquiries.
+
+
+
+### Giveaways
+
+| Yeo's |
+| -------- |
+Commemorate Mr. Lee Kuan Yew’s centenary with limited edition Yeo’s Chrysanthemum Tea giveaway pack, complimentary to public.

@@ -8,7 +8,6 @@ permalink: /
 notification: Rockestra® happening on 23rd Sept (Sat). Stay tuned for more content updates!
 sections:
   - hero:
-      title: Parks For Everyone!
       subtitle: NParks' Parks Festival 2023 | 23rd & 24th September
       button: Whats On?
       url: /whats-on/
