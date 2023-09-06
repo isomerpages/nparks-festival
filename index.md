@@ -5,7 +5,7 @@ description: Parks Festival celebrates NParks’ signature programmes and
   activities that are offered in our parks and nature spaces in Singapore.
 image: /images/park festival event id.png
 permalink: /
-notification: Rockestra® happening on 23rd Sept (Sat). Stay tuned for more content updates!
+notification: Event will be held on 23rd and 24th September. Check out the programs below!
 sections:
   - hero:
       subtitle: NParks' Parks Festival 2023 | 23rd & 24th September
