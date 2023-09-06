@@ -24,7 +24,7 @@ For interest, please write in to: JurongLakeGardens@nparks.gov.sg
 
 <br>
 
-* **Hindhede Nature Park: Coco &amp; Friends**<br> Coco and Friends” is a programme by National Parks Board and HSBC Singapore aiming to promote more understanding and awareness of some of our native biodiversity found in our forests. <br> Through the eyes of Coco the Malayan Colugo, children will embark on a nature adventure learning about Coco and his forest friends, and about the plants that are useful to both Man and animals.<br> For interest, write in to:
+* **Hindhede Nature Park: Coco &amp; Friends**<br> Coco and Friends” is a programme by National Parks Board and HSBC Singapore aiming to promote more understanding and awareness of some of our native biodiversity found in our forests. <br> Through the eyes of Coco the Malayan Colugo, children will embark on a nature adventure learning about Coco and his forest friends, and about the plants that are useful to both Man and animals.<br> For interest, visit this link: https://www.nparks.gov.sg/activities/events-and-workshops/2023/9/cn_coco-and-friends-23-sept-2023
 
 <br> ![](/images/coco%20&amp;%20friends.png)
 <br>
