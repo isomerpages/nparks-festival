@@ -41,7 +41,8 @@ nparks_hortpark@nparks.gov.sg
 
 <br>
 
-* **Ecolife @ Bishan-Ang Mo Kio Hub**<br>This family tour introduces Bishan-Ang Mo Kio Park and its biodiversity through the use of interactive exploration themes and activities. Have fun working together to answer worksheets, conduct surveys and photo hunts, among other activities. <br> For interest, please write in to pauline_tan@nparks.gov.sg
+* **Ecolife @ Bishan-Ang Mo Kio Hub**<br>This family tour introduces Bishan-Ang Mo Kio Park and its biodiversity through the use of interactive exploration themes and activities. Have fun working together to answer worksheets, conduct surveys and photo hunts, among other activities. <br> For interest, please write in to pauline_tan@nparks.gov.sg <br>
+![Ecolife](/images/ecolife%202.jpg)
 
 <br>
 
