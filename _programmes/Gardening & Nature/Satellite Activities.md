@@ -53,9 +53,8 @@ For interest, please write in to:
 
 <br>
 
-* **Pasir Ris Park: Mangrove Tour**<br>Led by our experienced guides, this guided walks allows you to get up and close with the local residents of the mangrove while walking on the boardwalk. Keep your eyes peeled for Grey Herons taking flight, Giant Mudskippers trying to blend in with the environment, or Vinegar Crabs climbing up trees. Learn about the different root systems of the hardy mangrove trees in the mangrove forest at Pasir Ris Park, one of the last few mangrove forests in Singapore. <br> For interest, please sign up via the link:
-[https://form.gov.sg/649e7f8ee87a87001342c763](https://form.gov.sg/649e7f8ee87a87001342c763)
-
+* **Pasir Ris Park: Mangrove Tour**<br>Led by our experienced guides, this guided walks allows you to get up and close with the local residents of the mangrove while walking on the boardwalk. Keep your eyes peeled for Grey Herons taking flight, Giant Mudskippers trying to blend in with the environment, or Vinegar Crabs climbing up trees. Learn about the different root systems of the hardy mangrove trees in the mangrove forest at Pasir Ris Park, one of the last few mangrove forests in Singapore. <br> For interest, please write in to:
+[sheryl_lim@nparks.gov.sg](sheryl_lim@nparks.gov.sg)
 <br>
 
 * **Coney Island Ecolife Guide Tour**<br>The 80-hectare Coney Island Park houses a wide variety of habitats, including coastal forests, grasslands, mangroves, and Casuarina woodlands. It is home to a wide variety of fauna and flora, some of which are critically endangered. Come follow our volunteer guide to find out more and learn more about the interesting history of the island!This walk is not recommended for young children without supervision. Participants are advised to wear comfortable walking shoes and exercise caution when walking. <br> For interest, please write in to [NG_Daniel_Ch@nparks.gov.sg](NG_Daniel_Ch@nparks.gov.sg)
