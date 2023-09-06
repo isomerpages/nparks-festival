@@ -35,8 +35,4 @@ Learn about Singapore’s natural heritage, and citizen science programmes that 
 <br>
 
 * **City Sprouts - Workshops in Garden Dome and Farmer's Stories Exhibition**  
-Known for urban and community, City Sprouts rejuvenate urban spaces and develop educational programs, bringing together socially-minded individuals and businesses to create communities that inform, educate and support action on social and environmental issues.
-
-City sprouts brings in their showcase of community farmers' stories and conducts workshops at the Garden Dome. Be inspired by the stories of local urban farmers and get a hands-on experience at planting and understanding the importance &amp; benefits of edible gardening. Workshops in the dome are chargeable.
-
-
+Known for urban and community, City Sprouts rejuvenate urban spaces and develop educational programs, bringing together socially-minded individuals and businesses to create communities that inform, educate and support action on social and environmental issues. <br> City sprouts brings in their showcase of community farmers' stories and conducts workshops at the Garden Dome. Be inspired by the stories of local urban farmers and get a hands-on experience at planting and understanding the importance &amp; benefits of edible gardening. Workshops in the dome are chargeable.
