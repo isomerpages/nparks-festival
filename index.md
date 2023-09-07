@@ -25,10 +25,12 @@ sections:
       title: Parks For Everyone
   - infopic:
       title: Parks Festival 2023
-      button: About the event
+      button: Find out more
       url: /about
       image: /images/5 categories_2208_2.png
       alt: Programs at Parks Festival
+      subtitle: "Parks Festival is back! "
+      description: A kaleidoscope of programs awaits!
   - infobar:
       title: "#SGParksFest"
       subtitle: Share your experience

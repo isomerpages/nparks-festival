@@ -19,7 +19,7 @@ To all pet lovers - learn about being a responsible pet owner, and meet our furr
 
 <br>
 
-* **Adoption Drive by Animal Welfare Groups** <br> Learn about responsible pet ownership and consider adoption before purchasing. Featuring various types of animals up for adoption and merchandise booths, the Adoption Drive aims to fund raise the rescue efforts of our Animal Welfare Group partners (AW and encourage the re-homing of shelter animals.
+* **Adoption Drive by Animal Welfare Groups** <br> Learn about responsible pet ownership and consider adoption before purchasing. Featuring various types of animals up for adoption and merchandise booths, the Adoption Drive aims to fund raise the rescue efforts of our Animal Welfare Group partners (AWG) and encourage the re-homing of shelter animals.
 
 <br>
 
