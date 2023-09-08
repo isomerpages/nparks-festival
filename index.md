@@ -17,7 +17,7 @@ sections:
           url: /whats-on
         - title: Talks & Demos
           description: Learn new skills
-          url: /talks-and-demos/
+          url: /talks-and-demos/gardening-and-nature/
         - title: Getting here
           description: How to get to West Coast Park
           url: /visit
