@@ -8,14 +8,14 @@ We are excited to bring you a series of talks and demo programmes featuring expe
 
 <br>
 
-[photo montage]
+
 
 <br>
 
 
 | Gardening &amp; Nature | 
 | -------- |
-| Text     |
+| The gardening and nature talks are designed to help you get the most out of your green spaces, whether you have a small balcony or a sprawling backyard. You'll learn how to grow and harvest your own fruits, vegetables, and herbs. Our expert speakers will share tips on how to choose the right plants for your space, how to care for them, and how to harvest them with sustainable planting, which focuses on using environmentally-friendly practices to create beautiful and healthy gardens.
 
 <br>
 
