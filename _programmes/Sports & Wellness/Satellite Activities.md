@@ -9,7 +9,7 @@ third_nav_title: Sports & Wellness
 
 <br>
 
-
+![Sports &amp; Wellness Satellite on Sat](/images/10_s&amp;w_satellite.jpg)
 
 <br>
 
