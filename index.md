@@ -12,12 +12,12 @@ sections:
       button: Whats On?
       url: /whats-on/
       key_highlights:
-        - title: About Parks Festival
-          description: Established since 2016
-          url: /about
         - title: Programmes
           description: Plan your festival activities
           url: /whats-on
+        - title: Talks & Demos
+          description: Learn new skills
+          url: /talks-and-demos/
         - title: Getting here
           description: How to get to West Coast Park
           url: /visit
@@ -29,7 +29,7 @@ sections:
       url: /about
       image: /images/5 categories_2208_2.png
       alt: Programs at Parks Festival
-      subtitle: "Parks Festival is back! "
+      subtitle: Parks Festival is back!
       description: A kaleidoscope of programs awaits!
   - infobar:
       title: "#SGParksFest"
