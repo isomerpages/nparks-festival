@@ -8,7 +8,6 @@ permalink: /
 notification: Event will be held on 23rd and 24th September. Check out the programs below!
 sections:
   - hero:
-      subtitle: NParks' Parks Festival 2023 | 23rd & 24th September
       button: Whats On?
       url: /whats-on/
       key_highlights:
@@ -21,8 +20,6 @@ sections:
         - title: Getting here
           description: How to get to West Coast Park
           url: /visit
-      background: /images/5 categories_2208_2.png
-      title: Parks For Everyone
   - infopic:
       title: Parks Festival 2023
       button: Find out more
