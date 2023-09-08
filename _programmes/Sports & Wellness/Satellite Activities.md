@@ -7,12 +7,17 @@ third_nav_title: Sports & Wellness
 #### Saturday <br>
 **23 September 2023**
 
-
-
-![Sports &amp; Wellness_OF_Saturday](/images/sports%20&amp;%20wellness_of.jpg)
 <br>
+
+
+
+<br>
+
 #### Sunday <br>
 **24 September 2023**
+
+<br>
+
 
 
 <br>
