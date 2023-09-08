@@ -12,13 +12,12 @@ Embrace a journey of health, happiness, and unforgettable memories and join us i
 **23 &amp; 24 September 2023**
 
 
-![Sports &amp; Wellness at Festival Site](/images/sports%20&amp;%20wellness%20at%20festival%20site.jpg)
 
 <br>
 <br>
 
+![Sports &amp; Wellness Onsite](/images/9_s&amp;w_os.jpg)
 
-* **NParks Explore a Route Mobile Application** <br> Active Family is an integrated programme that focuses on fundamental movement skills development and promotes bonding between parent and child (4 to 12 years old) through a variety of physical activities, and physical and health education.
 
 <br>
 
@@ -28,7 +27,7 @@ An interactive check-in with the members of the public, which helps them to unde
 
 <br>
 
-* **Active Family by Health Promotion Board** <br> Active Family is an integrated programme that focuses on fundamental movement skills development and promotes bonding between parent and child (4 to 12 years old) through a variety of physical activities, and physical and health education.
+* **Active Family by Health Promotion Board** <br> Active Family is an integrated programme that focuses on fundamental movement skills development and promotes bonding between parent and child (4 to 12 years old) through a variety of physical activities, and physical and health education. Join us for frisbee games and NERF shootout challenges!
 
 ![Active Family Poster](/images/afp%20image.png)
 
