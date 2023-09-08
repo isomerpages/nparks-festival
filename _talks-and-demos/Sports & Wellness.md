@@ -54,3 +54,5 @@ description: ""
 * **#JalanKakis - Wellness and Positivity through walks by Iman Samsi**
 <br>#JalanKakis is a program that promotes positivity and mental wellness through walking and hiking in the parks. The program encourages individuals to explore Singapore's beautiful parks and nature reserves while engaging in physical activity. Participants can join guided walks or organize their own hikes with friends and family. By connecting with nature and engaging in physical activity, #JalanKakis aims to improve mental health and overall well-being. Join Iman Samsi in sharing his walks with fellow peers!
 <br>
+
+![#JalanKakis Walks](/images/img_2026.jpg)
