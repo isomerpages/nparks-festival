@@ -27,7 +27,7 @@ To all pet lovers - learn about being a responsible pet owner, and meet our furr
 
 <br>
 
-* **Chat with a Vet** <br> Make an appointment with our vets at the festival! Aiming to educate pet owners on preventive pet&nbsp;care and inculcate the importance of routine&nbsp;veterinary care for pets,&nbsp;Pet owners can seek advice from the vets on pet-related issues.
+* **Chat with a Vet** <br> Come meet our vets at the festival! Aiming to educate pet owners on preventive pet&nbsp;care and inculcate the importance of routine&nbsp;veterinary care for pets,&nbsp;pet owners can seek advice from the vets on pet-related issues.
 
 <br>
 
