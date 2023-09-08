@@ -20,7 +20,7 @@ sections:
         - title: Getting here
           description: How to get to West Coast Park
           url: /visit
-      background: /images/pf for isomer 2.png
+      background: /images/pf for isomer2.png
   - infopic:
       title: Parks Festival 2023
       button: Find out more
