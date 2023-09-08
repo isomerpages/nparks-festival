@@ -18,7 +18,7 @@ third_nav_title: Sports & Wellness
 
 <br>
 
-
+![Sports &amp; Wellness Satellite Sun](/images/10_2%20s&amp;w.jpg)
 
 <br>
 
