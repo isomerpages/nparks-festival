@@ -8,8 +8,8 @@ To all pet lovers - learn about being a responsible pet owner, and meet our furr
 
 
 
-#### Saturday <br>
-**23 September 2023**
+#### Saturday &amp; Sunday <br>
+**23 &amp; 24 September 2023**
 
 
 ![Pets &amp; Wildlife at Festival Site](/images/pets%20&amp;%20wildlife_os.jpg)
