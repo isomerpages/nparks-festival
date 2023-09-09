@@ -7,6 +7,12 @@ third_nav_title: Gardening & Nature
 For the rookie nature and wildlife lover, learn about our green spaces and rich biodiversity. <br>
 Witness Singapore’s nature heritage and join in the guided walks and forest tours at the satellite locations! 
 
+<br>
+
+#### Saturday &amp; Sunday <br>
+**23 &amp; 24 September 2023**
+
+
 ![Gardening &amp; Nature Onsite](/images/6_1%20g&amp;n.jpg)
 
 
