@@ -14,12 +14,11 @@ Explore wooden sculptures crafted by skilled artists from this year’s wood-scu
 
 <br>
 
-
-
-| Column 1 |
+| 10am - 5pm |
 | -------- |
 | Parks South West: Upcycled Wood Cookie Ornament Painting    | 
 | Sculpture Displays from Wood Sculpture Society |
+|
 
 
 
