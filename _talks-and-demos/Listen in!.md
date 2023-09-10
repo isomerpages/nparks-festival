@@ -21,12 +21,13 @@ We are excited to bring you a series of talks and demonstration programmes featu
 
 |[Pets &amp; Wildlife](/talks-and-demos/pets-and-wildlife/) | 
 | -------- |
-| Text     |
+| Our Pets &amp; Wildlife talks are designed to help you better understand and care for the animals in your life, whether they're pets or wildlife that you encounter in our parks. Learn about the importance of providing proper care and attention to your pets. Pick up on methods to better communicate with your pets and respond appropriately to different behaviours.
+Explore the wildlife commonly found in our parks, including birds, insects, and small mammals. You'll learn about their habitats, behaviours, and how to identify them. Our speakers will also share tips on how to observe wildlife safely and respectfully, without disturbing their natural habitats.    |
 
 <br>
 
 |[Sports &amp; Wellness](/talks-and-demos/sports-and-wellness/) | 
 | -------- |
-| Text     |
+| Achieve optimal health and wellness through a variety of activities and practices shared in our talks! Learn about Traditional Chinese Medicine (TCM) and how it can be used to promote overall health and wellness. Promote relaxation and reduce stress when making your own scent bags using natural ingredients like herbs and essential oils, and how to use them to create a calming and soothing environment. Connect with nature and improve your mental and physical health by using the natural environment through walks and exploration. |
 
 <br>
