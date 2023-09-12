@@ -79,7 +79,5 @@ Conducted by Hamster Society Singapore link: [http://www.hamstersociety.sg/](htt
 
 Registration link (Session 1): <br> [https://go.gov.sg/freddystorytelling3pm](https://go.gov.sg/freddystorytelling3pm)
 
-<br>
-
 Registration link (Session 2): <br>
 [https://go.gov.sg/freddystorytelling4pm](https://go.gov.sg/freddystorytelling4pm)
