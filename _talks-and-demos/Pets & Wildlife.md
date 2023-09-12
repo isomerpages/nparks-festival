@@ -8,10 +8,9 @@ description: ""
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
-| 11am | Wildlife Commonly Seen in Parks   |  Wildlife Management Division  |
-| 2pm | TRNM &amp; SCSP | Dr Lin Anhui |
-| 3pm | Understanding Animal Behavior | Qi Ai &amp; Webster |
-| 4pm | Hamster Pebble Adoption | Hamster Society (Singapore) |
+| 11am | Dugongs: The Sirens of Singapores | Sirius Ng Zheng Hui  |
+| 2pm | Wildlife commonly seen in Parks | Foo Zhi Jie |
+| 3pm | “Hands off!” Understanding and addressing resource guarding in dogs | Chong Qi Ai &amp; Webster Cheong |
 
 <br>
 
@@ -20,10 +19,10 @@ description: ""
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
+| 10am | Dogs in Translation | Candy Lim-Soliano  |
 | 11am | Obesity in Pets | Dr Suria Fabbri
-| 1pm | Wildlife Commonly Seen in Parks   |  Wildlife Management Division  |
-| 2pm | Responsible Pet Ownership | Adam Teo |
+| 2pm | Wildlife commonly seen in Parks | Foo Zhi Jie |
+
 
 
 <br>
-
