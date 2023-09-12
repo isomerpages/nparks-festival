@@ -35,3 +35,5 @@ Come explore and understand the biodiversity in West Coast Park and making use o
 <br>
 
 * **Sculpture Displays from Wood Sculpture Symposiums** <br> Check out masterfully crafted wood sculptures created during past Wood Sculpture Symposiums held in our parks! These unique wooden masterpieces are designed and crafted by the talented maestros from the Singapore Sculpture Society and participants of recent and past years' Sculpture Symposium participants.
+
+
