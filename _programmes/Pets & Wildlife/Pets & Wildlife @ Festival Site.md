@@ -23,10 +23,6 @@ To all pet lovers - learn about being a responsible pet owner, and meet our furr
 
 <br>
 
-* **Petzmania** <br> Children get to try their hands at "working" in various jobs in the pet industry, from veterinarians, pet obedience trainers to pet groomers with hands-on activities and talks from professionals. This will be by registration-basis.
-
-<br>
-
 * **Chat with a Vet** <br> Come meet our vets at the festival! Aiming to educate pet owners on preventive pet&nbsp;care and inculcate the importance of routine&nbsp;veterinary care for pets,&nbsp;pet owners can seek advice from the vets on pet-related issues.
 
 <br>
@@ -34,3 +30,35 @@ To all pet lovers - learn about being a responsible pet owner, and meet our furr
 * **Open Dog Run** <br> Bringing your pet dog to the event? We have a free and easy space for pet owners to let their dogs run free in this open space!
 
 <br>
+
+
+#### Pets's Day Out Activities for Kids!
+
+<br>
+
+
+
+|  |  |
+| -------- | -------- | 
+| 10am - 12pm     | Petzmania   | 
+| 2pm - 3pm | Kiddy Colouring |
+4pm - 5pm | Hamster Pebble Adoption
+
+
+
+<br>
+
+* **Petzmania** <br> Children get to try their hands at "working" in various jobs in the pet industry, from veterinarians, pet obedience trainers to pet groomers with hands-on activities and talks from professionals. This will be by registration-basis.
+
+<br>
+
+* **Hamster Pebble Adoption by Hamster Society Singapore** <br> Want to learn about responsible hamster ownership in a fun way? Join the Hamster Society Singapore in creating little rock hamsters to take home as an introduction in learning how to keep pet hamsters! Parents are welcomed to join in! Limited slots available.
+<br> 
+<br>For ages: 3 to 12 years old
+<br>
+
+Registration (session 1): [https://go.gov.sg/pebblehamster4pm](https://go.gov.sg/pebblehamster4pm)
+
+Registration (session 2): [https://go.gov.sg/pebblehamster5pm](https://go.gov.sg/pebblehamster5pm)
+
+Conducted by Hamster Society Singapore link: [http://www.hamstersociety.sg/](http://www.hamstersociety.sg/)
