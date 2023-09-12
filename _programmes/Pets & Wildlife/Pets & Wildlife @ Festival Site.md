@@ -8,8 +8,8 @@ To all pet lovers - learn about being a responsible pet owner, and meet our furr
 
 
 
-#### Saturday <br>
-**23 September 2023**
+#### Saturday &amp; Sunday <br>
+**23 &amp; 24 September 2023**
 
 
 ![Pets &amp; Wildlife at Festival Site](/images/pets%20&amp;%20wildlife_os.jpg)
@@ -23,10 +23,6 @@ To all pet lovers - learn about being a responsible pet owner, and meet our furr
 
 <br>
 
-* **Petzmania** <br> Children get to try their hands at "working" in various jobs in the pet industry, from veterinarians, pet obedience trainers to pet groomers with hands-on activities and talks from professionals. This will be by registration-basis.
-
-<br>
-
 * **Chat with a Vet** <br> Come meet our vets at the festival! Aiming to educate pet owners on preventive pet&nbsp;care and inculcate the importance of routine&nbsp;veterinary care for pets,&nbsp;pet owners can seek advice from the vets on pet-related issues.
 
 <br>
@@ -34,3 +30,54 @@ To all pet lovers - learn about being a responsible pet owner, and meet our furr
 * **Open Dog Run** <br> Bringing your pet dog to the event? We have a free and easy space for pet owners to let their dogs run free in this open space!
 
 <br>
+
+
+#### Pets's Day Out Activities for Kids!
+
+<br>
+
+
+#### Saturday
+
+|   |  |
+| -------- | -------- | 
+| 10am - 12pm     | Petzmania   | 
+| 2pm - 3pm | Kiddy Colouring |
+4pm - 5pm | Hamster Pebble Adoption |
+
+<br>
+
+#### Sunday
+
+|   |  |
+| -------- | -------- | 
+| 10am - 11am &amp; 1pm | Kiddy Colouring |
+| 3pm - 4pm | Storytelling - Freddy the Dogged Rescuer |
+
+<br>
+
+* **Petzmania** <br> Children get to try their hands at "working" in various jobs in the pet industry, from veterinarians, pet obedience trainers to pet groomers with hands-on activities and talks from professionals. This will be by registration-basis.
+
+<br>
+
+* **Hamster Pebble Adoption by Hamster Society Singapore** <br> Want to learn about responsible hamster ownership in a fun way? Join the Hamster Society Singapore in creating little rock hamsters to take home as an introduction in learning how to keep pet hamsters! Parents are welcomed to join in! Limited slots available.
+<br> 
+<br>For ages: 3 to 12 years old
+<br>
+
+Registration (session 1): [https://go.gov.sg/pebblehamster4pm](https://go.gov.sg/pebblehamster4pm)
+
+Registration (session 2): [https://go.gov.sg/pebblehamster5pm](https://go.gov.sg/pebblehamster5pm)
+
+Conducted by Hamster Society Singapore link: [http://www.hamstersociety.sg/](http://www.hamstersociety.sg/)
+
+
+<br>
+
+
+* **Freddy The Dog Rescuer by Swapnil Mishra**<br>Storytelling to children is a fun and engaging way to teach children about the importance of responsible pet ownership. Join us in this captivating storytelling session that introduces young audiences to the heartwarming tale of Freddy, a 10-year-old boy, who embarks on a journey of empathy, patience, and enterprise as he adopts a dog named Wally from an animal shelter. The narrative delves into themes such as adopting versus buying, integrating into a new family, adapting to unforeseen challenges, and the power of collaboration with friends. Real-life events inspired this touching story, making it relatable and thought-provoking.
+
+Registration link (Session 1): <br> [https://go.gov.sg/freddystorytelling3pm](https://go.gov.sg/freddystorytelling3pm)
+
+Registration link (Session 2): <br>
+[https://go.gov.sg/freddystorytelling4pm](https://go.gov.sg/freddystorytelling4pm)
