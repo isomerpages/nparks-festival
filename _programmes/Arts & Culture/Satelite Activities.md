@@ -20,7 +20,8 @@ third_nav_title: Arts & Culture
 #### More on programs at other parks!
 
 
-* **Oil Painting Workshop - Arts@Hortpark** <br>Join us for a fun and inspiring outdoor painting experience with Mylène and unleash your inner artist! <br> For interest, please write in to 
+* **Oil Painting Workshop - Arts@Hortpark** <br>Join us for a fun and inspiring outdoor painting experience with Mylène and unleash your inner artist! 
+<br> For interest, please write in to 
 [nparks_hortpark@nparks.gov.sg](nparks_hortpark@nparks.gov.sg)
 
 
