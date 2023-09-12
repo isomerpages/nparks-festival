@@ -19,6 +19,14 @@ third_nav_title: Arts & Culture
 
 #### More on programs at other parks!
 
+
+* **Oil Painting Workshop - Arts@Hortpark** <br>Join us for a fun and inspiring outdoor painting experience with Mylène and unleash your inner artist! <br> For interest, please write in to 
+[nparks_hortpark@nparks.gov.sg](nparks_hortpark@nparks.gov.sg)
+
+
+
+<br>
+
 * **Singapore Botanic Gardens: Heritage Tour** <br>
 A great introduction to the history of the Singapore Botanic Gardens in a 1-hour walking tour of Heritage Trail. Learn about the moments that lead to the boom of the rubber industry and how orchids are intertwined with Singapore.  
 <br>For interest, please write in to  [nparks_sbg_visitor_services@nparks.gov.sg](nparks_sbg_visitor_services@nparks.gov.sg) 
