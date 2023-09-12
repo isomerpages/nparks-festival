@@ -37,14 +37,22 @@ To all pet lovers - learn about being a responsible pet owner, and meet our furr
 <br>
 
 
+#### Saturday
 
-|  |  |
+|   |  |
 | -------- | -------- | 
 | 10am - 12pm     | Petzmania   | 
 | 2pm - 3pm | Kiddy Colouring |
-4pm - 5pm | Hamster Pebble Adoption
+4pm - 5pm | Hamster Pebble Adoption |
 
+<br>
 
+#### Sunday
+
+|   |  |
+| -------- | -------- | 
+| 10am - 11am &amp; 1pm | Kiddy Colouring |
+| 3pm - 4pm | Storytelling - Freddy the Dogged Rescuer |
 
 <br>
 
@@ -62,3 +70,16 @@ Registration (session 1): [https://go.gov.sg/pebblehamster4pm](https://go.gov.sg
 Registration (session 2): [https://go.gov.sg/pebblehamster5pm](https://go.gov.sg/pebblehamster5pm)
 
 Conducted by Hamster Society Singapore link: [http://www.hamstersociety.sg/](http://www.hamstersociety.sg/)
+
+
+<br>
+
+
+* **Freddy The Dog Rescuer by Swapnil Mishra**<br>Storytelling to children is a fun and engaging way to teach children about the importance of responsible pet ownership. Join us in this captivating storytelling session that introduces young audiences to the heartwarming tale of Freddy, a 10-year-old boy, who embarks on a journey of empathy, patience, and enterprise as he adopts a dog named Wally from an animal shelter. The narrative delves into themes such as adopting versus buying, integrating into a new family, adapting to unforeseen challenges, and the power of collaboration with friends. Real-life events inspired this touching story, making it relatable and thought-provoking.
+
+Registration link (Session 1): <br> [https://go.gov.sg/freddystorytelling3pm](https://go.gov.sg/freddystorytelling3pm)
+
+<br>
+
+Registration link (Session 2): <br>
+[https://go.gov.sg/freddystorytelling4pm](https://go.gov.sg/freddystorytelling4pm)
