@@ -168,8 +168,3 @@ or contact support@thegympod.com for enquiries.
 
 
 
-### Giveaways
-
-| Yeo's |
-| -------- |
-Commemorate Mr. Lee Kuan Yew’s centenary with limited edition Yeo’s Chrysanthemum Tea giveaway pack, complimentary to public.
