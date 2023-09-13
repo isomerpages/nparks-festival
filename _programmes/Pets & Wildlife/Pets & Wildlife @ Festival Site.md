@@ -68,15 +68,14 @@ Come see the colourful birds on display and learn about parrot keeping from Bird
 <br>
 
 * **Hamster Pebble Adoption by Hamster Society Singapore** <br> Want to learn about responsible hamster ownership in a fun way? Join the Hamster Society Singapore in creating little rock hamsters to take home as an introduction in learning how to keep pet hamsters! Parents are welcomed to join in! Limited slots available.
-<br> 
-<br>For ages: 3 to 12 years old
+<br> For ages: 3 to 12 years old
 <br>
 
 Registration (session 1): [https://go.gov.sg/pebblehamster4pm](https://go.gov.sg/pebblehamster4pm)
 
 Registration (session 2): [https://go.gov.sg/pebblehamster5pm](https://go.gov.sg/pebblehamster5pm)
 
-Conducted by Hamster Society Singapore link: [http://www.hamstersociety.sg/](http://www.hamstersociety.sg/)
+Conducted by [Hamster Society Singapore](http://www.hamstersociety.sg/)
 
 
 <br>
