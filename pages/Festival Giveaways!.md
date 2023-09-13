@@ -3,6 +3,10 @@ title: Festival Giveaways!
 permalink: /giveaways/
 description: ""
 ---
+As part of this year's Parks Festival celebrations, we are pleased to share giveaways by our participation tenants to festival goers this 23-24 September! 
+
+Check out the giveaways listed below. While stocks lasts!
+
 
 <br>
 
