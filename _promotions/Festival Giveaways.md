@@ -25,7 +25,7 @@ Cycle to, from, or around the park for a choice of one complimentary scoop of So
 
 | Free Corn Cup by McDonald's |
 | -------- |
-| ![McDonald's Corn Cup Giveaway](/images/mcd%20corn%20cup.jpeg)
+| ![McDonald's West Coast Park](/images/mcds%20wcp%201.jpeg)
 
 Visit West Coast Park&nbsp;and get a free corn cup to enjoy while you explore the park. Limited redemptions per day.
 
