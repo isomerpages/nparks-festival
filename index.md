@@ -32,12 +32,12 @@ sections:
   - infopic:
       title: Festival Handbook
       subtitle: What's On
-      description: Have everything you need to know about the festival in the palm of
-        your hand!
+      description: Don't know where to start? Download a copy of our festival handbook
+        and you'll have everything you need in the palm of your hand!
       button: Download Here
       url: https://go.gov.sg/parksfestival2023hb
       image: /images/fb-visual-cover.png
-      alt: Image alt text
+      alt: Handbook Cover
   - infobar:
       title: "#SGParksFest"
       subtitle: Share your experience
