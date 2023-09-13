@@ -8,7 +8,7 @@ links:
     collection: programmes
   - title: Talks
     collection: talks-and-demos
-  - title: Visit
-    url: /visit
   - title: Promotions
     url: /promotions/
+  - title: Visit
+    url: /visit
