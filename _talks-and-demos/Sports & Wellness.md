@@ -61,4 +61,4 @@ description: ""
 <br>
 
 * **Therapeutic Horticulture and Bukit Gombak Nature Kakis (NK) by Jewel Koh**
-<br>Learn more on how to DIY your own scent bag using Lemon Grass or Pandan leaves. This activity can be done together with your families members!
+<br>Learn more on how to DIY your own scent bag using Lemon Grass or Pandan leaves. This activity can be done together with your family members!
