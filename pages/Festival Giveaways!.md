@@ -3,7 +3,6 @@ title: Festival Giveaways!
 permalink: /giveaways/
 description: ""
 ---
-
 <br>
 
 | Pedal for Gelato |
@@ -19,6 +18,11 @@ Cycle to, from, or around the park for a choice of one complimentary scoop of So
 | -------- |
 Visit West Coast Park&nbsp;and get a free corn cup to enjoy while you explore the park. Limited redemptions per day.
 
+<br>
+
+| Food Voucher - Tenderbest Makcik Tuckshop |
+| -------- |
+Win $20 Food vouchers to spend at Tenderbest Makcik Tuckshop located at Sengkang Riverside Park when you take part in activities at Parks Festival 2023 held at West Coast Park. Look out for our event emcees who will be giving these out to event goers!
 
 <br>
 
