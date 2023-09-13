@@ -28,7 +28,7 @@ sections:
       image: /images/5 categories_2208_2.png
       alt: Programs at Parks Festival
       subtitle: Parks Festival is back!
-      description: A kaleidoscope of programmes for everyone awaits!
+      description: A kaleidoscope of programmes awaits!
   - infopic:
       title: Festival Handbook
       subtitle: What's On
