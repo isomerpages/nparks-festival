@@ -50,7 +50,7 @@ Come see the colourful birds on display and learn about parrot keeping from Bird
 | -------- | -------- | 
 | 10am - 12pm     | Petzmania   | 
 | 2pm - 3pm | Kiddy Colouring |
-4pm - 5pm | Hamster Pebble Adoption |
+4pm - 6pm | Hamster Pebble Adoption |
 
 <br>
 
@@ -59,7 +59,7 @@ Come see the colourful birds on display and learn about parrot keeping from Bird
 |   |  |
 | -------- | -------- | 
 | 10am - 11am &amp; 1pm | Kiddy Colouring |
-| 3pm - 4pm | Storytelling - Freddy the Dogged Rescuer |
+| 3pm - 5pm | Storytelling - Freddy the Dogged Rescuer |
 
 <br>
 
