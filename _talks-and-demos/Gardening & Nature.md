@@ -10,7 +10,7 @@ description: ""
 | -------- | -------- | -------- |
 | 10am | Pot-a-plant! | Edible Garden City |
 | 11am | Companion Planting as Pest Management | Nagip Elimad (City Sprouts) |
-| 2pm | Moss Preservation &amp; Terrarium Care  |  Arnold Kokezen  |
+| 2pm | Introduction of Preserved Moss  |  Arnold Kokezen  |
 
 
 #### Sunday
@@ -20,8 +20,8 @@ description: ""
 | -------- | -------- | -------- |
 | 10am | Pot-a-plant! | Edible Garden City |
 | 11am | Companion Planting as Pest Management | Ian Sim (City Sprouts) |
-| 2pm | Mushroom World Academy  |  Liam Lee  |
-| 3pm | Plant Care &amp; Styling  |  Leo Tay  |
+| 1pm | Mushroom World Academy  |  Liam Lee  |
+| 2pm | Plant Care &amp; Styling  |  Leo Tay  |
 
 
 
