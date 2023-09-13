@@ -16,11 +16,5 @@ So get your cameras ready, put on your dancing shoes, and let's make some unforg
 
 | Check out what's happening at the links below! |
 | -------- |
-| [Check out what's happening via Facebook! ](https://www.facebook.com/hashtag/sgparksfest)  | 
-|[Check out what's happening via Instagram!](https://www.instagram.com/explore/tags/sgparksfest/) |
-
-
-
-
-
-
+| [Facebook link here! ](https://www.facebook.com/hashtag/sgparksfest)  | 
+|[Instagram link here!](https://www.instagram.com/explore/tags/sgparksfest/) |
