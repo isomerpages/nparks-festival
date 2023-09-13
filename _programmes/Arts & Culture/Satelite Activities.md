@@ -24,6 +24,8 @@ third_nav_title: Arts & Culture
 <br> For interest, please write in to 
 [nparks_hortpark@nparks.gov.sg](nparks_hortpark@nparks.gov.sg)
 
+![Oil Painting](/images/oil%20painting.png)
+
 <br>
 
 * **Fort Canning Park: Heritage on the Hill (Guided Tour)** <br>
