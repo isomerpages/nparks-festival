@@ -9,7 +9,7 @@ description: ""
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
 | 11am | General Wellness the TCM Way   |   Lee Hui Fang  |
-| 1am  | Demonstration on Plant Propagation | Joshua Liang |
+| 1pm  | Demonstration on Plant Propagation | Joshua Liang |
 | 2pm | Forest Therapy  | Chew Ting Ching    |
 | 3pm | Therapeutic Horticulture and Boonlay in Green Spaces (BLinGs) | David Yu |
 
@@ -20,7 +20,7 @@ description: ""
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
 | 11am | Forest Therapy  | Chew Ting Ching  |
-| 1pm  | Demonstation on Scent Bag Making  | David Yu    |
+| 1pm  | Therapeutic Horticulture and Bukit Gombak Nature Kakis (NK) | Jewel Koh    |
 | 2pm | #JalanKakis - Wellness and Positivity through Walks | Iman Samsi |
 
 <br>
@@ -46,7 +46,7 @@ description: ""
 
 <br>
 
-* **Demostration on Scent Bag Making by David Yu**
+* **Therapeutic Horticulture and Bukit Gombak Nature Kakis (NK) by Jewel Koh**
 <br>Learn more on how to DIY your own scent bag using Lemon Grass or Pandan leaves. This activity can be done together with your families members!
 
 <br>
