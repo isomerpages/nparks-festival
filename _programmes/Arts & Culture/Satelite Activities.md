@@ -24,11 +24,17 @@ third_nav_title: Arts & Culture
 <br> For interest, please write in to 
 [nparks_hortpark@nparks.gov.sg](nparks_hortpark@nparks.gov.sg)
 
+![Oil Painting](/images/oil%20painting.png)
+
 <br>
 
 * **Fort Canning Park: Heritage on the Hill (Guided Tour)** <br>
 Did you know that the history of Fort Canning dates back to the 14th century? Check out the ancient artefacts from the hill, and join us on a journey that highlights the changing faces of Fort Canning, from the ancient 14th century to the colonial 19th century and beyond! 
 <br> For interest, visit this link: [https://form.gov.sg/64e6fb01bab63100113af58a](https://form.gov.sg/64e6fb01bab63100113af58a)
+
+![Fort Canning Park](/images/heritage%20on%20the%20hill%20trail.jpeg)
+
+
 
 <br>
 

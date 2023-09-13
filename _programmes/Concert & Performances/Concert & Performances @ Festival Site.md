@@ -26,4 +26,4 @@ NParks Concert Series in the Parks: Rockestra®**
 ![Concert Series in the Park: Rockestra](/images/rockestra.jpg) <br> Party the night away at West Coast Park to the hits of the millennium! Local acts 53A, Jukulele, and Supersonic will be energising the stage together with host Justin Misson amping out the crowd. 
 Sing along to your favourite tunes from Backstreet Boys, Britney Spears, Ricky Martin, Foo Fighters, Jennifer Lopez and the likes!
 Soak in the atmosphere and groove down to party beats like it was 1999! <br>
-For more information, visit: https://go.gov.sg/rockestra-23sep23
+For more information, visit: [https://go.gov.sg/rockestra-23sep23](https://go.gov.sg/rockestra-23sep23)

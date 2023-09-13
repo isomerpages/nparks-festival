@@ -14,7 +14,8 @@ Check out the festival promotions happening at participating tenants in our park
 |![Canopy Garden Dining](/images/canopy%20garden%20dining.jpg)
 
 
-Free Caesar Salad with purchase of any main dish. Download e-voucher on Oddle Eats to redeem. 
+Free Caesar Salad with purchase of any main dish. Quote "NParks Festival 2023" to redeem.
+
 * Valid on 23 and 24 September 2023. 
 <br>
 
@@ -79,7 +80,7 @@ For more information, visit [www.georges.com.sg](www.georges.com.sg)
 
 | Kokomo Beach Club |
 | -------- |
-| ![Kokomo Beach Club](/images/kokomo%20beach%20club.jpg)
+| ![Kayaking](/images/kayaking%20expedition%20to%20coney%20island.jpeg)
 
 Kayaking Coastal Clean-Up 
 Fantastic opportunity for families to engage in a meaningful activity while enjoying the serene coastal environment from Pasir Ris Park to the scenic Coney Island. 
@@ -98,13 +99,13 @@ or contact 9834 7984.
  
 | Rasa Istimewa |
 | -------- |
-|![Rasa Istimewa @ Pasir Ris Park](/images/rasa%20istimewa%20@%20pasir%20ris%20park.jpg)
+| ![Rasa Istimewa Pasir Ris](/images/rasa%20istimewa%20pasir%20ris.jpeg)
 
 Spend in a single receipt and enjoy free items on your next visit! 
 * $50 and above for a free Baby Kailan (worth $8). 
 * $150 and above for a free small Seabass dish (worth $26). 
 * $200 and above for a free Baby Kailan and a small Seabass dish (worth $34). 
-* For dine-in only. Redeem by showing original receipt on your next visit. Valid from 23 September 2023 till 22 October 2023. 
+* For dine-in only. Redeem by showing original receipt from Pasir Ris Park outlet in the next visit. Valid from 23 September 2023 till 22 October 2023. 
 <br>
 
 For more information, visit [ https://kokomo-beachclub.com/ ]( https://kokomo-beachclub.com/ )  
@@ -142,7 +143,7 @@ Spend in a single receipt and enjoy free items on your next visit!
 * $50 and above for a free Baby Kailan (worth $8). 
 * $150 and above for a free small Seabass dish (worth $26). 
 * $200 and above for a free Baby Kailan and a small Seabass dish (worth $34). 
-* For dine-in only. Redeem by showing original receipt on your next visit. Valid from 23 September 2023 till 22 October 2023. 
+* For dine-in only. Redeem by showing original receipt from Woodlands Waterfront outlet in the next visit. Valid from 23 September 2023 till 22 October 2023. 
 
 For more information, visit [www.rasaistimewa.sg/woodlands-waterfront-menu](https://www.rasaistimewa.sg/woodlands-waterfront-menu)   
 or contact 6366 9339. 
