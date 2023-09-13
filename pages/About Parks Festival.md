@@ -17,12 +17,13 @@ Explore this website to learn more about the programmes offered at the event, as
 
 ##### Past Park Festival editions
 
-*   19 & 20 Nov 2016 @ Bishan-Ang Mo Kio Park
-*   28 & 29 Oct 2017 @ Admiralty Park, Bishan-Ang Mo Kio Park, Esplanade Park, Jurong Central Park & Pasir Ris Park
-*   27 & 28 Oct 2018 @ Esplanade Park & Empress Lawn
+*   19 &amp; 20 Nov 2016 @ Bishan-Ang Mo Kio Park
+*   28 &amp; 29 Oct 2017 @ Admiralty Park, Bishan-Ang Mo Kio Park, Esplanade Park, Jurong Central Park &amp; Pasir Ris Park
+*   27 &amp; 28 Oct 2018 @ Esplanade Park &amp; Empress Lawn
 
-* 26 & 27 Oct 2019 @ Esplanade Park, Empress Lawn & Queen Elizabeth Walk
+* 26 &amp; 27 Oct 2019 @ Esplanade Park, Empress Lawn &amp; Queen Elizabeth Walk
 
-
+<br>
+<br>
 
 ![Acknowledgements](/images/acknowledgements.png)
