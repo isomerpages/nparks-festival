@@ -22,7 +22,14 @@ Visit West Coast Park&nbsp;and get a free corn cup to enjoy while you explore th
 
 | Food Voucher - Tenderbest Makcik Tuckshop |
 | -------- |
-Win $20 Food vouchers to spend at Tenderbest Makcik Tuckshop located at Sengkang Riverside Park when you take part in activities at Parks Festival 2023 held at West Coast Park. Look out for our event emcees who will be giving these out to event goers!
+Win $20 Food vouchers to spend at Tenderbest Makcik Tuckshop located at Sengkang Riverside Park when you take part in activities at Parks Festival 2023 held at West Coast Park. Look out for our event emcees who will be giving these out to event goers! Limited Vouchers availble
+
+<br>
+
+| Food Voucher - Oasis Taiwan Porridge |
+| -------- |
+Win $30 Food vouchers to spend at Oasis Taiwan Porridge located at Toa Payoh Town Park when you take part in activities at Parks Festival 2023 held at West Coast Park. Look out for our event emcees who will be giving these out to event goers! Limited vouchers available.
+
 
 <br>
 
