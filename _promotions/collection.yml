@@ -2,4 +2,5 @@ collections:
   promotions:
     output: true
     order:
+      - Festival Giveaways!.md
       - Festival Promotions.md
