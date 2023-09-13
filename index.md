@@ -29,6 +29,15 @@ sections:
       alt: Programs at Parks Festival
       subtitle: Parks Festival is back!
       description: A kaleidoscope of programs awaits!
+  - infopic:
+      title: Festival Handbook
+      subtitle: What's On
+      description: Have everything you need to know about the festival in the palm of
+        your hand!
+      button: Download Here
+      url: https://go.gov.sg/parksfestival2023hb
+      image: /images/fb-visual-cover.png
+      alt: Image alt text
   - infobar:
       title: "#SGParksFest"
       subtitle: Share your experience
