@@ -80,7 +80,7 @@ For more information, visit [www.georges.com.sg](www.georges.com.sg)
 
 | Kokomo Beach Club |
 | -------- |
-| ![Kokomo Beach Club](/images/kokomo%20beach%20club.jpg)
+| ![Kayaking](/images/kayaking%20expedition%20to%20coney%20island.jpeg)
 
 Kayaking Coastal Clean-Up 
 Fantastic opportunity for families to engage in a meaningful activity while enjoying the serene coastal environment from Pasir Ris Park to the scenic Coney Island. 
@@ -99,7 +99,7 @@ or contact 9834 7984.
  
 | Rasa Istimewa |
 | -------- |
-|![Rasa Istimewa @ Pasir Ris Park](/images/rasa%20istimewa%20@%20pasir%20ris%20park.jpg)
+| ![Rasa Istimewa Pasir Ris](/images/rasa%20istimewa%20pasir%20ris.jpeg)
 
 Spend in a single receipt and enjoy free items on your next visit! 
 * $50 and above for a free Baby Kailan (worth $8). 
