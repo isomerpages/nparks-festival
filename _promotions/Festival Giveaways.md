@@ -52,7 +52,7 @@ Win $30 Food vouchers to spend at Oasis Taiwan Porridge located at Toa Payoh Tow
 
 | Yeo's |
 | -------- |
-| 
+| ![Yeo's Giveaways](/images/yeos%20giveaway.jpg)
 Commemorate Mr. Lee Kuan Yew’s centenary with limited edition Yeo’s Chrysanthemum Tea giveaway pack, complimentary to public.
 
 
