@@ -27,9 +27,8 @@ sections:
       url: /about
       image: /images/5 categories_2208_2.png
       alt: Programs at Parks Festival
-      subtitle: About the event
-      description: Parks Festival is back! Presenting a kaleidoscope of programs for
-        everyone!
+      subtitle: 23 - 24 Septmber 2023
+      description: Parks Festival is back! A kaleidoscope of programmes awaits!
   - infopic:
       title: Festival Handbook
       subtitle: What's On
