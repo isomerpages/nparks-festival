@@ -10,3 +10,11 @@ Are you ready to have a blast at the upcoming Parks Festival? We sure are! And w
 Don't forget to share your stories, photos, and videos on social media with the hashtag #SGParksFest. Let's show the world how much fun we're having! <br>
 
 So get your cameras ready, put on your dancing shoes, and let's make some unforgettable memories together!
+
+
+<br>
+
+| Check out what's happening at Parks Festival 2023 via these links below! |
+| -------- |
+| [Facebook link here! ](https://www.facebook.com/hashtag/sgparksfest)  | 
+|[Instagram link here!](https://www.instagram.com/explore/tags/sgparksfest/) |
