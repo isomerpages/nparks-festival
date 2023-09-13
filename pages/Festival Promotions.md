@@ -175,12 +175,17 @@ or contact support@thegympod.com for enquiries.
 
 Join us for a rejuvenating fitness and wellness event at Holland Village Park. This two-day festival is designed to celebrate health, happiness, and the beauty of nature. Whether you're a fitness enthusiast or someone looking to embark on a journey of well-being, this event has something for you! <br> FREE 2 sessions of Sunrise Yoga i.e 1 session each on 23 and 24 Sep + 1 session of Metcon on 23 Sep. <br>
 
-3 Sessions
+3 Sessions - 10 pax per session
 * 1x Sunrise yoga on 23 Sept
 * 1x Sunrise yoga on 24 Sept
 * 1x Metcon on 23 Sept
 
-10 pax per session
+Register your interest here:
+[https://5667agjbl30.typeform.com/to/ATwiUZSx](https://5667agjbl30.typeform.com/to/ATwiUZSx)
+
+
  
  Check out The Gym Pod website here:
  [www.thegympod.com](www.thegympod.com)
+ 
+ <br>
