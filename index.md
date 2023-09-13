@@ -22,7 +22,7 @@ sections:
           url: /visit
       background: /images/pf for isomer2.png
   - infopic:
-      title: 23 – 24 September 2023
+      title: 23 - 24 September 2023
       button: About Parks Festival 2023
       url: /about
       image: /images/5 categories_2208_2.png
