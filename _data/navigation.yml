@@ -9,6 +9,6 @@ links:
   - title: Talks
     collection: talks-and-demos
   - title: Promotions
-    url: /promotions/
+    collection: promotions
   - title: Visit
     url: /visit
