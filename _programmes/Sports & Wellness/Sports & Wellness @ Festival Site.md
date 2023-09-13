@@ -52,4 +52,4 @@ An interactive check-in with the members of the public, which helps them to unde
 
 <br>
 
-* **Families For Life by Ministry of Social and Family Development** <br>
+* **Families For Life by Ministry of Social and Family Development** <br> Jump to your heart's content at Families for Life's Carrot Playground inflatable. Drop by our booth to enjoy a complimentary Becky Bunny temporary tattoo sticker and find out more about Families for Life's programmes and initiatives!
