@@ -14,7 +14,8 @@ Check out the festival promotions happening at participating tenants in our park
 |![Canopy Garden Dining](/images/canopy%20garden%20dining.jpg)
 
 
-Free Caesar Salad with purchase of any main dish. Download e-voucher on Oddle Eats to redeem. 
+Free Caesar Salad with purchase of any main dish. Quote "NParks Festival 2023" to redeem.
+
 * Valid on 23 and 24 September 2023. 
 <br>
 
