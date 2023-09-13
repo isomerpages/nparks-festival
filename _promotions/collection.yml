@@ -1,4 +1,5 @@
 collections:
   promotions:
     output: true
-    order: []
+    order:
+      - Festival Promotions.md
