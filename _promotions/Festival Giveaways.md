@@ -50,7 +50,7 @@ Win $30 Food vouchers to spend at Oasis Taiwan Porridge located at Toa Payoh Tow
 
 <br>
 
-| Yeo's |
+| Yeo's - Limited Edition Chyrsanthemum Tea giveaway |
 | -------- |
 | ![Yeo's Giveaways](/images/yeos%20giveaway.jpg)
 
