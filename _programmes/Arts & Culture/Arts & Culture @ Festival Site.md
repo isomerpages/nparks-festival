@@ -35,3 +35,5 @@ Who needs paper when you have wood cookies? Using cross-cut sections of wood and
 <br>
 
 * **Sculpture Displays from Wood Sculpture Symposiums** <br> Check out masterfully crafted wood sculptures created during past Wood Sculpture Symposiums held in our parks! These unique wooden masterpieces are designed and crafted by the talented maestros from the Singapore Sculpture Society and participants of recent and past years' Sculpture Symposium.
+
+![Sculpture Display](/images/teo%20huey%20ling_the%20amaryllis%20flower_2023.png)
