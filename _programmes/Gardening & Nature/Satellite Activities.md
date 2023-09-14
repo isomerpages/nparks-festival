@@ -38,7 +38,7 @@ third_nav_title: Gardening & Nature
 <br>
 <br>
 
-#### More on Gardening &amp; Nature Programmes at various parks!
+#### More on Gardening &amp; Nature programmes at various parks!
 
 <br>
 
