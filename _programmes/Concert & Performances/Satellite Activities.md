@@ -9,7 +9,7 @@ third_nav_title: Concert & Performances
 
 | Time | Program | Location |
 | -------- | -------- | -------- |
-| 6pm - 7pm | Australian Youth Band in Concert | Shaw Foundation Symphony stage, Singapore Botanic Gardens |
+| 6pm - 7pm | Australian Youth Band in Concert | Shaw Foundation Symphony Stage, Singapore Botanic Gardens |
 | 6pm - 7pm | Singapore Chinese Orchestra Performance | Jurong Lake Gardens |
 
 
