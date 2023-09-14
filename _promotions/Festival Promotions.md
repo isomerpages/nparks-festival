@@ -39,13 +39,21 @@ $5 off for family bike rental. 
 For more information, visit [ www.coastlineleisure.com.sg]( www.coastlineleisure.com.sg)
 
 <br>
+
+| Pedal for Gelato by Fico |
+| -------- |
+| ![Pedal for Gelato](/images/gelato%20fico%201.jpeg)
+
+Cycle to, from, or around the park for a choice of one complimentary scoop of Solein Chocolate Gelato or Burrata Gelato at the Fico takeaway kiosk. <br><br> To redeem, let us know that you're participating in the NParks Parks Festival, and simply:  <br> (1) show us your total cycled distance on any fitness tracking app, and <br>(2) follow us @ficomasseria on Instagram.
+
+* Minimum of 15 KM cycled and limited to one complimentary gelato per person; only redeemable on the day of completion from 23-24 September, 3 to 5.30PM.
+* Limited to a total of 20 redemptions per day 
+
 <br>
-
-
 
 | Singapore Wake Park |
 | -------- |
-|![Singapore Wake Park](/images/singapore%20wake%20park.jpg)
+| ![Wake Boarding](/images/sg%20wake%20park.jpeg)
 
 Spend $80 nett at Singapore Wake Park’s Coastal Rhythm Cafe &amp; Bar between 18 and 24 September 2023 and redeem a pair of riding vouchers on the beginners riding system (System A) worth $100 ($50 x 2). 
 * Voucher is valid for use on weekdays only. Other T&amp;Cs apply.  
@@ -99,7 +107,7 @@ or contact 9834 7984.
  
 | Rasa Istimewa |
 | -------- |
-| ![Rasa Istimewa Pasir Ris](/images/rasa%20istimewa%20pasir%20ris.jpeg)
+| ![Rasa Istimewa @ Pasir Ris Park](/images/rasa%20istimewa%20pasir%20ris%203.jpeg)
 
 Spend in a single receipt and enjoy free items on your next visit! 
 * $50 and above for a free Baby Kailan (worth $8). 

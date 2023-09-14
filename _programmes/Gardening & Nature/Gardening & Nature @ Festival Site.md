@@ -4,22 +4,29 @@ permalink: /programmes/gardening-and-nature/onsite/
 description: ""
 third_nav_title: Gardening & Nature
 ---
-For the rookie nature and wildlife lover, learn about our green spaces and rich biodiversity. <br>
-Witness Singapore’s nature heritage and join in the guided walks and forest tours at the satellite locations! 
-
-<br>
+For the rookie nature and wildlife lover, learn about our green spaces and our rich biodiversity. Witness Singapore’s nature heritage and join in the guided walks and forest tours at the satellite locations! 
 
 #### Saturday &amp; Sunday <br>
-**23 &amp; 24 September 2023**
+**23 &amp; 24 September 2023, 10am - 5pm**
 
 
-![Gardening &amp; Nature Onsite](/images/6_1%20g&amp;n.jpg)
+| Programmes @ Gardening &amp; Nature Zone | 
+| -------- |
+| City Sprouts: Workshops in Garden Dome |
+| City Sprouts: Farmers' Stories Exhibition |
+| Horticulture and Community: Therapeutic Garden Showcase &amp; Outreach |
+| Conservation: Wildlife Kaleidoscope - Spotlighting Native Biodiversity |
+| National Biodiversity Centre: Community in Nature:
+|Destination Parks Engagement - West Coast Park |
 
 
 <br>
+
+#### More about programmes at Gardening &amp; Nature Zone!
+
 <br>
 
-* **Conservation: Wildlife Kaleidoscope**  
+* **Conservation: Wildlife Kaleidoscope - Spotlighting Native Biodiversity**  
 Learn more about the habitats and diverse biodiversity we have at Bukit Timah Nature Reserve , Pulau Ubin and Sungei Buloh Wetland Reserve. Our aim is to educate and empower individuals to be custodians of our protected areas and to help mitigate conflict and foster safe and responsible human-wildlife encounters. The activity space will comprise of craftwork and mini quizzes to spur children’s interest and love for nature.
 
 ![Conservation: Wildlife Kaleidoscope](/images/nature%201.jpg)

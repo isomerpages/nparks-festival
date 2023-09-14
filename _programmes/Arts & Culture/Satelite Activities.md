@@ -8,16 +8,43 @@ third_nav_title: Arts & Culture
 
 ### Saturday <br>
 **23 September 2023**
-![](/images/2%20a&amp;c_2.jpg)
+
+
+
+| Time | Programme | Location |
+| -------- | -------- | -------- |
+| 9am - 10am | Singapore Botanic Gardens Heritage Tour | Singapore Botanic Gardens    |
+|10am - 11am | Singapore Botanic Gardens, Gallop Extension: Guided Exhibition Tour | Singapore Botanic Gardens    |
+| 9am - 11am | Heritage on the Hill (Guided Tour) | Fort Canning Park |
+| 2pm - 4pm | Galleries Tour (Guided Tour) | Fort Canning Park |
+| 7pm - 11pm | Lights by the Lake 2023 | Jurong Lake Gardens |
+
+
+
+
+
+
 
 ### Sunday <br>
 **24 September 2023**
-![](/images/sun%20of%20a&amp;c.jpg)
+
+
+
+
+
+| Time | Program | Location |
+| -------- | -------- | -------- |
+| 2pm - 4pm  | Galleries Tour  |  Fort Canning Park |
+| 7pm - 11pm | Lights by the Lake 2023 | Jurong Lake Gardens |
+
+
+
+
 
 
 <br>
 
-#### More on programs at other parks!
+#### More on Arts &amp; Culture programmes at other parks!
 
 
 * **Arts@Hortpark - Oil Painting Workshop** <br>Join us for a fun and inspiring outdoor painting experience with Mylène and unleash your inner artist! 
@@ -41,6 +68,8 @@ Did you know that the history of Fort Canning dates back to the 14th century? Ch
 * **Fort Canning Park: Galleries Tour (Guided Tour)** <br>
 Join us on a guided tour of the newly-opened Fort Canning Heritage Gallery, which traces the rich history of the hill and showcases the rare artefacts found here. This tour will also take you to the Spice Gallery, which looks at the history of spices and spice traders in Singapore, and is nestled in Singapore's most diverse spice garden. 
 <br> For interest, visit this link: [https://form.gov.sg/64e6fb01bab63100113af58a](https://form.gov.sg/64e6fb01bab63100113af58a)
+
+![Fort Canning Park Gallery](/images/fcp%20galleries%20tour.jpeg)
 
 <br> 
 
@@ -68,3 +97,5 @@ A great introduction to the history of the Singapore Botanic Gardens in a 1-hour
 
 * **Race Againts Time - Science behind a Botanic Garden Tour** <br> Find out about our scientific work behind the Singapore Botanic Garden in this 45-minute session. <br> For interest, please write in to 
 [nparks_sbg_visitor_services@nparks.gov.sg](nparks_sbg_visitor_services@nparks.gov.sg)
+
+![SBG Botanical Library](/images/race%20against%20time%2002.jpeg)
