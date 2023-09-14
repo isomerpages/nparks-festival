@@ -107,7 +107,7 @@ or contact 9834 7984.
  
 | Rasa Istimewa |
 | -------- |
-| ![Rasa Istimewa Pasir Ris](/images/rasa%20istimewa%20pasir%20ris.jpeg)
+| ![Rasa Istimewa @ Pasir Ris Park](/images/rasa%20istimewa%20pasir%20ris%203.jpeg)
 
 Spend in a single receipt and enjoy free items on your next visit! 
 * $50 and above for a free Baby Kailan (worth $8). 
