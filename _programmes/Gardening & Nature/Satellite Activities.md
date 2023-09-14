@@ -10,6 +10,25 @@ third_nav_title: Gardening & Nature
 ![](/images/sat%20of%20g&amp;n2.jpg)
 
 
+
+| Time | Programme | Location |
+| -------- | -------- | -------- |
+| 8am - 9am | Biodiversity Guided Walk | Jurong Lake Gardens |
+| 9am - 10am | Coco &amp; Friends | Hindhede Park |
+| 9am - 10am | Learning Forest Tour | Singapore Botanic Gardens |
+| 9am - 10am | The Gardening Hub Trail | HortPark |
+| 9am - 11am | Ecolife @ Bishan-Ang Mo Kio Park | Bishan-Ang Mo Kio Park |
+| 9am - 11am | Horticulture Maintenance | Bishan-Ang Mo Kio Park |
+| 9am - 11am | Pasir Ris Park Mangrove Guide Tour | Pasir Ris Park|
+| 9am - 11am | Coney Island Ecolife Guide Tour | Coney Island Park |
+|9am - 11am | Fun Walk along the Southern Ridges | The Southern Ridges |
+| 9.30am - 11am | What's in my Mangroves | Sungei Buloh Wetland Reserves |
+| 11am - 12pm | Nature Appreciation @ Bukit Timah Nature Reserve | Bukit Timah Nature Reserve |
+| 5pm - 6pm | The Gardening Hub Trail | HortPark |
+
+
+
+
 #### Sunday <br>
 **24 September 2023**
 ![](/images/sun%20of%20g&amp;n.jpg)
