@@ -42,6 +42,8 @@ Did you know that the history of Fort Canning dates back to the 14th century? Ch
 Join us on a guided tour of the newly-opened Fort Canning Heritage Gallery, which traces the rich history of the hill and showcases the rare artefacts found here. This tour will also take you to the Spice Gallery, which looks at the history of spices and spice traders in Singapore, and is nestled in Singapore's most diverse spice garden. 
 <br> For interest, visit this link: [https://form.gov.sg/64e6fb01bab63100113af58a](https://form.gov.sg/64e6fb01bab63100113af58a)
 
+![Fort Canning Park Gallery](/images/fcp%20galleries%20tour.jpeg)
+
 <br> 
 
 * **Jurong Lake Gardens: Lights by the Lake 2023** <br>
@@ -68,3 +70,5 @@ A great introduction to the history of the Singapore Botanic Gardens in a 1-hour
 
 * **Race Againts Time - Science behind a Botanic Garden Tour** <br> Find out about our scientific work behind the Singapore Botanic Garden in this 45-minute session. <br> For interest, please write in to 
 [nparks_sbg_visitor_services@nparks.gov.sg](nparks_sbg_visitor_services@nparks.gov.sg)
+
+![SBG Botanical Library](/images/race%20against%20time%2002.jpeg)
