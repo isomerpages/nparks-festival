@@ -32,6 +32,7 @@ third_nav_title: Gardening & Nature
 | Time | Programme | Location |
 | -------- | -------- | -------- |
 | 8am - 9am | Nature Appreciation @ Rifle Range Nature Park | Rifle Range Nature Park |
+| 9am - 10am | The Gardening Hub Trail | HortPark |
 | 9am - 11am | Trees of the Fort| Fort Canning Park |
 
 <br>
@@ -45,22 +46,29 @@ third_nav_title: Gardening & Nature
 For interest, please write in to: 
 [JurongLakeGardens@nparks.gov.sg](JurongLakeGardens@nparks.gov.sg)
 
+![Biodiversity Guided Walk](/images/biodiversity%20guided%20walk.jpeg)
+
 <br>
 
 * **Hindhede Nature Park: Coco &amp; Friends**<br> Coco and Friends” is a programme by National Parks Board and HSBC Singapore aiming to promote more understanding and awareness of some of our native biodiversity found in our forests. <br> Through the eyes of Coco the Malayan Colugo, children will embark on a nature adventure learning about Coco and his forest friends, and about the plants that are useful to both Man and animals.<br> For interest, visit this link: [https://www.nparks.gov.sg/activities/events-and-workshops/2023/9/cn_coco-and-friends-23-sept-2023](https://www.nparks.gov.sg/activities/events-and-workshops/2023/9/cn_coco-and-friends-23-sept-2023)
 
-<br> ![](/images/coco%20&amp;%20friends.png)
+![](/images/coco%20&amp;%20friends.png)
+
 <br>
 
 
 * **Singapore Botanic Gardens: Learning Forest Tour**<br>The Learning Forest features a network of boardwalks and elevated walkways that allow visitors to explore habitats ranging from a freshwater forest wetland to a lowland rainforest. Visitors can learn about freshwater forest wetland ecosystems at the Keppel Discovery Wetlands and walk amongst a collection of some of the tallest tree species in Southeast Asia at the SPH Walk of Giants. <br> For interest, please write in to
 [nparks_sbg_visitor_services@nparks.gov.sg](nparks_sbg_visitor_services@nparks.gov.sg)
 
+![Learning Forest Tour](/images/learning%20forest%20tour%2002.jpeg)
+
 <br>
 
 * **HortPark: The Gardening Hub Trail**<br>Join us for a short, informative tour around HortPark. Learn all about interesting plants and gardening ideas as we take you through some of our themed gardens. <br> Don't miss out on this chance to reconnect with nature and revitalize your mental and physical well-being! disappointment. <br> **Saturday: 2 Sessions (9am - 10am) &amp; (5pm - 6pm)** <br> **Sunday: (9am - 10am)** <br> Limited spots available so register early to avoid 
 <br> For interest, please write in to
 [nparks_hortpark@nparks.gov.sg](nparks_hortpark@nparks.gov.sg)
+
+![The Gardening Hub Trail](/images/the%20gardening%20hub%20trail.png)
 
 <br>
 
