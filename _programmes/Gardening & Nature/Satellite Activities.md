@@ -6,10 +6,6 @@ third_nav_title: Gardening & Nature
 ---
 #### Saturday <br>
 **23 September 2023**
-![](/images/sat%20of%20g&amp;n%201.jpg)
-![](/images/sat%20of%20g&amp;n2.jpg)
-
-
 
 | Time | Programme | Location |
 | -------- | -------- | -------- |
@@ -31,7 +27,12 @@ third_nav_title: Gardening & Nature
 
 #### Sunday <br>
 **24 September 2023**
-![](/images/sun%20of%20g&amp;n.jpg)
+
+
+| Time | Programme | Location |
+| -------- | -------- | -------- |
+| 8am - 9am | Nature Appreciation @ Rifle Range Nature Park | Rifle Range Nature Park |
+| 9am - 11am | Trees of the Fort| Fort Canning Park |
 
 <br>
 <br>
