@@ -7,7 +7,15 @@ third_nav_title: Concert & Performances
 #### Saturday
 **23 September 2023**
 
-![Concerts &amp; Performances at satellite locations](/images/c&amp;p_sat%20of.jpg)
+| Time | Program | Location |
+| -------- | -------- | -------- |
+| 6pm - 7pm | Australian Youth Band in Concert | Shaw Foundation Symphony stage, Singapore Botanic Gardens |
+| 6pm - 8pm | Singapore Chinese Orchestra Performance | Jurong Lake Gardens |
+
+
+<br>
+
+#### More on Concerts &amp; Performances at other Parks!
 
 <br>
 
