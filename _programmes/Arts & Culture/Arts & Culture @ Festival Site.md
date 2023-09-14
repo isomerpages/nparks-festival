@@ -18,9 +18,12 @@ Explore wooden sculptures crafted by skilled artists from this year’s wood-scu
 | -------- |
 | Parks South West: Upcycled Wood Cookie Ornament Painting    | 
 | Sculpture Displays from Wood Sculpture Society |
-|
+| Nature Paintings by Tham Pui San |
 
 
+<br>
+
+#### More on Arts &amp; Culture activites at West Coast Park!
 
 <br>
 
