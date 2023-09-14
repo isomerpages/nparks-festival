@@ -44,7 +44,7 @@ third_nav_title: Arts & Culture
 
 <br>
 
-#### More on programs at other parks!
+#### More on Arts &amp; Culture programmes at other parks!
 
 
 * **Arts@Hortpark - Oil Painting Workshop** <br>Join us for a fun and inspiring outdoor painting experience with Mylène and unleash your inner artist! 
