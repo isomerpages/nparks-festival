@@ -10,7 +10,7 @@ third_nav_title: Concert & Performances
 | Time | Program | Location |
 | -------- | -------- | -------- |
 | 6pm - 7pm | Australian Youth Band in Concert | Shaw Foundation Symphony stage, Singapore Botanic Gardens |
-| 6pm - 8pm | Singapore Chinese Orchestra Performance | Jurong Lake Gardens |
+| 6pm - 7pm | Singapore Chinese Orchestra Performance | Jurong Lake Gardens |
 
 
 <br>
@@ -30,11 +30,12 @@ The Australian Youth Band (AYB), a group of 50 young musicians from Melbourne, A
 <br>
 <br>
 
-* **Singapore Chinese Orchestra Performance at Jurong Lake Gardens** <br>
-**6pm - 8pm** <br> 
+* **Singapore Chinese Orchestra Performance <br>
+Wave Plaza, Jurong Lake Gardens** <br>
+**6pm - 7pm** <br> 
 Singapore Chinese Orchestra (SCO) makes its way to Wave Plaza at Jurong Lake Gardens this September! Ride the waves of music with your family and friends as you enjoy the evening breeze and unwind to popular tunes overlooking the green oasis. <br>
 <br> For more information, visit [https://www.sco.com.sg/en/events/concert-season-23-24/event/515.html](https://www.sco.com.sg/en/events/concert-season-23-24/event/515.html)
 
-
+![Singapore Chinese Orchestra](/images/music%20oasis%20jlg.jpeg)
 
 <br>
