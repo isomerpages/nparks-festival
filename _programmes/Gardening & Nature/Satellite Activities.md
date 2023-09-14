@@ -37,6 +37,8 @@ third_nav_title: Gardening & Nature
 <br>
 <br>
 
+#### More on Gardening &amp; Nature Programmes at various parks!
+
 <br>
 
 * **Jurong Lake Gardens: Biodiversity Guided Walk**<br> Come on down to Jurong Lake Gardens and learn about the rich biodiversity that you can find here! Breathe in the fresh air and listen to the delightful sounds of nature on a free guided walk. <br>
