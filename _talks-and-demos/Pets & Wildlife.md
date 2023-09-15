@@ -4,7 +4,7 @@ permalink: /talks-and-demos/pets-and-wildlife/
 description: ""
 ---
 #### Saturday
-**23rd September 2023** <br>
+**Talks - 23rd September 2023** <br>
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
@@ -12,16 +12,29 @@ description: ""
 | 2pm - 3pm | Wildlife commonly seen in Parks | Foo Zhi Jie |
 | 3pm - 4pm | “Hands off!” Understanding and addressing resource guarding in dogs | Chong Qi Ai &amp; Webster Cheong |
 
+**Demonstrations - 23rd September 2023** <br>
+
+| Time | Program | Speaker |
+| -------- | -------- | -------- |
+| 10.30am, 12.30pm &amp; 3pm | Let's Train without Pain!| Candy Lim |
+
 <br>
 
 #### Sunday
-**24th September 2023** <br>
+**Talks - 24th September 2023** <br>
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
 | 10am - 11am | Dogs in Translation | Candy Lim-Soliano &amp; Liu Xiao Xuan |
 | 11am - 12pm | Obesity in Pets | Dr Suria Fabbri
 | 2pm - 3pm | Wildlife commonly seen in Parks | Foo Zhi Jie |
+
+**Demonstrations - 24th September 2023** <br>
+
+| Time | Program | Speaker |
+| -------- | -------- | -------- |
+| 10am - 2pm | Workshop &amp; Chat with the Trainers | Angie (Puppylove) |
+| 2pm - 5pm | Dog Run / Agility Course (Free Play) | |
 
 <br>
 
