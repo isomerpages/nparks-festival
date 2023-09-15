@@ -68,3 +68,5 @@ Registration link: [https://forms.gle/w42ucbLYJULLjDiJ7](https://forms.gle/w42uc
 
 * **Wildlife Commonly Seen in Parks by Foo Zhi Jie** <br> 
 Zhi Jie will share on how to interact with wildlife and nature responsibly, with a focus on wildlife species commonly encountered in parks such as long-tailed macaques, otters, snakes, monitor lizards etc.
+
+![Monitor Lizard](/images/wildlife%20in%20our%20parks_monlizard_lee%20wee%20meng.jpg)
