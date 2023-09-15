@@ -42,7 +42,7 @@ Who needs paper when you have wood cookies? Using cross-cut sections of wood and
 
 <br> 
 
-* **Exhibiton: My Encounters with Nature**
+* **Exhibition: My Encounters with Nature**
 <br> Struck by nature’s beauty of otters playing at Sungei Buloh Wetland Reserve in 2002, Pui San felt the urge to sign on as a volunteer guide to share the need of educating public about the fragility of the nature surrounding us in this concrete jungle that we often take for granted. And he did. Soon after, Pui San started his monthly paint-along art sessions at Sungei Buloh Wetland Reserve, and still continues to this day. Since then, he has adventured to more green spaces and conducts these sessions in HortPark and the Singapore Botanic Gardens.
 
 
