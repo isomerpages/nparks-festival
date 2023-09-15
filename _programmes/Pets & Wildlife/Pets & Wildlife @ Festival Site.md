@@ -43,6 +43,20 @@ Come see the colourful birds on display and learn about parrot keeping from Bird
 
 * **Chat with a Vet** <br> Come meet our vets at the festival! Aiming to educate pet owners on preventive pet&nbsp;care and inculcate the importance of routine&nbsp;veterinary care for pets,&nbsp;pet owners can seek advice from the vets on pet-related issues.
 
+##### Saturday
+
+| Time | Programme | Speaker |
+| -------- | -------- | -------- |
+| 10am - 2pm. | Chat with a Vet | Dr Grace Yam
+| 2pm - 6pm. | Chat with a Vet | SingVet
+
+##### Sunday
+
+| Time | Programme | Speaker |
+| -------- | -------- | -------- |
+| 10am - 2pm | Chat with a Groomer | Joanne (Takara Pets) |
+| 2pm - 6pm. | Chat with a Vet | Dr Diana Chee
+
 ![Chat with a vet](/images/chat%20with%20a%20vet%202.jpg)
 
 <br>
