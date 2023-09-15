@@ -36,7 +36,8 @@ description: ""
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
 | 10am - 11am | "Friend Friend?" | Wilson Song |
-| 10am - 2pm | Workshop &amp; Chat with the Trainers | Angie (Puppylove) |
+| 10am - 2pm | Workshop &amp; Chat with the Trainers | Angie Tan, Alan Tibtem Tay Zi Jian, Cheryl Goi |
+| 11.30am - 12.30am | All About Dog Parks | Al Chong and Cheryl Goi |
 | 2pm - 5pm | Dog Run / Agility Course (Free Play) | - |
 
 <br>
@@ -93,4 +94,3 @@ Zhi Jie will share on how to interact with wildlife and nature responsibly, with
 ##### Demonstrations
 
 * **"Friend, Friend" by Wilson Song** <br> Learn how to set up successful introductions between 2 dogs and how to tell if the dogs want to meet and when to stop the interaction.
-
