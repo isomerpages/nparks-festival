@@ -56,8 +56,8 @@ description: ""
 
 <br>
 
-* **Mushroom World Academy by Liam Lee**
-<br>Learn all about mushrooms, how they can be harnessed to provide environmental benefits and contribute to ecological well-being. Join this talk and jump start your mushroom growing journey now!
+* **All About Mushrooms by Liam Lee**
+<br>Learn all about mushrooms, how they can be harnessed to provide environmental benefits and contribute to ecological well-being. Join this talk and jump start your mushroom growing journey with Mushroom World Academy now!
 
 ![Mushroom](/images/img_0944.jpg)
 
