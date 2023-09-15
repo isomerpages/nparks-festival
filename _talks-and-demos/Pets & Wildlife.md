@@ -58,6 +58,8 @@ description: ""
 
 * **“Hands off!” Understanding and addressing resource guarding in dogs by Chong Qi Ai and Webster Cheong**<br> Ever wondered why your furry friend gets a little too possessive over their stuff? Join us for a 40-minute chat about the ins and outs of resource guarding in dogs. We'll break it down, share some tips and effective strategies for prevention and management.
 
+![Qi Ai &amp; Webster](/images/qi%20ai%20&amp;%20webster.png)
+
 <br>
 
 * **Dogs in Translation by Candy Lim-Soliano**
@@ -65,10 +67,13 @@ Do you find yourself often wondering about how your dog is feeling, what his tai
 
 Registration link: [https://forms.gle/w42ucbLYJULLjDiJ7](https://forms.gle/w42ucbLYJULLjDiJ7)
 
+![Candy Lim-Soliano](/images/candy%20lim-soliano_alm_kaizen%204%20dogs.jpg)
+
 <br>
 
 * **Obesity in Pets by Dr Suria Fabbri**<br>Obesity is a common problem in pets, and it can lead to a variety of health issues such as diabetes, joint problems, and heart disease. Learn from this talk on how to prevent and address obesity in pets, which requires a combination of healthy food choices, regular exercise, and monitoring of food intake. By taking these steps, you can help your pet maintain a healthy weight and avoid health issues associated with obesity!
 
+![Dr Suria Fabbri](/images/dr%20suria%20fabbri.jpg)
 
 <br>
 <br>
@@ -76,4 +81,4 @@ Registration link: [https://forms.gle/w42ucbLYJULLjDiJ7](https://forms.gle/w42uc
 * **Wildlife Commonly Seen in Parks by Foo Zhi Jie** <br> 
 Zhi Jie will share on how to interact with wildlife and nature responsibly, with a focus on wildlife species commonly encountered in parks such as long-tailed macaques, otters, snakes, monitor lizards etc.
 
-![Monitor Lizard](/images/wildlife%20in%20our%20parks_monlizard_lee%20wee%20meng.jpg)
+![Foo Zhi Jie](/images/foo%20zhi%20jie.png)
