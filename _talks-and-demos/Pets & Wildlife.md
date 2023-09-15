@@ -8,7 +8,7 @@ description: ""
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
-| 11am - 12pm | Dugongs: The Sirens of Singapore | Sirius Ng Zheng Hui  |
+| 11am - 12pm | Dugongs: The Sirens of Singapore | Sirius Ng Zheng Hui |
 | 2pm - 3pm | Wildlife commonly seen in Parks | Foo Zhi Jie |
 | 3pm - 4pm | “Hands off!” Understanding and addressing resource guarding in dogs | Chong Qi Ai &amp; Webster Cheong |
 
@@ -35,18 +35,23 @@ description: ""
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
+| 10am - 11am | "Friend Friend?" | Wilson Song |
 | 10am - 2pm | Workshop &amp; Chat with the Trainers | Angie (Puppylove) |
-| 2pm - 5pm | Dog Run / Agility Course (Free Play) | -  |
+| 2pm - 5pm | Dog Run / Agility Course (Free Play) | - |
 
 <br>
 
-#### More about the talks!
+#### More about the Talks &amp; Demonstrations!
 
+
+##### Talks
 <br>
 
 * **Dugongs: The Sirens of Singapore by Sirius Ng**<br> The dugong is a marine mammal that is highly associated to the seagrass habitats of the tropical Indo-Pacific. This shy and elusive species feature in many regional folklores and local rituals but scientific information of Southeast Asian populations is poorly understood. Already ‘Vulnerable to Extinction’ throughout its range, dugong populations are further impacted by marine urbanisation and the consequential loss of suitable habitats. In this talk, our team shares what we understand about the dugong populations within the territorial waters of Singapore and suggest ways we can better aid in saving this species.
 
 ![Sirius Ng](/images/sirius.jpeg)
+
+<br>
 
 <br>
 
@@ -82,3 +87,10 @@ Registration link: [https://forms.gle/w42ucbLYJULLjDiJ7](https://forms.gle/w42uc
 Zhi Jie will share on how to interact with wildlife and nature responsibly, with a focus on wildlife species commonly encountered in parks such as long-tailed macaques, otters, snakes, monitor lizards etc.
 
 ![Foo Zhi Jie](/images/foo%20zhi%20jie.png)
+
+<br>
+
+##### Demonstrations
+
+* **"Friend, Friend" by Wilson Song** <br> Learn how to set up successful introductions between 2 dogs and how to tell if the dogs want to meet and when to stop the interaction.
+
