@@ -8,7 +8,7 @@ description: ""
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
-| 11am - 12pm | Dugongs: The Sirens of Singapores | Sirius Ng Zheng Hui  |
+| 11am - 12pm | Dugongs: The Sirens of Singapore | Sirius Ng Zheng Hui  |
 | 2pm - 3pm | Wildlife commonly seen in Parks | Foo Zhi Jie |
 | 3pm - 4pm | “Hands off!” Understanding and addressing resource guarding in dogs | Chong Qi Ai &amp; Webster Cheong |
 
@@ -28,7 +28,7 @@ description: ""
 | 10am - 11am | Dogs in Translation | Candy Lim-Soliano &amp; Liu Xiao Xuan |
 | 11am - 12pm | Obesity in Pets | Dr Suria Fabbri
 | 2pm - 3pm | Wildlife commonly seen in Parks | Foo Zhi Jie |
-| 3pm - 4pm &amp; 4pm - 5pm | Storytelling - Freddy the Dogged Rescuer | Swapnil Mishra
+| 3pm - 4pm | The Great Diversity of Insects in Singapore | Foo Maosheng
 
 
 **Demonstrations - 24th September 2023** <br>
