@@ -9,7 +9,16 @@ third_nav_title: Sports & Wellness
 
 <br>
 
-![Sports &amp; Wellness Satellite on Sat](/images/10_s&amp;w_satellite.jpg)
+| TIme | Programme | Location
+| -------- | -------- | -------- |
+| 9am - 10.30am | Bedok Reservoir Park: Therapeutic Garden walk and activities | Bedok Reservoir Park |
+| 9am - 10.30am | East Coast Park: KPMG Wellness Garden Tour and Scent Bag Making | East Coast Park |
+| 9am - 11am | Choa Chu Kang Park: Therapeutic Horticulture Activity | Choa Chu Kang Park |
+
+
+
+
+
 
 <br>
 
