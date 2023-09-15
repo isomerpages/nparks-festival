@@ -48,7 +48,7 @@ An interactive check-in with the members of the public, which helps them to unde
 
 <br>
 
-* **"What’s your supporting style?" by Health Promotion Board** <br> At times, we may notice that people we care for seem different from their usual selves. That's when our emotional support means the most. <br> But have you ever wondered how you support those around you? Join us at this two-day event where you get to discover your supporting style and explore if you’re an Advisor, a Listener, an Optimist when helping others. <br> Gain practical tips that can help you become a better supporter and get to take home some cool freebies in our exciting activities. 
+* **"What’s your supporting style?" - Pop Up Booth by Health Promotion Board** <br> At times, we may notice that people we care for seem different from their usual selves. That's when our emotional support means the most. <br> But have you ever wondered how you support those around you? Join us at this two-day event where you get to discover your supporting style and explore if you’re an Advisor, a Listener, an Optimist when helping others. <br> Gain practical tips that can help you become a better supporter and get to take home some cool freebies in our exciting activities. 
 
 ![](/images/activation%20park%20fest%202.png)
 
