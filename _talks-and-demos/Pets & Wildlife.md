@@ -62,7 +62,7 @@ description: ""
 
 <br>
 
-* **“Hands off!” Understanding and addressing resource guarding in dogs by Chong Qi Ai and Webster Cheong**<br> Ever wondered why your furry friend gets a little too possessive over their stuff? Join us for a 40-minute chat about the ins and outs of resource guarding in dogs. We'll break it down, share some tips and effective strategies for prevention and management.
+* **“Hands off!” Understanding and addressing resource guarding in dogs by Chong Qi Ai &amp; Webster Cheong**<br> Ever wondered why your furry friend gets a little too possessive over their stuff? Join us for a 40-minute chat about the ins and outs of resource guarding in dogs. We'll break it down, share some tips and effective strategies for prevention and management.
 
 ![Qi Ai &amp; Webster](/images/qi%20ai%20&amp;%20webster.png)
 
@@ -93,15 +93,22 @@ Zhi Jie will share on how to interact with wildlife and nature responsibly, with
 
 ##### Demonstrations
 
-* **Lets Train without Pain! - by June Lim, Shi Ying and Candy Lim-Soliano** <br> If you’ve been struggling with walking your dog while on leash - or simply want to learn how to effectively teach your dog functional life skills in an ethical and fun way, this session is for you! Workshop includes:
+* **All About Dog Parks by Al Chong &amp; Sheryl Goi** <br> Dog parks can be a great place for dogs to exercise off- leash and have fun. Come find out about the proper etiquette and safety considerations when taking your dog to one. Also learn to read canine body language and steps you can do to minimise dog fights.
+
+![Al Chong &amp; Cheryl Goi](/images/al%20chong_cheryl%20goi.jpg)
+
+<br>
+
+* **Lets Train without Pain! - by June Lim, Shi Ying &amp; Candy Lim-Soliano** <br> If you’ve been struggling with walking your dog while on leash - or simply want to learn how to effectively teach your dog functional life skills in an ethical and fun way, this session is for you! Workshop includes:
 <br> - Functions and Uses of Training Tools
 <br> - Canine Enrichment
 <br> - Hands-in Handling
+
+![June, Shiying and Candy](/images/june_shiying_candy.jpg)
 
 <br>
 
 * **"Friend, Friend" by Wilson Song** <br> Learn how to set up successful introductions between 2 dogs and how to tell if the dogs want to meet and when to stop the interaction.
 
 ![Wilson Song](/images/wilson%20song.jpg)
-
 
