@@ -41,7 +41,7 @@ description: ""
 
 <br>
 
-* **Companion Planting as Pest Management <br>Nagib Elimad (Saturday) , Ian Sim (Sunday)**
+* **Companion Planting as Pest Management by City Sprouts <br>Nagib Elimad (Saturday) , Ian Sim (Sunday)**
 <br>Companion planting is a sustainable and ecologically friendly gardening technique that harnesses the natural relationships between plants to enhance crop health and minimise pest damage. City Sprouts currently adopts this method in our community gardens of strategically planting different plants in close proximity to one another to promote mutually beneficial interactions that deter pests, improve soil quality, and optimise overall yields. By taking advantage of the chemical, physical, and biological properties of various plants, gardeners can effectively reduce the need for synthetic pesticides and create a more harmonious and self-sustaining growing environment.
 
 ![Nagib Elimad &amp; Ian Sim](/images/montage%202.png)
