@@ -46,10 +46,13 @@ description: ""
 
 * **Dugongs: The Sirens of Singapore by Sirius Ng**<br> The dugong is a marine mammal that is highly associated to the seagrass habitats of the tropical Indo-Pacific. This shy and elusive species feature in many regional folklores and local rituals but scientific information of Southeast Asian populations is poorly understood. Already ‘Vulnerable to Extinction’ throughout its range, dugong populations are further impacted by marine urbanisation and the consequential loss of suitable habitats. In this talk, our team shares what we understand about the dugong populations within the territorial waters of Singapore and suggest ways we can better aid in saving this species.
 
+![Sirius Ng](/images/sirius.jpeg)
+
 <br>
 
 * **The Great Diversity of Insects in Singapore by Foo Maosheng** <br> Singapore is known to be a city in nature with many greens spaces, where one is able to see the large diversity of animals and plants that live around us. Among the animals, insect is the largest group of animals with at least 1.1 million species have been described, and there are many more still awaiting to be discovered. Walking through some of our green spaces, such as the nearby parks and nature reserves, one will get to see a number of insects such as butterflies, bees, dragonflies and beetles. However, that's only a tiny fraction of the huge diversity in Singapore, with some are actually hiding in plain sight. In this talk, you will get to see some of the insects that you may not have seen before but have been living among us for the longest time.
 
+![Foo Maosheng](/images/foo%20maosheng%202.jpeg)
 
 <br>
 
