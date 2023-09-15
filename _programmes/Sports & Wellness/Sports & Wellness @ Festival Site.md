@@ -13,11 +13,6 @@ Embrace a journey of health, happiness, and unforgettable memories and join us i
 
 <br>
 
-![Sports &amp; Wellness Onsite](/images/9_s&amp;w_os.jpg)
-
-
-
-
 | Sports &amp; Wellness Zone | 
 | -------- |
 | Haywecare: How Are You? - An Interactive Check-in |
