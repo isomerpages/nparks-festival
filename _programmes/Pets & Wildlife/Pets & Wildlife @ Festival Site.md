@@ -9,7 +9,7 @@ To all pet lovers - learn about being a responsible pet owner, and meet our furr
 
 
 #### Saturday &amp; Sunday <br>
-**23 &amp; 24 September 2023, 10am - 5pm**
+**23 &amp; 24 September 2023, 10am - 6pm**
 
 
 | Pets &amp; Wildlife Zone |
