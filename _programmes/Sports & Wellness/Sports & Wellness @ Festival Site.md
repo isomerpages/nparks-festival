@@ -36,7 +36,8 @@ An interactive check-in with the members of the public, which helps them to unde
 
 <br>
 
-* **Active Family by Health Promotion Board** <br> Active Family is an integrated programme that focuses on fundamental movement skills development and promotes bonding between parent and child (4 to 12 years old) through a variety of physical activities, and physical and health education. Join us for frisbee games and NERF shootout challenges!
+* **Active Family by Health Promotion Board** <br> Active Family is an integrated programme that focuses on fundamental movement skills development and promotes bonding between parent and child (4 to 12 years old) through a variety of physical activities, and physical and health education. Join us for Frisbee and Archery Battleground! <br><br>To register a slot with your child, log into your Healthy365 App &gt; “Events” &gt; “Explore” &gt; Search for “Active Family Programme” &gt; Filter “West Coast Park”.
+
 
 ![Active Family Poster](/images/afp%20image.png)
 
