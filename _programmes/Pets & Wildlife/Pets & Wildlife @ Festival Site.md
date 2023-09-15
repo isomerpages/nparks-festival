@@ -9,10 +9,23 @@ To all pet lovers - learn about being a responsible pet owner, and meet our furr
 
 
 #### Saturday &amp; Sunday <br>
-**23 &amp; 24 September 2023**
+**23 &amp; 24 September 2023, 10am - 5pm**
 
 
 ![Pets &amp; Wildlife at Festival Site](/images/pets%20&amp;%20wildlife_os.jpg)
+
+
+
+| Pets &amp; Wildlife Zone |
+| -------- |
+| BirdCraze Display |
+| Pets' Day Out: AVS Animal Wildlife Groups Adoption Drive |
+| Pets's Day Out: Chat with a Vet |
+| Pets' Day Out: Open Dog Run|
+| Wildlife Management: Wildlife in our Parks |
+
+
+
 
 
 #### Pets'  Day Out Activities
