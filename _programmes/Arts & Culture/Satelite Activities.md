@@ -36,6 +36,7 @@ third_nav_title: Arts & Culture
 
 | Time | Program | Location |
 | -------- | -------- | -------- |
+| 9am - 10.30am | Civic District Tree Trail - Istana Route | Civic District |
 | 2pm - 4pm  | Galleries Tour  |  Fort Canning Park |
 | 7pm - 11pm | Lights by the Lake 2023 | Jurong Lake Gardens |
 
@@ -54,6 +55,12 @@ third_nav_title: Arts & Culture
 [nparks_hortpark@nparks.gov.sg](nparks_hortpark@nparks.gov.sg)
 
 ![Oil Painting](/images/oil%20painting.png)
+
+<br>
+
+* **Civic District Tree Trail - Istana Route** <br> The Civic District Tree Trail takes you through Singapore's historic Civic District where you will be marvelled by many majestic and interesting trees. Did you know that some of the these trees have witnessed the transformation and progress of Singapore through the years? Join us as we take you through part of the trail starting from the entrance of Istana to CHIJMES! <br> For interest, please write in to [isaac_koh@nparks.gov.sg](isaac_koh@nparks.gov.sg)
+
+
 
 <br>
 
