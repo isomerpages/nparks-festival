@@ -70,9 +70,6 @@ Come see the colourful birds on display and learn about parrot keeping from Bird
 
 #### Pets's Day Out Activities for Kids!
 
-<br>
-
-
 #### Saturday
 
 |   |  |
