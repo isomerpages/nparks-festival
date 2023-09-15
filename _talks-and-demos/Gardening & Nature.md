@@ -37,16 +37,20 @@ description: ""
 <br> - Did you know that tending to your plant can be very therapeutic and good for mental well-being?
 <br> - Kids who learn about growing their own food waste less food and this is taking a step towards contributing to food resiliency and sustainability!
 
+![Edible Garden City](/images/edb%20photo2.jpg)
 
 <br>
 
 * **Companion Planting as Pest Management by Nagib Elimad**
 <br>Companion planting is a sustainable and ecologically friendly gardening technique that harnesses the natural relationships between plants to enhance crop health and minimise pest damage. City Sprouts currently adopts this method in our community gardens of strategically planting different plants in close proximity to one another to promote mutually beneficial interactions that deter pests, improve soil quality, and optimise overall yields. By taking advantage of the chemical, physical, and biological properties of various plants, gardeners can effectively reduce the need for synthetic pesticides and create a more harmonious and self-sustaining growing environment.
 
+![Nagib Elimad](/images/city%20sprouts%20nagib%2023%20sep.jpg)
+
 <br>
 
 * **Mushroom World Academy by Liam Lee**
 <br>Learn all about mushrooms, how they can be harnessed to provide environmental benefits and contribute to ecological well-being. Join this talk and jump start your mushroom growing journey now!
 
+![Mushroom](/images/img_0944.jpg)
 
 <br>
