@@ -13,6 +13,7 @@ third_nav_title: Arts & Culture
 
 | Time | Programme | Location |
 | -------- | -------- | -------- |
+| 8.30am - 12.30pm | Arts@HortPark - Oil Painting Workshop | HortPark |
 | 9am - 10am | Singapore Botanic Gardens Heritage Tour | Singapore Botanic Gardens    |
 |10am - 11am | Singapore Botanic Gardens, Gallop Extension: Guided Exhibition Tour | Singapore Botanic Gardens    |
 | 9am - 11am | Heritage on the Hill (Guided Tour) | Fort Canning Park |
