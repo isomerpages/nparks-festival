@@ -62,12 +62,12 @@ description: ""
 
 <br>
 
-* **Dogs in Translation by Candy Lim-Soliano**
+* **Dogs in Translation by Candy &amp; Xuan** <br>
 Do you find yourself often wondering about how your dog is feeling, what his tail wag means, or if he’s doing zoomies because he’s having a really great time? And what’s with that “guilty look” Fido is giving - did he chew up another pair of shoes? Whether you're a first-time pet guardian or have had the pleasure of living with companion dogs for years, learning to understand what your pet is saying can give you a lot of useful information, such as when they are spooked or anxious about what is going on, or when they are stressed out and may snap at someone. The good news is, our dogs are speaking to us ALL the time! And although you may not “speak dog”, your dog's body language communicates their emotional state and intentions to others around. Join Candy (Kaizen 4 Dogs) and Xuan (Allies of Dogs) at this insightful talk and learn how to interpret your dog’s body language so that you’ll be able to better support your own pet and build a stronger bond with them!
 
 Registration link: [https://forms.gle/w42ucbLYJULLjDiJ7](https://forms.gle/w42ucbLYJULLjDiJ7)
 
-![Candy Lim-Soliano](/images/candy%20lim-soliano_alm_kaizen%204%20dogs.jpg)
+![Candy &amp; Xuan](/images/candy%20&amp;%20xuan.jpg)
 
 <br>
 
