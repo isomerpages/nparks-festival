@@ -11,9 +11,9 @@ third_nav_title: Sports & Wellness
 
 | TIme | Programme | Location
 | -------- | -------- | -------- |
-| 9am - 10.30am | Bedok Reservoir Park: Therapeutic Garden walk and activities | Bedok Reservoir Park |
-| 9am - 10.30am | East Coast Park: KPMG Wellness Garden Tour and Scent Bag Making | East Coast Park |
-| 9am - 11am | Choa Chu Kang Park: Therapeutic Horticulture Activity | Choa Chu Kang Park |
+| 9am - 10.30am | Therapeutic Garden walk and activities | Bedok Reservoir Park |
+| 9am - 10.30am | KPMG Wellness Garden Tour and Scent Bag Making | East Coast Park |
+| 9am - 11am | Therapeutic Horticulture Activity | Choa Chu Kang Park |
 
 <br>
 
@@ -22,11 +22,9 @@ third_nav_title: Sports & Wellness
 
 <br>
 
-![Sports &amp; Wellness Satellite Sun](/images/10_2%20s&amp;w.jpg)
-
 | TIme | Programme | Location
 | -------- | -------- | -------- |
-| 10am - 11.30pm | Hong Kah North: Therapeutic Horticulture Programme: Scent Bag Making, Sensory Soil Mixing &amp; Plant Propagation | Therapeutic Garden next to 419 Bukit Batok West Ave 2 |
+| 10am - 11.30pm | Therapeutic Horticulture Programme: Scent Bag Making, Sensory Soil Mixing &amp; Plant Propagation | Hong Kah North: Therapeutic Garden next to 419 Bukit Batok West Ave 2 |
 
 
 <br>
