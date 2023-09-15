@@ -19,7 +19,7 @@ Embrace a journey of health, happiness, and unforgettable memories and join us i
 | Health Promotion Board: Active Family - Frisbee Games and NERF Fun Shots |
 | Health Promotion Board: Healthy 365 Recruitment Drive |
 | Health Promotion Board: Role Modelling - " You are your child's first nature guide" |
-| Health Promotion Board: "Whats your supporting style?" - Pop Up Booth |
+| Health Promotion Board: "What's your supporting style?" - Pop Up Booth |
 | Ministry of Social and Family Development: Families For Life |
 
 
