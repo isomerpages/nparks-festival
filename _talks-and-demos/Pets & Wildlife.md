@@ -93,8 +93,12 @@ Zhi Jie will share on how to interact with wildlife and nature responsibly, with
 
 ##### Demonstrations
 
-* **Lets Train without Pain! - by June Lim, Shi Ying and Candy Lim-Soliano"
+* **Lets Train without Pain! - by June Lim, Shi Ying and Candy Lim-Soliano** <br> If you’ve been struggling with walking your dog while on leash - or simply want to learn how to effectively teach your dog functional life skills in an ethical and fun way, this session is for you! Workshop includes:
+<br> - Functions and Uses of Training Tools
+<br> - Canine Enrichment
+<br> - Hands-in Handling
 
+<br>
 
 * **"Friend, Friend" by Wilson Song** <br> Learn how to set up successful introductions between 2 dogs and how to tell if the dogs want to meet and when to stop the interaction.
 
