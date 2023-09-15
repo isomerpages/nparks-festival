@@ -16,7 +16,7 @@ description: ""
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
-| 10.30am, 12.30pm &amp; 3pm | Let's Train without Pain!| June Lim, Yap Shi Ying, Candy Lim-Soliano |
+| 10.30am, 12.30pm &amp; 3pm | Let's Train without Pain! | June Lim, Yap Shi Ying, Candy Lim-Soliano |
 
 <br>
 
@@ -68,7 +68,7 @@ description: ""
 
 <br>
 
-* **Dogs in Translation by Candy &amp; Xuan** <br>
+* **Dogs in Translation by Candy Lim-Soliano &amp; Liu Xiao Xuan** <br>
 Do you find yourself often wondering about how your dog is feeling, what his tail wag means, or if he’s doing zoomies because he’s having a really great time? And what’s with that “guilty look” Fido is giving - did he chew up another pair of shoes? Whether you're a first-time pet guardian or have had the pleasure of living with companion dogs for years, learning to understand what your pet is saying can give you a lot of useful information, such as when they are spooked or anxious about what is going on, or when they are stressed out and may snap at someone. The good news is, our dogs are speaking to us ALL the time! And although you may not “speak dog”, your dog's body language communicates their emotional state and intentions to others around. Join Candy (Kaizen 4 Dogs) and Xuan (Allies of Dogs) at this insightful talk and learn how to interpret your dog’s body language so that you’ll be able to better support your own pet and build a stronger bond with them!
 
 Registration link: [https://forms.gle/w42ucbLYJULLjDiJ7](https://forms.gle/w42ucbLYJULLjDiJ7)
@@ -92,6 +92,9 @@ Zhi Jie will share on how to interact with wildlife and nature responsibly, with
 <br>
 
 ##### Demonstrations
+
+* **Lets Train without Pain! - by June Lim, Shi Ying and Candy Lim-Soliano"
+
 
 * **"Friend, Friend" by Wilson Song** <br> Learn how to set up successful introductions between 2 dogs and how to tell if the dogs want to meet and when to stop the interaction.
 
