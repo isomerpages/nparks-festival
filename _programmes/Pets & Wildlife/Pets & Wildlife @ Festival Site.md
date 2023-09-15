@@ -12,16 +12,12 @@ To all pet lovers - learn about being a responsible pet owner, and meet our furr
 **23 &amp; 24 September 2023, 10am - 5pm**
 
 
-![Pets &amp; Wildlife at Festival Site](/images/pets%20&amp;%20wildlife_os.jpg)
-
-
-
 | Pets &amp; Wildlife Zone |
 | -------- |
+| AVS Animal Wildlife Groups Adoption Drive |
 | BirdCraze Display |
-| Pets' Day Out: AVS Animal Wildlife Groups Adoption Drive |
-| Pets's Day Out: Chat with a Vet |
-| Pets' Day Out: Open Dog Run|
+| Chat with a Vet |
+| Open Dog Run |
 | Wildlife Management: Wildlife in our Parks |
 
 
@@ -34,6 +30,8 @@ To all pet lovers - learn about being a responsible pet owner, and meet our furr
 
 * **Adoption Drive by Animal Welfare Groups** <br> Learn about responsible pet ownership and consider adoption before purchasing. Featuring various types of animals up for adoption and merchandise booths, the Adoption Drive aims to fund raise the rescue efforts of our Animal Welfare Group partners (AWG) and encourage the re-homing of shelter animals.
 
+![Adoption Drive](/images/adoption%20drive.jpg)
+
 <br>
 
 * **BirdCraze Display** <br>
@@ -45,9 +43,13 @@ Come see the colourful birds on display and learn about parrot keeping from Bird
 
 * **Chat with a Vet** <br> Come meet our vets at the festival! Aiming to educate pet owners on preventive pet&nbsp;care and inculcate the importance of routine&nbsp;veterinary care for pets,&nbsp;pet owners can seek advice from the vets on pet-related issues.
 
+![Chat with a vet](/images/chat%20with%20a%20vet%202.jpg)
+
 <br>
 
 * **Open Dog Run** <br> Bringing your pet dog to the event? We have a free and easy space for pet owners to let their dogs run free in this open space!
+
+![Open Dog Run](/images/dog%20run.jpg)
 
 <br>
 
@@ -77,6 +79,10 @@ Come see the colourful birds on display and learn about parrot keeping from Bird
 <br>
 
 * **Petzmania** <br> Children get to try their hands at "working" in various jobs in the pet industry, from veterinarians, pet obedience trainers to pet groomers with hands-on activities and talks from professionals. This will be by registration-basis.
+
+
+![Petzmania](/images/petzmania.JPG)
+
 
 <br>
 
