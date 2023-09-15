@@ -9,10 +9,19 @@ To all pet lovers - learn about being a responsible pet owner, and meet our furr
 
 
 #### Saturday &amp; Sunday <br>
-**23 &amp; 24 September 2023**
+**23 &amp; 24 September 2023, 10am - 6pm**
 
 
-![Pets &amp; Wildlife at Festival Site](/images/pets%20&amp;%20wildlife_os.jpg)
+| Pets &amp; Wildlife Zone |
+| -------- |
+| AVS Animal Wildlife Groups Adoption Drive |
+| BirdCraze Display |
+| Chat with a Vet |
+| Open Dog Run |
+| Wildlife Management: Wildlife in our Parks |
+
+
+
 
 
 #### Pets'  Day Out Activities
@@ -20,6 +29,8 @@ To all pet lovers - learn about being a responsible pet owner, and meet our furr
 <br>
 
 * **Adoption Drive by Animal Welfare Groups** <br> Learn about responsible pet ownership and consider adoption before purchasing. Featuring various types of animals up for adoption and merchandise booths, the Adoption Drive aims to fund raise the rescue efforts of our Animal Welfare Group partners (AWG) and encourage the re-homing of shelter animals.
+
+![Adoption Drive](/images/adoption%20drive.jpg)
 
 <br>
 
@@ -32,17 +43,32 @@ Come see the colourful birds on display and learn about parrot keeping from Bird
 
 * **Chat with a Vet** <br> Come meet our vets at the festival! Aiming to educate pet owners on preventive pet&nbsp;care and inculcate the importance of routine&nbsp;veterinary care for pets,&nbsp;pet owners can seek advice from the vets on pet-related issues.
 
+##### Saturday
+
+| Time | Programme | Speaker |
+| -------- | -------- | -------- |
+| 10am - 2pm. | Chat with a Vet | Dr Grace Yam
+| 2pm - 6pm. | Chat with a Vet | SingVet
+
+##### Sunday
+
+| Time | Programme | Speaker |
+| -------- | -------- | -------- |
+| 10am - 2pm | Chat with a Groomer | Joanne (Takara Pets) |
+| 2pm - 6pm. | Chat with a Vet | Dr Diana Chee
+
+![Chat with a vet](/images/chat%20with%20a%20vet%202.jpg)
+
 <br>
 
 * **Open Dog Run** <br> Bringing your pet dog to the event? We have a free and easy space for pet owners to let their dogs run free in this open space!
+
+![Open Dog Run](/images/dog%20run.jpg)
 
 <br>
 
 
 #### Pets's Day Out Activities for Kids!
-
-<br>
-
 
 #### Saturday
 
@@ -65,11 +91,15 @@ Come see the colourful birds on display and learn about parrot keeping from Bird
 
 * **Petzmania** <br> Children get to try their hands at "working" in various jobs in the pet industry, from veterinarians, pet obedience trainers to pet groomers with hands-on activities and talks from professionals. This will be by registration-basis.
 
+
+![Petzmania](/images/petzmania.JPG)
+
+
 <br>
 
 * **Hamster Pebble Adoption by Hamster Society Singapore** <br> Want to learn about responsible hamster ownership in a fun way? Join the Hamster Society Singapore in creating little rock hamsters to take home as an introduction in learning how to keep pet hamsters! Parents are welcomed to join in! Limited slots available.
 <br> For ages: 3 to 12 years old
-<br>
+<br> 
 
 Registration (session 1): [https://go.gov.sg/pebblehamster4pm](https://go.gov.sg/pebblehamster4pm)
 

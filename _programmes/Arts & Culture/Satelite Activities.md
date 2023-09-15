@@ -13,8 +13,10 @@ third_nav_title: Arts & Culture
 
 | Time | Programme | Location |
 | -------- | -------- | -------- |
+| 8.30am - 12.30pm | Arts@HortPark - Oil Painting Workshop | HortPark |
 | 9am - 10am | Singapore Botanic Gardens Heritage Tour | Singapore Botanic Gardens    |
 |10am - 11am | Singapore Botanic Gardens, Gallop Extension: Guided Exhibition Tour | Singapore Botanic Gardens    |
+| 10am - 11am | Race Againts Time - Science behind a Botanic Garden Tour | Singapore Botanic Gardens |
 | 9am - 11am | Heritage on the Hill (Guided Tour) | Fort Canning Park |
 | 2pm - 4pm | Galleries Tour (Guided Tour) | Fort Canning Park |
 | 7pm - 11pm | Lights by the Lake 2023 | Jurong Lake Gardens |
@@ -34,6 +36,7 @@ third_nav_title: Arts & Culture
 
 | Time | Program | Location |
 | -------- | -------- | -------- |
+| 9am - 10.30am | Civic District Tree Trail - Istana Route | Civic District |
 | 2pm - 4pm  | Galleries Tour  |  Fort Canning Park |
 | 7pm - 11pm | Lights by the Lake 2023 | Jurong Lake Gardens |
 
@@ -52,6 +55,12 @@ third_nav_title: Arts & Culture
 [nparks_hortpark@nparks.gov.sg](nparks_hortpark@nparks.gov.sg)
 
 ![Oil Painting](/images/oil%20painting.png)
+
+<br>
+
+* **Civic District Tree Trail - Istana Route** <br> The Civic District Tree Trail takes you through Singapore's historic Civic District where you will be marvelled by many majestic and interesting trees. Did you know that some of the these trees have witnessed the transformation and progress of Singapore through the years? Join us as we take you through part of the trail starting from the entrance of Istana to CHIJMES! <br> For interest, please write in to [isaac_koh@nparks.gov.sg](isaac_koh@nparks.gov.sg)
+
+
 
 <br>
 

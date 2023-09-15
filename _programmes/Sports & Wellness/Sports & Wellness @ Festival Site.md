@@ -9,15 +9,21 @@ Whether you're a wellness enthusiast or just looking to unwind, our diverse line
 Embrace a journey of health, happiness, and unforgettable memories and join us in celebrating the perfect fusion of fun and wellness at Parks Festival!
 
 #### Saturday &amp; Sunday <br>
-**23 &amp; 24 September 2023**
-
-
-
-
+**23 &amp; 24 September 2023, 10am - 6pm**
 
 <br>
 
-![Sports &amp; Wellness Onsite](/images/9_s&amp;w_os.jpg)
+| Sports &amp; Wellness Zone | 
+| -------- |
+| Haywecare: How Are You? - An Interactive Check-in |
+| Health Promotion Board: Active Family - Frisbee Games and NERF Fun Shots |
+| Health Promotion Board: Healthy 365 Recruitment Drive |
+| Health Promotion Board: Role Modelling - " You are your child's first nature guide" |
+| Health Promotion Board: "What's your supporting style?" - Pop Up Booth |
+| Ministry of Social and Family Development: Families For Life |
+
+
+
 
 
 <br>
@@ -25,6 +31,8 @@ Embrace a journey of health, happiness, and unforgettable memories and join us i
 * **Haywecare: How are you? - An interactive check-in**
 <br>
 An interactive check-in with the members of the public, which helps them to understand themselves better and serve as an avenue for them to express their feelings.
+
+![Haywecare booth](/images/haywecare_photo2.jpg)
 
 <br>
 
@@ -40,7 +48,7 @@ An interactive check-in with the members of the public, which helps them to unde
 
 <br>
 
-* **"What’s your supporting style?" by Health Promotion Board** <br> At times, we may notice that people we care for seem different from their usual selves. That's when our emotional support means the most. <br> But have you ever wondered how you support those around you? Join us at this two-day event where you get to discover your supporting style and explore if you’re an Advisor, a Listener, an Optimist when helping others. <br> Gain practical tips that can help you become a better supporter and get to take home some cool freebies in our exciting activities. 
+* **"What’s your supporting style?" - Pop Up Booth by Health Promotion Board** <br> At times, we may notice that people we care for seem different from their usual selves. That's when our emotional support means the most. <br> But have you ever wondered how you support those around you? Join us at this two-day event where you get to discover your supporting style and explore if you’re an Advisor, a Listener, an Optimist when helping others. <br> Gain practical tips that can help you become a better supporter and get to take home some cool freebies in our exciting activities. 
 
 ![](/images/activation%20park%20fest%202.png)
 
@@ -53,3 +61,5 @@ An interactive check-in with the members of the public, which helps them to unde
 <br>
 
 * **Families For Life by Ministry of Social and Family Development** <br> Jump to your heart's content at Families for Life's Carrot Playground inflatable. Drop by our booth to enjoy a complimentary Becky Bunny temporary tattoo sticker and find out more about Families for Life's programmes and initiatives!
+
+![Bouncy Castle](/images/bouncy%20castle.jpg)

@@ -28,7 +28,7 @@ Celebrate the weekend by partying with us at NParks Concert Series in the Parks:
 
 * **Singapore Kindness Movement - Singapore and the Kindness Cubbies, K-I-N-D-ness Dance**<br>
 For more information on Singa and the Kindness Cubbies, visit: 
-https://www.kindness.sg/parents-and-educators/kindsville/
+[https://www.kindness.sg/parents-and-educators/kindsville/](https://www.kindness.sg/parents-and-educators/kindsville/)
 
 ![Kindness Cubbies](/images/pxl_20230716_085058241.jpg)
 
@@ -43,4 +43,4 @@ Sing along to your favourite tunes from Backstreet Boys, Britney Spears, Ricky M
 Soak in the atmosphere and groove down to party beats like it was 1999! <br>
 For more information, visit: [https://go.gov.sg/rockestra-23sep23](https://go.gov.sg/rockestra-23sep23)
 
-![Concert Series in the Park: Rockestra](/images/rockestra.jpg) 
+![Concert Series in the Park: Rockestra](/images/rockestra.jpg)
