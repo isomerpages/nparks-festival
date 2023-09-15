@@ -36,7 +36,7 @@ description: ""
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
 | 10am - 2pm | Workshop &amp; Chat with the Trainers | Angie (Puppylove) |
-| 2pm - 5pm | Dog Run / Agility Course (Free Play) | |
+| 2pm - 5pm | Dog Run / Agility Course (Free Play) | -  |
 
 <br>
 
