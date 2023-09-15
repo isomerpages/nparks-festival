@@ -16,6 +16,7 @@ third_nav_title: Arts & Culture
 | 8.30am - 12.30pm | Arts@HortPark - Oil Painting Workshop | HortPark |
 | 9am - 10am | Singapore Botanic Gardens Heritage Tour | Singapore Botanic Gardens    |
 |10am - 11am | Singapore Botanic Gardens, Gallop Extension: Guided Exhibition Tour | Singapore Botanic Gardens    |
+| 10am - 11am | Race Againts Time - Science behind a Botanic Garden Tour | Singapore Botanic Gardens |
 | 9am - 11am | Heritage on the Hill (Guided Tour) | Fort Canning Park |
 | 2pm - 4pm | Galleries Tour (Guided Tour) | Fort Canning Park |
 | 7pm - 11pm | Lights by the Lake 2023 | Jurong Lake Gardens |
