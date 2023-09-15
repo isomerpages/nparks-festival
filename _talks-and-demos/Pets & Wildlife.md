@@ -56,7 +56,7 @@ description: ""
 
 <br>
 
-* **“Hands off!” Understanding and addressing resource guarding in dogs by Ms. Chong Qi Ai and Mr. Webster Cheong**<br> Ever wondered why your furry friend gets a little too possessive over their stuff? Join us for a 40-minute chat about the ins and outs of resource guarding in dogs. We'll break it down, share some tips and effective strategies for prevention and management.
+* **“Hands off!” Understanding and addressing resource guarding in dogs by Chong Qi Ai and Webster Cheong**<br> Ever wondered why your furry friend gets a little too possessive over their stuff? Join us for a 40-minute chat about the ins and outs of resource guarding in dogs. We'll break it down, share some tips and effective strategies for prevention and management.
 
 <br>
 
