@@ -28,6 +28,8 @@ description: ""
 | 10am - 11am | Dogs in Translation | Candy Lim-Soliano &amp; Liu Xiao Xuan |
 | 11am - 12pm | Obesity in Pets | Dr Suria Fabbri
 | 2pm - 3pm | Wildlife commonly seen in Parks | Foo Zhi Jie |
+| 3pm - 4pm &amp; 4pm - 5pm | Storytelling - Freddy the Dogged Rescuer | Swapnil Mishra
+
 
 **Demonstrations - 24th September 2023** <br>
 
