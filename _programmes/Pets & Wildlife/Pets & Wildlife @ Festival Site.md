@@ -35,7 +35,7 @@ To all pet lovers - learn about being a responsible pet owner, and meet our furr
 <br>
 
 * **BirdCraze Display** <br>
-Come see the colourful birds on display and learn about parrot keeping from BirdCraze members. Check out the BirdCraze Facebook group here: [https://www.facebook.com/BirdCraze.SpreadingWithPassion/](https://www.facebook.com/BirdCraze.SpreadingWithPassion/)
+Come see the colourful birds on display and learn about parrot keeping from BirdCraze members. Check out the BirdCraze Facebook group here: [https://www.facebook.com/groups/BirdCraze.sg](https://www.facebook.com/groups/BirdCraze.sg)
 
 ![BirdCraze - Photo credit BirdCraze Facebook](/images/birdcraze%20fb%20photo.jpeg)
 
