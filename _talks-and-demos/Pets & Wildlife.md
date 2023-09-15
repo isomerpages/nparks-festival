@@ -8,9 +8,9 @@ description: ""
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
-| 11am | Dugongs: The Sirens of Singapores | Sirius Ng Zheng Hui  |
-| 2pm | Wildlife commonly seen in Parks | Foo Zhi Jie |
-| 3pm | “Hands off!” Understanding and addressing resource guarding in dogs | Chong Qi Ai &amp; Webster Cheong |
+| 11am - 12pm | Dugongs: The Sirens of Singapores | Sirius Ng Zheng Hui  |
+| 2pm - 3pm | Wildlife commonly seen in Parks | Foo Zhi Jie |
+| 3pm - 4pm | “Hands off!” Understanding and addressing resource guarding in dogs | Chong Qi Ai &amp; Webster Cheong |
 
 <br>
 
@@ -19,9 +19,9 @@ description: ""
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
-| 10am | Dogs in Translation | Candy Lim-Soliano  |
-| 11am | Obesity in Pets | Dr Suria Fabbri
-| 2pm | Wildlife commonly seen in Parks | Foo Zhi Jie |
+| 10am - 11am | Dogs in Translation | Candy Lim-Soliano &amp; Liu Xiao Xuan |
+| 11am - 12pm | Obesity in Pets | Dr Suria Fabbri
+| 2pm - 3pm | Wildlife commonly seen in Parks | Foo Zhi Jie |
 
 <br>
 
