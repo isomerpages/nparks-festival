@@ -16,7 +16,7 @@ description: ""
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
-| 10.30am, 12.30pm &amp; 3pm | Let's Train without Pain!| Candy Lim |
+| 10.30am, 12.30pm &amp; 3pm | Let's Train without Pain!| June Lim, Yap Shi Ying, Candy Lim-Soliano |
 
 <br>
 
