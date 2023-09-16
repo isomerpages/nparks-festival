@@ -13,7 +13,7 @@ Embrace a journey of health, happiness, and unforgettable memories and join us i
 
 <br>
 
-| Sports &amp; Wellness Zone | 
+| Sports &amp; Wellness Zone - All Day Programmes | 
 | -------- |
 | Haywecare: How Are You? - An Interactive Check-in |
 | Health Promotion Board: Active Family - Frisbee Games and NERF Fun Shots |
@@ -22,8 +22,33 @@ Embrace a journey of health, happiness, and unforgettable memories and join us i
 | Health Promotion Board: "What's your supporting style?" - Pop Up Booth |
 | Ministry of Social and Family Development: Families For Life |
 
+<br>
+
+**Sports &amp; Fitness Activities**
+| Time| Programme | 
+| -------- | -------- | 
+| 10am - 6pm | Futsal
+| 10am - 6pm | Air Badminton
+| 10am - 11am | Zumba session with Idzhar, Sid and Fadzheel  | 
+| 11am - 12pm | Kardio Kickboxing with Ahmad |
 
 
+<br>
+
+#### More on Fitness Activities
+
+<br>
+
+* **Zumba session with Idzhar, Sid and Fadzheel** <br>Zumba is a high-energy dance fitness program that involves moves to international beats. Join the zumba trio, Idzhar, Sid and Fadzheel for a fun morning workout and dance off the sweats to a better fitter you! 
+
+
+* **Kardio Kickboxing by Ahmad** <br> Kardio kickboxing incorporates with music that can improve flexibility, balance, stamina and coordination, and can help you build faster reflexes. Lead by Ahmad, follow the beats and punch in those reps to maximise your workout for the day!
+
+![Zumba and Kickboxing](/images/zumba%20and%20kickboxing.jpg)
+
+<br>
+
+#### More on All Day Sports and Wellness Programmes
 
 
 <br>
