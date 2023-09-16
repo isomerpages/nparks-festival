@@ -9,6 +9,7 @@ description: ""
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
 | 11am - 12pm | Dugongs: The Sirens of Singapore | Sirius Ng Zheng Hui |
+| 1pm - 2pm | An introduction to Terrestrial Arthopods of Singapore | Sean Yap | 
 | 2pm - 3pm | Wildlife commonly seen in Parks | Foo Zhi Jie |
 | 3pm - 4pm | “Hands off!” Understanding and addressing resource guarding in dogs | Chong Qi Ai &amp; Webster Cheong |
 
@@ -46,6 +47,12 @@ description: ""
 
 
 ##### Talks
+<br>
+
+* **An Introduction to Terrestrial Arthopods of Singapore** <br> What makes a beetle an insect, a spider not? What terrestrial arthopods call Singapore home, and what can we discover about the secret lives of these critters that share our spaces while living vibrant lives completely separate from our own? Join Sean in discovering the answers to some of these questions, and learn about the creepy crawlers you've seen as well as those you haven't, and why they are all important in the ecosystem we are also a part of.
+
+
+
 <br>
 
 * **Dugongs: The Sirens of Singapore by Sirius Ng**<br> The dugong is a marine mammal that is highly associated to the seagrass habitats of the tropical Indo-Pacific. This shy and elusive species feature in many regional folklores and local rituals but scientific information of Southeast Asian populations is poorly understood. Already ‘Vulnerable to Extinction’ throughout its range, dugong populations are further impacted by marine urbanisation and the consequential loss of suitable habitats. In this talk, our team shares what we understand about the dugong populations within the territorial waters of Singapore and suggest ways we can better aid in saving this species.
