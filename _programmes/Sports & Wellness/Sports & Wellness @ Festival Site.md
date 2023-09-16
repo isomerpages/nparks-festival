@@ -39,10 +39,10 @@ Embrace a journey of health, happiness, and unforgettable memories and join us i
 
 <br>
 
-* **Zumba session with Idzhar, Sid and Fadzheel** <br>Zumba is a high-energy dance fitness program that involves moves to international beats. Join the zumba trio, Idzhar, Sid and Fadzheel for a fun morning workout and dance off the sweats to a better fitter you! 
+* **10am - 11am: Zumba session with Idzhar, Sid and Fadzheel** <br>Zumba is a high-energy dance fitness program that involves moves to international beats. Join the zumba trio, Idzhar, Sid and Fadzheel for a fun morning workout and dance off the sweats to a better fitter you! 
 
 
-* **Kardio Kickboxing by Ahmad** <br> Kardio kickboxing incorporates with music that can improve flexibility, balance, stamina and coordination, and can help you build faster reflexes. Lead by Ahmad, follow the beats and punch in those reps to maximise your workout for the day!
+* **11am - 12pm: Kardio Kickboxing by Ahmad** <br> Kardio kickboxing incorporates with music that can improve flexibility, balance, stamina and coordination, and can help you build faster reflexes. Lead by Ahmad, follow the beats and punch in those reps to maximise your workout for the day!
 
 ![Zumba and Kickboxing](/images/zumba%20and%20kickboxing.jpg)
 
