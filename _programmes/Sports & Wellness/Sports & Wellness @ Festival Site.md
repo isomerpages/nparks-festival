@@ -25,13 +25,13 @@ Embrace a journey of health, happiness, and unforgettable memories and join us i
 <br>
 
 **Sports &amp; Fitness Activities**
+
 | Time| Programme | 
 | -------- | -------- | 
-| 10am - 6pm | Futsal
-| 10am - 6pm | Air Badminton
 | 10am - 11am | Zumba session with Idzhar, Sid and Fadzheel  | 
 | 11am - 12pm | Kardio Kickboxing with Ahmad |
-
+| 10am - 6pm | Futsal |
+| 10am - 6pm | Air Badminton |
 
 <br>
 
