@@ -13,7 +13,7 @@ Embrace a journey of health, happiness, and unforgettable memories and join us i
 
 <br>
 
-| Sports &amp; Wellness Zone | 
+| Sports &amp; Wellness Zone - All Day Programmes | 
 | -------- |
 | Haywecare: How Are You? - An Interactive Check-in |
 | Health Promotion Board: Active Family - Frisbee Games and NERF Fun Shots |
@@ -22,8 +22,33 @@ Embrace a journey of health, happiness, and unforgettable memories and join us i
 | Health Promotion Board: "What's your supporting style?" - Pop Up Booth |
 | Ministry of Social and Family Development: Families For Life |
 
+<br>
+
+**Sports &amp; Fitness Activities**
+| Time| Programme | 
+| -------- | -------- | 
+| 10am - 6pm | Futsal
+| 10am - 6pm | Air Badminton
+| 10am - 11am | Zumba session with Idzhar, Sid and Fadzheel  | 
+| 11am - 12pm | Kardio Kickboxing with Ahmad |
 
 
+<br>
+
+#### More on Fitness Activities
+
+<br>
+
+* **10am - 11am: Zumba session with Idzhar, Sid and Fadzheel** <br>Zumba is a high-energy dance fitness program that involves moves to international beats. Join the zumba trio, Idzhar, Sid and Fadzheel for a fun morning workout and dance off the sweats to a better fitter you! 
+
+
+* **11am - 12pm: Kardio Kickboxing by Ahmad** <br> Kardio kickboxing incorporates with music that can improve flexibility, balance, stamina and coordination, and can help you build faster reflexes. Lead by Ahmad, follow the beats and punch in those reps to maximise your workout for the day!
+
+![Zumba and Kickboxing](/images/zumba%20and%20kickboxing.jpg)
+
+<br>
+
+#### More on All Day Sports and Wellness Programmes
 
 
 <br>
@@ -36,7 +61,8 @@ An interactive check-in with the members of the public, which helps them to unde
 
 <br>
 
-* **Active Family by Health Promotion Board** <br> Active Family is an integrated programme that focuses on fundamental movement skills development and promotes bonding between parent and child (4 to 12 years old) through a variety of physical activities, and physical and health education. Join us for frisbee games and NERF shootout challenges!
+* **Active Family by Health Promotion Board** <br> Active Family is an integrated programme that focuses on fundamental movement skills development and promotes bonding between parent and child (4 to 12 years old) through a variety of physical activities, and physical and health education. Join us for Frisbee and Archery Battleground! <br><br>To register a slot with your child, log into your Healthy365 App &gt; “Events” &gt; “Explore” &gt; Search for “Active Family Programme” &gt; Filter “West Coast Park”.
+
 
 ![Active Family Poster](/images/afp%20image.png)
 

@@ -36,13 +36,13 @@ Who needs paper when you have wood cookies? Using cross-cut sections of wood and
 <br>
 <br>
 
-* **Sculpture Displays from Wood Sculpture Symposiums** <br> Check out masterfully crafted wood sculptures created during past Wood Sculpture Symposiums held in our parks! These unique wooden masterpieces are designed and crafted by the talented maestros from the Singapore Sculpture Society and participants of recent and past years' Sculpture Symposium.
+* **Wood Sculpture Displays from upcycled felled timber** <br> Check out masterfully crafted wood sculptures created in our Parks! These unique wooden masterpieces are designed and crafted from upcycled felled timber by the talented sculptors from the Sculpture Society Singapore. Some of these sculptures are created from this year's Wood Sculpture Symposium in Pasir Ris Park. You can visit Pasir Ris Park Piai Plaza near Carpark B to view more of the wood sculptures display.
 
 ![Sculpture Display](/images/teo%20huey%20ling_the%20amaryllis%20flower_2023.png)
 
 <br> 
 
-* **Exhibiton: My Encounters with Nature**
+* **Exhibition: My Encounters with Nature**
 <br> Struck by nature’s beauty of otters playing at Sungei Buloh Wetland Reserve in 2002, Pui San felt the urge to sign on as a volunteer guide to share the need of educating public about the fragility of the nature surrounding us in this concrete jungle that we often take for granted. And he did. Soon after, Pui San started his monthly paint-along art sessions at Sungei Buloh Wetland Reserve, and still continues to this day. Since then, he has adventured to more green spaces and conducts these sessions in HortPark and the Singapore Botanic Gardens.
 
 

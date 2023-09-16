@@ -39,7 +39,7 @@ description: ""
 
 <br>
 
-* **Introduction of Preserved Moss by Arnold Kokezen** <br> Starting off from an undergrad student who found an interest in making terrariums during COVID-19 as a hobby, Arnold grew his hobby into a business! In this talk, he will share how Koke.zen started and how his business shifted to sharing the benefits of preserved moss.
+* **Introduction of Preserved Moss by Arnold (Koke.zen)** <br> Starting off from an undergrad student who found an interest in making terrariums during COVID-19 as a hobby, Arnold grew his hobby into a business! In this talk, he will share how Koke.zen started and how his business shifted to sharing the benefits of preserved moss.
 
 ![Moss Preservation](/images/moss%20preservation%20-%20kokezen%202.jpg)
 
@@ -56,8 +56,8 @@ description: ""
 
 <br>
 
-* **Mushroom World Academy by Liam Lee**
-<br>Learn all about mushrooms, how they can be harnessed to provide environmental benefits and contribute to ecological well-being. Join this talk and jump start your mushroom growing journey now!
+* **All About Mushrooms by Liam Lee (Mushroom World Academy)**
+<br>Learn all about mushrooms, how they can be harnessed to provide environmental benefits and contribute to ecological well-being. Join this talk and jump start your mushroom growing journey with Mushroom World Academy now!
 
 ![Mushroom](/images/img_0944.jpg)
 
