@@ -13,7 +13,7 @@ Celebrate the weekend by partying with us at NParks Concert Series in the Parks:
 
 | Time | Program | Location |
 | -------- | -------- | -------- |
-| 4.30pm – 5.30pm | Singapore Kindness Movement: Singa and the Kindness Cubbies K-I-N-D-ness Show | Rockestra® Stage |
+| 4.30pm – 5.30pm | Singa and the Kindness Cubbies K-I-N-D-ness Show (Singapore Kindness Movement) | Rockestra® Stage |
 | 6.30pm till late | NParks Concert Series in the Park: Rockestra® – Greatest Hits of 1999 | Rockestra® Stage |
 
 
@@ -25,7 +25,7 @@ Celebrate the weekend by partying with us at NParks Concert Series in the Parks:
 
 <br>
 
-* **Singapore Kindness Movement - Singapore and the Kindness Cubbies, K-I-N-D-ness Dance**<br>
+* **Singapore Kindness Movement - Singapore and the Kindness Cubbies, K-I-N-D-ness Show**<br>
 Click [here](https://www.kindness.sg/parents-and-educators/kindsville/) for more information on Singa and the Kindness Cubbies.
 
 ![Kindness Cubbies](/images/pxl_20230716_085058241.jpg)
