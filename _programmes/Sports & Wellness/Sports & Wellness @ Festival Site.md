@@ -21,9 +21,9 @@ Embrace a journey of health, happiness, and unforgettable memories and join us i
 | Haywecare: How Are You? |
 | Health Promotion Board: Active Family Programme |
 | Health Promotion Board: Healthy 365 Recruitment Drive |
-| Health Promotion Board: Role Modelling Activtation – " You Are Your Child's First Nature Guide" Interactive Booth |
+| Health Promotion Board: Role Modelling Activation – " You Are Your Child's First Nature Guide" Interactive Booth |
 | Health Promotion Board: What's Your Supporting Style? – Pop Up Booth |
-| Ministry of Social and Family Development: Family Activities |
+| Ministry of Social and Family Development: Families For Life Family Activities |
 
 <br>
 
@@ -64,7 +64,9 @@ Understand yourself better and convey your feelings at this interactive booth by
 
 <br>
 
-* **Active Family Programme by Health Promotion Board** <br> Active Family is an integrated programme that focuses on fundamental movement skills development and promotes bonding between parent and child (4 to 12 years old) through a variety of physical activities, and physical and health education. Join us for Frisbee and Archery Battleground! <br><br>To register a slot with your child, log into your Healthy365 App &gt; “Events” &gt; “Explore” &gt; Search for “Active Family Programme” &gt; Filter “West Coast Park”.
+* **Active Family Programme by Health Promotion Board** <br> Active Family is an integrated programme that focuses on fundamental movement skills development and promotes bonding between parent and child (4 to 12 years old) through a variety of physical activities, and physical and health education. 
+
+	At Parks Festival, take part in fun games such as Frisbee and Archery Battleground with your family! <br><br>To register a slot with your child, log into your Healthy365 App &gt; “Events” &gt; “Explore” &gt; Search for “Active Family Programme” &gt; Filter “West Coast Park”.
 
 
 ![Active Family Poster](/images/afp%20image.png)
@@ -80,18 +82,25 @@ Nuture your child's lifelong love of nature. Spark a new sense of curiosity in y
 
 <br>
 
-* **"What’s your supporting style?" - Pop Up Booth by Health Promotion Board** <br> At times, we may notice that people we care for seem different from their usual selves. That's when our emotional support means the most. <br> But have you ever wondered how you support those around you? Join us at this two-day event where you get to discover your supporting style and explore if you’re an Advisor, a Listener, an Optimist when helping others. <br> Gain practical tips that can help you become a better supporter and get to take home some cool freebies in our exciting activities. 
+* **What's Your Supporting Style? – Pop Up Booth by Health Promotion Board** <br> At times, we may notice that people we care for seem different from their usual selves. That's when our emotional support means the most. <br> 
+
+	But have you ever wondered how you support those around you? Join us at this two-day event where you get to discover your supporting style and explore if you’re an *Advisor*, a *Listener*, an *Optimist* when helping others. <br> 
+
+	Gain practical tips that can help you become a better supporter and get to take home some cool freebies in our exciting activities. 
 
 ![](/images/activation%20park%20fest%202.png)
 
 <br>
 
-* **Healthy 365 Recruitment Drive by Health Promotion Board** <br>Healthier SG is a national initiative by the Ministry of Health (MOH). <br> Under HSG, the 3 regional health clusters will partner agencies such as Health Promotion Board (HPB) and other social and community partners to support your health goals. <br> For a start, you will be able to access more physical and health-promoting activities through HPB's Healthy 365 app and you will be able to choose activities that suit you best.
+* **Healthy 365 Recruitment Drive by Health Promotion Board** <br>
+Access more physical and health-promoting activities through HPB's Healthy 365 app and choose activities that suit you best!
+
+Take part in healthy activity challenges like the National Steps Challenge and Eat-Drink-Shop-Healthy Challenge, and earn Healthpoints which can be redeemed for eVouchers.
 
 ![](/images/h365%20booth%20image.png)
 
 <br>
 
-* **Families For Life by Ministry of Social and Family Development** <br> Jump to your heart's content at Families for Life's Carrot Playground inflatable. Drop by our booth to enjoy a complimentary Becky Bunny temporary tattoo sticker and find out more about Families for Life's programmes and initiatives!
+* **Families For Life Family Activities by Ministry of Social and Family Development** <br> Jump to your heart's content at Families for Life's Carrot Playground inflatable. Drop by our booth to enjoy a complimentary Becky Bunny temporary tattoo sticker and find out more about Families for Life's programmes and initiatives!
 
 ![Bouncy Castle](/images/bouncy%20castle.jpg)
