@@ -49,6 +49,9 @@ Over one weekend, the festival brings together NParks’ signature programmes an
 | -------- | -------- |
 | Hungry? We got you! Take your pick from mouth-watering F&amp;B selections at the festival. | ![](/images/the%20travelling%20cow.jpeg) |
 
+| [Satellite Programes](https://parksfestival.nparks.gov.sg/programmes/satellite-programmes/) | |
+| -------- | -------- |
+| Check out the satellite programmes taking place during the festival period at our parks and green spaces island-wide. |  |
 
 #### #SGParksFest <br>
 Share your experience with us! Post your stories, photos and videos on social media with the hashtag **#SGParksFest**. Let's make some unforgettable memories together in this year's Parks Festival 2023!
