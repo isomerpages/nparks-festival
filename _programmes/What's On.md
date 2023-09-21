@@ -9,7 +9,7 @@ Over one weekend, the festival brings together NParks’ signature programmes an
 
 
 
-|  [Arts &amp; Culture](https://parksfestival.nparks.gov.sg/programmes/arts-and-culture/onsite/) | |
+| [Arts &amp; Culture](https://parksfestival.nparks.gov.sg/programmes/arts-and-culture/onsite/) | |
 | -------- | -------- |
 | Be inspired with sculptural displays by talented local creatives. You can also unveil your artistic side by creating your own masterpieces in the park!     |![](/images/parks%20fest%20wood%20cookie%20art.jpg)     |
 
@@ -44,9 +44,9 @@ Over one weekend, the festival brings together NParks’ signature programmes an
 <br>
 <br>
 
-| Retail &amp; Food and Beverages | |
+| Marketplace | |
 | -------- | -------- |
-| Don’t miss out on the shopping experience with our retail stretch! Bring something home for you or your loved ones at the marketplace featuring 100 vendors offering arts, gardening, pets and lifestyle products. Not to forget, fast bites and beverages to fuel you up during your visit!     |  ![Plant sale](/images/plant%20sale%20.jpg) |
+| Shop to your heart's content at our Marketplace! Bring something home for you or your loved ones at the marketplace featuring vendors offering arts &amp; lifestyle, gardening and pet-related products. Don't forget to bring a bag for your purchases! |  ![Plant sale](/images/plant%20sale%20.jpg) |
 
 
 #### #SGParksFest <br>
