@@ -6,8 +6,9 @@ third_nav_title: Gardening & Nature
 ---
 For the nature and wildlife lover, learn about our green spaces and our rich biodiversity. Witness Singapore’s nature heritage and join in the guided walks and forest tours at the satellite locations! 
 
-#### Saturday &amp; Sunday <br>
-**23 &amp; 24 September 2023, 10am – 5pm**
+#### 23 Sep (Sat) &amp; 24 Sep (Sun)
+**23 Sep (Sat) – 10am to 6pm**  
+**24 Sep (Sun) – 10am to 5pm**
 
 
 | Programmes @ Gardening &amp; Nature Zone | 
@@ -22,7 +23,7 @@ For the nature and wildlife lover, learn about our green spaces and our rich bio
 
 <br>
 
-#### More about programmes at Gardening &amp; Nature Zone!
+#### More about programmes at Gardening &amp; Nature
 
 <br>
 
