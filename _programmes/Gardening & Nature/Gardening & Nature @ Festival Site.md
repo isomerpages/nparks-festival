@@ -80,8 +80,9 @@ $10/pax****
 <br>Unleash your inner mixologist in this farm-to-table mocktail making experience! Freshness to taste, soak into nature's flavours where you will be harvesting vibrant mint and transforming them into a refreshingly Virgin Mojito, all while learning about mint cultivation and its properties.
 
 Register [here](https://citysprouts.com.sg/products/parks-festival-2023-west-coast).
-
+![](/images/city%20sprouts%20dome%202.png)
 
 
 ##### **Farmers' Stories Exhibition (City Sprouts)** 
 City Sprouts brings their showcase of community farmers' stories in a form of an exhibition gallery – meet the farmers and have a chat with them on their experiences from 11am – 1pm and 2pm – 4pm!
+![](/images/city%20sprouts%20farmers'%20exhibition.png)
