@@ -116,6 +116,7 @@ More about the event [here](https://www.nparks.gov.sg/activities/events-and-work
 Prepare to be captivated by our talented local artists and allow their mesmerising melodies to soothe your soul under the stars!
 
 More about the event [here](https://www.nparks.gov.sg/activities/events-and-workshops/2023/9/lights-by-the-lake-2023-festival-of-lights).
+![](/images/music%20under%20the%20moonlight%20jlg.png)
 
 ##### **Civic District Tree Trail – Istana Route** <br> 
 **24 Sep (Sun), 9am – 10.30am**
@@ -123,3 +124,4 @@ More about the event [here](https://www.nparks.gov.sg/activities/events-and-work
 The Civic District Tree Trail takes you through Singapore's historic Civic District where you will be marvelled by many majestic and interesting trees. Did you know that some of the these trees have witnessed the transformation and progress of Singapore through the years? Join us as we take you through part of the trail starting from the entrance of Istana to CHIJMES! <br> 
 
 Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2022/1/civic-district-tree-trail---istana-route-24-sept-2023-9am).
+![](/images/cd%20tree%20trail.JPG)
