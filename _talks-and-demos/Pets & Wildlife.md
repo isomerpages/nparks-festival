@@ -3,8 +3,8 @@ title: Pets & Wildlife
 permalink: /talks-and-demos/pets-and-wildlife/
 description: ""
 ---
-#### 23 Sep (Sat)
-**Talks** <br>
+### 23 Sep (Sat)
+##### **Talks** <br>
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
@@ -13,7 +13,7 @@ description: ""
 | 2pm – 3pm | Wildlife Commonly Seen in Parks | Foo Zhi Jie (NParks) |
 | 3pm – 4pm | “Hands Off!” Understanding and Addressing Resource Guarding in Dogs | Chong Qi Ai &amp; Webster Cheong (NParks) |
 
-**Demonstrations - 23rd September 2023** <br>
+##### **Demonstrations** <br>
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
@@ -21,8 +21,8 @@ description: ""
 
 <br>
 
-#### Sunday
-**Talks - 24th September 2023** <br>
+### 24 Sep (Sun)
+##### **Talks** <br>
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
@@ -32,7 +32,7 @@ description: ""
 | 3pm – 4pm | The Great Diversity of Insects in Singapore | Foo Maosheng (Lee Kong Chian Natural History Museum (NUS))
 
 
-**Demonstrations - 24th September 2023** <br>
+##### **Demonstrations** <br>
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
