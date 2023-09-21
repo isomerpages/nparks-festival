@@ -35,10 +35,12 @@ Parallel to West Coast Highway <br>
 
 <br>
 
+#### Getting There
+
 ##### By Public Transport  <br>
 **Bus stop ID:** 17291, 16241 <br>
 **Bus services:** 175, 176 <br>
-**Nearest MRT:** Haw Par Villa Station  
+**Nearest MRT station:** Haw Par Villa (CC25)
 
 <br>
 	
@@ -50,8 +52,6 @@ West Coast Highway - West Coast Carpark Area 3 <br>
 
 ##### West Coast Park Map <br>
 ![West Coast Park map](/images/wcp%20map.jfif)
-[Click here to enlarge map](https://www.nparks.gov.sg/-/media/nparks-real-content/gardens-parks-and-nature/parks-and-nature-reserve/west-coast-park/west-coast-park-map.ashx)
+[View park map](https://www.nparks.gov.sg/-/media/nparks-real-content/gardens-parks-and-nature/parks-and-nature-reserve/west-coast-park/west-coast-park-map.ashx)
 
-<br>
 Click [here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/west-coast-park) for more information on West Coast Park.
-
