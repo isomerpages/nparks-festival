@@ -42,17 +42,16 @@ Parallel to West Coast Highway <br>
 
 <br>
 	
-**Driving** <br>
+##### By Car <br>
 West Coast Highway - West Coast Carpark Area 3 <br>
 2 EV chargers are available at West Coast Park Carpark 3
 
 <br>	
 
-**West Coast Park Map** <br>
+##### West Coast Park Map <br>
 ![West Coast Park map](/images/wcp%20map.jfif)
-[Click here to view map](https://www.nparks.gov.sg/-/media/nparks-real-content/gardens-parks-and-nature/parks-and-nature-reserve/west-coast-park/west-coast-park-map.ashx)
+[Click here to enlarge map](https://www.nparks.gov.sg/-/media/nparks-real-content/gardens-parks-and-nature/parks-and-nature-reserve/west-coast-park/west-coast-park-map.ashx)
 
 <br>
-For more information on West Coast Park, you can visit the park webpage via the link below. <br>
+Click [here](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/west-coast-park) for more information on West Coast Park.
 
-[Learn more about West Coast Park](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/west-coast-park)
