@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Satellite Programmes.md
       - What's On.md
       - Arts & Culture/.keep
       - Arts & Culture/Arts & Culture @ Festival Site.md
