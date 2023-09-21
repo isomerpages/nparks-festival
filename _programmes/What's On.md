@@ -6,9 +6,6 @@ description: ""
 ![](/images/5%20categories_2208_2.png)
 Over one weekend, the festival brings together NParks’ signature programmes and activities that are commonly offered in our parks and nature spaces in Singapore.   
 
-
-
-
 | [Arts &amp; Culture](https://parksfestival.nparks.gov.sg/programmes/arts-and-culture/onsite/) | |
 | -------- | -------- |
 | Be inspired with sculptural displays by talented local creatives. You can also unveil your artistic side by creating your own masterpieces in the park!     |![](/images/parks%20fest%20wood%20cookie%20art.jpg)     |
@@ -16,7 +13,7 @@ Over one weekend, the festival brings together NParks’ signature programmes an
 <br>
 <br>
 
-|[Concerts &amp; Performances](https://parksfestival.nparks.gov.sg/programmes/concert-and-performances/onsite/) |  |
+|[Concert &amp; Performances](https://parksfestival.nparks.gov.sg/programmes/concert-and-performances/onsite/) |  |
 | -------- | -------- |
 | Celebrate the weekend by partying with us at NParks Concert Series in the Parks: Rockestra® and go back in time with the hits of 1999! |  ![Concert in the park](/images/rockestra.jpg)  | 
 
@@ -44,9 +41,13 @@ Over one weekend, the festival brings together NParks’ signature programmes an
 <br>
 <br>
 
-| Marketplace | |
+| [Marketplace](https://parksfestival.nparks.gov.sg/marketplace/) | |
 | -------- | -------- |
 | Shop to your heart's content at our Marketplace! Bring something home for you or your loved ones at the marketplace featuring vendors offering arts &amp; lifestyle, gardening and pet-related products. Don't forget to bring a bag for your purchases! |  ![Plant sale](/images/plant%20sale%20.jpg) |
+
+| [F&amp;B](https://parksfestival.nparks.gov.sg/marketplace/) | |
+| -------- | -------- |
+| Hungry? We got you! Take your pick from mouth-watering F&amp;B selections at the festival. | ![](/images/the%20travelling%20cow.jpeg) |
 
 
 #### #SGParksFest <br>
