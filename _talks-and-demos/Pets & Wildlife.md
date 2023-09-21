@@ -3,8 +3,8 @@ title: Pets & Wildlife
 permalink: /talks-and-demos/pets-and-wildlife/
 description: ""
 ---
-#### Saturday
-**Talks - 23rd September 2023** <br>
+#### 23 Sep (Sat)
+**Talks** <br>
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
@@ -43,7 +43,7 @@ description: ""
 
 <br>
 
-#### More about the Talks &amp; Demonstrations!
+#### More about the Talks &amp; Demonstrations
 
 
 ##### Talks
