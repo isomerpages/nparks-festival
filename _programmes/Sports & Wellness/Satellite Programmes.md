@@ -36,6 +36,7 @@ third_nav_title: Sports & Wellness
 Join us for a rejuvenating fitness and wellness event at Holland Village Park. This two-day festival is designed to celebrate health, happiness, and the beauty of nature. Whether you're a fitness enthusiast or someone looking to embark on a journey of well-being, this event has something for you.
 
 Register [here](https://5667agjbl30.typeform.com/to/ATwiUZSx).
+![](/images/gym%20pod%20hvp.png)
 
 ##### **East Coast Park: KPMG Wellness Garden Tour: Scent Bag-making Workshop** 
 **23 Sep (Sat), 9am – 10.30am**
