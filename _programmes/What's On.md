@@ -45,7 +45,7 @@ Over one weekend, the festival brings together NParks’ signature programmes an
 | -------- | -------- |
 | Shop to your heart's content at our Marketplace! Bring something home for you or your loved ones at the marketplace featuring vendors offering arts &amp; lifestyle, gardening and pet-related products. Don't forget to bring a bag for your purchases! |  ![Plant sale](/images/plant%20sale%20.jpg) |
 
-| [F&amp;B](https://parksfestival.nparks.gov.sg/marketplace/) | |
+| [F&amp;B](https://parksfestival.nparks.gov.sg/fnb/) | |
 | -------- | -------- |
 | Hungry? We got you! Take your pick from mouth-watering F&amp;B selections at the festival. | ![](/images/the%20travelling%20cow.jpeg) |
 
