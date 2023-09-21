@@ -38,23 +38,32 @@ third_nav_title: Gardening & Nature
 
 <br>
 
-* **Jurong Lake Gardens: Biodiversity Guided Walk**<br> Come on down to Jurong Lake Gardens and learn about the rich biodiversity that you can find here! Breathe in the fresh air and listen to the delightful sounds of nature on a free guided walk. <br>
-For interest, please write in to: 
-[JurongLakeGardens@nparks.gov.sg](JurongLakeGardens@nparks.gov.sg)
+* **Jurong Lake Gardens: Biodiversity Guided Walk**
+23 Sep (Sat), 
+<br> Come on down to Jurong Lake Gardens and learn about the rich biodiversity that you can find here! Breathe in the fresh air and listen to the delightful sounds of nature on a free guided walk. <br>
+
+To register, write in to
+[JurongLakeGardens@nparks.gov.sg](JurongLakeGardens@nparks.gov.sg).
 
 ![Biodiversity Guided Walk](/images/biodiversity%20guided%20walk.jpeg)
 
 <br>
 
-* **Hindhede Nature Park: Coco &amp; Friends**<br> Coco and Friends” is a programme by National Parks Board and HSBC Singapore aiming to promote more understanding and awareness of some of our native biodiversity found in our forests. <br> Through the eyes of Coco the Malayan Colugo, children will embark on a nature adventure learning about Coco and his forest friends, and about the plants that are useful to both Man and animals.<br> For interest, visit this link: [https://www.nparks.gov.sg/activities/events-and-workshops/2023/9/cn_coco-and-friends-23-sept-2023](https://www.nparks.gov.sg/activities/events-and-workshops/2023/9/cn_coco-and-friends-23-sept-2023)
+* **Hindhede Nature Park: Coco &amp; Friends**<br> Coco and Friends” is a programme by National Parks Board and HSBC Singapore aiming to promote more understanding and awareness of some of our native biodiversity found in our forests. <br> 
+
+	Through the eyes of Coco the Malayan Colugo, children will embark on a nature adventure learning about Coco and his forest friends, and about the plants that are useful to both Man and animals.<br> 
+	
+	Register [here](https://www.nparks.gov.sg/activities/events-and-workshops/2023/9/cn_coco-and-friends-23-sept-2023).
 
 ![](/images/coco%20&amp;%20friends.png)
 
 <br>
 
 
-* **Singapore Botanic Gardens: Learning Forest Tour**<br>The Learning Forest features a network of boardwalks and elevated walkways that allow visitors to explore habitats ranging from a freshwater forest wetland to a lowland rainforest. Visitors can learn about freshwater forest wetland ecosystems at the Keppel Discovery Wetlands and walk amongst a collection of some of the tallest tree species in Southeast Asia at the SPH Walk of Giants. <br> For interest, please write in to
-[nparks_sbg_visitor_services@nparks.gov.sg](nparks_sbg_visitor_services@nparks.gov.sg)
+* **Singapore Botanic Gardens: Learning Forest Tour**<br>The Learning Forest features a network of boardwalks and elevated walkways that allow visitors to explore habitats ranging from a freshwater forest wetland to a lowland rainforest. Visitors can learn about freshwater forest wetland ecosystems at the Keppel Discovery Wetlands and walk amongst a collection of some of the tallest tree species in Southeast Asia at the SPH Walk of Giants. <br> 
+
+	Please register at the Visitor Services Desk, Tanglin Gate 15 mins before the scheduled tour. Click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2023/9/learning-forest-tour-4th-sat) for more info.
+
 
 ![Learning Forest Tour](/images/learning%20forest%20tour%2002.jpeg)
 
