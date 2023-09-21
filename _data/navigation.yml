@@ -14,4 +14,6 @@ links:
     url: /visit
   - title: DOWNLOAD
     url: https://go.gov.sg/parksfestival2023hb
-    sublinks: []
+    sublinks:
+      - title: Festival Handbook
+        url: https://go.gov.sg/parksfestival2023hb
