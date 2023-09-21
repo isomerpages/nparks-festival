@@ -25,13 +25,13 @@ Wildlife enthusiasts, chat with our nature ambassadors and take part in the fun,
 Learn more about commonly-encountered wildlife in Singapore and how you can have safe and responsible encounters with wildlife.
 
 There will be games, stickers and guidebooks to cultivate greater awareness and understanding of our commitment to conserve and manage the native biodiversity in our City in Nature.
-
+![](/images/common%20grass%20yellow_khew%20sin%20khoon.jpg)
+*Photo: Khew Sin Koon*
 
 ##### **BirdCraze Display** <br>
 Come see the colourful birds on display and learn about parrot keeping from BirdCraze members. 
 
 Click [here](https://www.facebook.com/groups/BirdCraze.sg) for more information on BirdCraze.
-
 ![BirdCraze - Photo credit BirdCraze Facebook](/images/birdcraze%20fb%20photo.jpeg)
 
 
@@ -58,7 +58,6 @@ Learn about responsible pet ownership and consider adopting instead of buying a 
 ##### **Chat with a Vet** <br> 
 
 'Chat with a Vet' aims to educate pet owners on preventive pet&nbsp;care and inculcate the importance of routine&nbsp;veterinary care for pets. Pet owners can seek advice from the vets on pet-related issues.
-
 ![Chat with a vet](/images/chat%20with%20a%20vet%202.jpg)
 
 ##### **Chat with the Trainers** 
@@ -67,12 +66,13 @@ Learn about responsible pet ownership and consider adopting instead of buying a 
 Come chat with the dog trainers if you have questions on basic obedience training and socialization! The trainers could provide advice based on your dog’s breed, age and temperament.
 
 Trainers: June Lim, ADT, ACDT, Fear Free Certified Professional, from A Smiling Leash | Yap Shi Ying, ADT, ACDT, FDM from Click With Dogs | Candy Lim-Soliano, ADT, ACDT, Fear Free Shelters Graduate, from Kaizen 4 Dogs
+![](/images/let's%20train%20without%20pain%20demo.png)
 
 ##### **Chat with a Groomer** <br> 
 **24 Sep (Sun): 10am – 2pm**
 
 Regular grooming can ensure your pets’ well-being such as keeping their coat and skin healthy, prevent matting and tangling, and reduce the risk of skin infections. Chat with a groomer to find out how you can take care of your pet daily grooming necessities, including nail trimming and ear cleaning!
-
+![](/images/121-_ar30859.jpg)
 
 ##### **Open Dog Run** <br> 
 Bringing your pet dog to the event? Let them run free in this open space!
@@ -111,7 +111,6 @@ As junior vets, children could learn about basic animal anatomy, common illnesse
 Join us as your children learn about animal health and nutrition while also developing important skills such as empathy and responsibility in a fun and educational way!
 
 Register [here](https://go.gov.sg/petzmania23sep2023).
-
 ![Petzmania](/images/petzmania.JPG)
 
 
@@ -120,12 +119,12 @@ Register [here](https://go.gov.sg/petzmania23sep2023).
 ##### **Hamster Pebble Adoption by Hamster Society Singapore** <br> 
 
 Want to learn about responsible hamster ownership in a fun way? Join the Hamster Society Singapore in creating little rock hamsters to take home as an introduction in learning how to keep pet hamsters! Parents are welcomed to join in! Limited slots available.
-<br> For ages: 3 to 12 years old
+Suitable for children from 3 to 12 years old.
 <br> 
 
 Register for the sessions here:
 [4pm – 5pm](https://go.gov.sg/pebblehamster4pm) | [5pm – 6pm](https://go.gov.sg/pebblehamster5pm)
-
+![](/images/hamster%20pebble%20adoption.jpg)
 
 ##### **Freddy The Dog Rescuer by Swapnil Mishra**<br>
 
@@ -137,3 +136,4 @@ The narrative delves into themes such as adopting versus buying, integrating int
 
 Register for the sessions here:
 [3pm – 4pm](https://go.gov.sg/freddystorytelling3pm) | [4pm – 5pm](https://go.gov.sg/freddystorytelling4pm)
+![](/images/freddy%20the%20dogged%20rescuer.jpg)
