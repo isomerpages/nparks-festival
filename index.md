@@ -42,6 +42,6 @@ sections:
       title: "#SGParksFest"
       subtitle: Share your experience
       description: Hashtag your event experience with us and see others in action!
-      button: what's happening!
+      button: what's happening
       url: /media/
 ---
