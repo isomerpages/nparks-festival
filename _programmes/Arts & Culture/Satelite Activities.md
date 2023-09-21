@@ -6,20 +6,18 @@ third_nav_title: Arts & Culture
 ---
 ## Arts &amp; Culture
 
-### Saturday <br>
-**23 September 2023**
-
+### 23 Sep (Sat) <br>
 
 
 | Time | Programme | Location |
 | -------- | -------- | -------- |
-| 8.30am - 12.30pm | Arts@HortPark - Oil Painting Workshop | HortPark |
-| 9am - 10am | Singapore Botanic Gardens Heritage Tour | Singapore Botanic Gardens    |
-|10am - 11am | Singapore Botanic Gardens, Gallop Extension: Guided Exhibition Tour | Singapore Botanic Gardens    |
-| 10am - 11am | Race Againts Time - Science behind a Botanic Garden Tour | Singapore Botanic Gardens |
-| 9am - 11am | Heritage on the Hill (Guided Tour) | Fort Canning Park |
-| 2pm - 4pm | Galleries Tour (Guided Tour) | Fort Canning Park |
-| 7pm - 11pm | Lights by the Lake 2023 | Jurong Lake Gardens |
+| 8.30am – 12.30pm | Arts@HortPark - Oil Painting Workshop | HortPark |
+| 9am – 10am | Singapore Botanic Gardens Heritage Tour | Singapore Botanic Gardens    |
+|10am – 11am | Singapore Botanic Gardens, Gallop Extension: Guided Exhibition Tour | Singapore Botanic Gardens    |
+| 10am – 11am | Race Against Time - Science behind a Botanic Garden Tour | Singapore Botanic Gardens |
+| 9am – 11am | Heritage on the Hill (Guided Tour) | Fort Canning Park |
+| 2pm – 4pm | Galleries Tour (Guided Tour) | Fort Canning Park |
+| 7pm – 11pm | Lights by the Lake 2023 | Jurong Lake Gardens |
 
 
 
@@ -27,18 +25,15 @@ third_nav_title: Arts & Culture
 
 
 
-### Sunday <br>
-**24 September 2023**
-
-
+### 24 Sep (Sun) <br>
 
 
 
 | Time | Program | Location |
 | -------- | -------- | -------- |
-| 9am - 10.30am | Civic District Tree Trail - Istana Route | Civic District |
-| 2pm - 4pm  | Galleries Tour  |  Fort Canning Park |
-| 7pm - 11pm | Lights by the Lake 2023 | Jurong Lake Gardens |
+| 9am – 10.30am | Civic District Tree Trail – Istana Route | Civic District |
+| 2pm – 4pm  | Galleries Tour  |  Fort Canning Park |
+| 7pm – 11pm | Lights by the Lake 2023 | Jurong Lake Gardens |
 
 
 
@@ -47,7 +42,7 @@ third_nav_title: Arts & Culture
 
 <br>
 
-#### More on Arts &amp; Culture programmes at other parks!
+#### More on Arts &amp; Culture programmes at other parks
 
 
 * **Arts@Hortpark - Oil Painting Workshop** <br>Join us for a fun and inspiring outdoor painting experience with Mylène and unleash your inner artist! 

@@ -2,13 +2,15 @@ logo: /images/park festival event id.png
 links:
   - title: About
     url: /about/
-  - title: What's On
-    url: /whats-on/
-  - title: Programs
+  - title: Programmes
     collection: programmes
   - title: Talks
     collection: talks-and-demos
-  - title: Promotions
+  - title: MARKETPLACE
+    url: /marketplace
+  - title: Promotions & Giveaways
     collection: promotions
   - title: Visit
     url: /visit
+  - title: DOWNLOAD
+    url: /handbook
