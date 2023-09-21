@@ -160,10 +160,3 @@ Did you know that a Kapok tree can grow up to 40 metres high? Let our nature-lov
 
 To register, click [here](https://form.gov.sg/64e6fb01bab63100113af58a).
 ![Trees of the Fort](/images/trees%20of%20the%20fort.jpeg)
-
-<br>
-
-<br>
-
-<br>
-<br>
