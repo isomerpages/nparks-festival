@@ -32,7 +32,7 @@ Click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2023/9/sb
 <br>
 <br>
 
-##### **Music Oasis by Singapore Chinese Orchestra <br>
+##### **Jurong Lake Gardens: Music Oasis by Singapore Chinese Orchestra** <br>
 
 **6pm – 7pm** <br> 
 Experience the captivating tunes of the Singapore Chinese Orchestra as they enchant you with their harmonious symphonies, showcasing the rich cultural heritage and musical prowess of Singapore's Chinese musical traditions. <br>
