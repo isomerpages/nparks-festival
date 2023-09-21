@@ -113,27 +113,39 @@ To register, write in to [NG_Daniel_Ch@nparks.gov.sg](NG_Daniel_Ch@nparks.gov.sg
 
 <br>
 
-* **Fun Walk along The Southern Ridges**<br>Take your family on a leisure stroll through southern ridges, a soothing sanctuary of greenery that is not only steeped in history but also home to some of Singapore's most exciting flora and fauna. Highlights of the tour included the Henderson Waves, Sembcorp Forest of the Giants, Forest Walk and the Singing Forest. <br> For interest, please write in to [elaine_poon@nparks.gov.sg](elaine_poon@nparks.gov.sg)
- 
- <br> ![Walking along Southern Ridges](/images/bird%20watching%20along%20the%20southern%20ridges%20cropped.jpg)
+##### **Fun Walk along The Southern Ridges**<br>
+**23 Sep (Sat), 9am – 11am**
+
+Take your family on a leisure stroll through southern ridges, a soothing sanctuary of greenery that is not only steeped in history but also home to some of Singapore's most exciting flora and fauna. Highlights of the tour included the Henderson Waves, Sembcorp Forest of the Giants, Forest Walk and the Singing Forest. 
+
+To register, click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2023/9/fun-walk-along-southern-ridges-23-september-2023). 
+![Walking along Southern Ridges](/images/bird%20watching%20along%20the%20southern%20ridges%20cropped.jpg)
 
 
+##### **Sungei Buloh Wetland Reserve: What's in my Mangroves**<br>
+**23 Sep (Sat), 9.30am – 11am**
 
-<br>
+Join us for a guided walk of this unique mangrove wetlands located at the border of freshwater (river) and salt water (sea). Singapore used to have large areas of mangroves, but lost most of them to coastal development. Few mangroves are left in Singapore, one of which is at Sungei Buloh Wetland Reserve. 
 
-* **Sungei Buloh Wetland Reserve: What's in my Mangroves**<br>Join us for a guided walk of this unique mangrove wetlands located at the border of freshwater (river) and salt water (sea). Singapore used to have large areas of mangroves, but lost most of them to coastal development. Few mangroves are left in Singapore, one of which is at Sungei Buloh Wetland Reserve. <br><br> Registration for this walk opens on 15 September 2023 (Friday). For interest, please write in to [nparks_sbwr@nparks.gov.sg](nparks_sbwr@nparks.gov.sg)
-
+To register, click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2023/9/23-sep-whats-in-my-mangrove).
 ![What's in my mangroves](/images/sbwr%20what's%20in%20my%20mangrove.jpeg)
 
 <br>
 
-* **Nature Appreciation @ Bukit Timah Nature Reserve**<br> Experience nature in its pristine form at Bukit Timah Nature Reserve, which is a mere 12 km from the bustling city centre. Join us for a Guided Nature Appreciation Walk to find out more about the flora &amp; fauna that can be found in the reserve! <br> For interest, please write in to [Fadzleen_ARRIFFIN@nparks.gov.sg](Fadzleen_ARRIFFIN@nparks.gov.sg)
+##### **Nature Appreciation @ Bukit Timah Nature Reserve**
+**23 Sep (Sat), 11am – 12pm**
 
+Experience nature in its pristine form at Bukit Timah Nature Reserve, which is a mere 12 km from the bustling city centre. Join us for a Guided Nature Appreciation Walk to find out more about the flora &amp; fauna that can be found in the reserve! 
+
+To register, click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2023/9/cn_nature-appreciation-walk-at-bukit-timah-nature-reserve-23-sept-2023).
 ![Bukit Timah Nature Reserve](/images/btnr%20nature%20appreciation%20walk.jpeg)
 
 <br>
 
-* **Nature Appreciation @ Rifle Range Nature Park**<br>Join us for a free guided walk at Rifle Range Nature Park to learn more about our rich biodiversity and the animal crossing features such as rope bridges and colugo poles. <br> For interest, please write in to [Fadzleen_ARRIFFIN@nparks.gov.sg](Fadzleen_ARRIFFIN@nparks.gov.sg)
+##### **Nature Appreciation @ Rifle Range Nature Park**
+**23 Sep (Sat), 11am – 12pm**
+
+Join us for a free guided walk at Rifle Range Nature Park to learn more about our rich biodiversity and the animal crossing features such as rope bridges and colugo poles. <br> For interest, please write in to [Fadzleen_ARRIFFIN@nparks.gov.sg](Fadzleen_ARRIFFIN@nparks.gov.sg)
 
 ![Rifle Range Nature Park](/images/rrnp%20nature%20appreciation%20walk_2.jpeg)
 
