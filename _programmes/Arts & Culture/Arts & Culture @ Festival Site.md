@@ -11,13 +11,12 @@ Grab a paintbrush and showcase your creativity on repurposed wood cookies, check
 
 #### 23 Sep (Sat) &amp; 24 Sep (Sun) <br>
 
-<br>
+**23 Sep (Sat) – 10am to 6pm** <br>
+**24 Sep (Sun) – 10am to 5pm**
 
-| 10am – 5pm |
-| -------- |
-| Upcycled Wood Cookie Ornament Painting (NParks) | 
-| Exhibition: Wood Sculpture Displays from Upcycled Felled Timber (Sculpture Society (Singapore)) |
-| Exhibition: My Encounters with Nature (Tham Pui San) |
+* Upcycled Wood Cookie Ornament Painting (NParks)
+* Exhibition: Wood Sculpture Displays from Upcycled Felled Timber (Sculpture Society (Singapore))
+* Exhibition: My Encounters with Nature (Tham Pui San)
 
 
 <br>
@@ -27,7 +26,7 @@ Grab a paintbrush and showcase your creativity on repurposed wood cookies, check
 <br>
 
 
-* **Upcycled wood cookie ornament painting by NParks** <br>
+* **Upcycled Wood Cookie Ornament Painting by NParks** <br>
 Who needs paper when you have wood cookies? Using cross-cut sections of wood and your creativity, put together art pieces using upcycled materials while learning about biodiversity in West Coast Park.
 
 ![Wood Cookie art](/images/parks%20fest%20wood%20cookie%20art.jpg)
