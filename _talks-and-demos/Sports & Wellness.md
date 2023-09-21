@@ -3,38 +3,35 @@ title: Sports & Wellness
 permalink: /talks-and-demos/sports-and-wellness/
 description: ""
 ---
-#### Saturday
-**23rd September 2023** <br>
+#### 23 Sep (Sat)
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
-| 11am | General Wellness the TCM Way   |   Lee Hui Fang  |
-| 1pm  | Demonstration on Plant Propagation | Joshua Liang |
+| 11am | General Wellness the TCM Way |   Lee Hui Fang (Ouch!)  |
+| 1pm  | Demonstration on Plant Propagation | Joshua Liang (NParks, CIB Ambassador &amp; Nature Kakis @ Boon Lay Member) |
 | 2pm | Forest Therapy  | Chew Ting Ching    |
-| 3pm | Therapeutic Horticulture and Boonlay in Green Spaces (BLinGs) | David Yu |
+| 3pm | Therapeutic Horticulture and Boonlay in Green Spaces (BLinGs) | David Yu (NParks, CIB Ambassador &amp; Nature Kakis @ Boon Lay Member) |
 
 
-#### Sunday
-**24th September 2023** <br>
+#### 24 Sep (Sun)
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
 | 11am | Forest Therapy  | Chew Ting Ching  |
-| 1pm  | Therapeutic Horticulture and Bukit Gombak Nature Kakis (NK) | Jewel Koh    |
+| 1pm  | Therapeutic Horticulture and Bukit Gombak Nature Kakis (NK) | Jewelle Koh (Bukit Gombak Nature Kakis Member) |
 | 2pm | #JalanKakis - Wellness and Positivity through Walks | Iman Samsi |
 
 <br>
 
-#### More about the Talks!
-* **General Wellness the TCM Way by Lee Hui Fang**
-<br>Keep healthy with simple acupressure massage, qigong exercises and easy to grow herbs in Singapore. Learn simple receipes with easy to grow herbs like mint and basil.
-
-
+#### More about the Talks
+* **General Wellness the TCM Way by Lee Hui Fang (Ouch!)**
+<br>Keep healthy with simple acupressure massage, qigong exercises and easy to grow herbs in Singapore. Learn simple receipes with easy to grow herbs like mint and basil. <br>
+<br> Register [here](https://go.gov.sg/pf2023-generalwellness).
 
 <br>
 
-* **Demonstation on Plant Propagation by Joshua Liang**
-<br>Come learn more on how to grow your own culinary herbs and spices such as Basil, Chieve and Mint. You can grow some of these back at your home and use it as garnish in your dishes
+* **Demonstation on Plant Propagation by Joshua Liang (NParks, CIB Ambassador &amp; Nature Kakis @ Boon Lay Member)**
+<br>Come learn more on how to grow your own culinary herbs and spices such as Basil, Chieve and Mint. You can grow some of these back at your home and use it as garnish in your dishes!
 
 
 
@@ -54,11 +51,11 @@ description: ""
 
 <br>
 
-* **Therapeutic Horticulture and Boon Lay in Green Spaces) by David Yu**
+* **Therapeutic Horticulture and Boon Lay in Green Spaces) by David Yu (NParks, CIB Ambassador &amp; Nature Kakis @ Boon Lay Member)**
 <br>Learn about Therapeutic Horticulture and how BLinGs is intending to bring the programme to Boon Lay Community.
 
 
 <br>
 
-* **Therapeutic Horticulture and Bukit Gombak Nature Kakis (NK) by Jewel Koh**
+* **Therapeutic Horticulture and Bukit Gombak Nature Kakis (NK) by Jewelle Koh (Bukit Gombak Nature Kakis Member)**
 <br>Learn more on how to DIY your own scent bag using Lemon Grass or Pandan leaves. This activity can be done together with your family members!

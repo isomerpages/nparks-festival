@@ -3,24 +3,22 @@ title: Gardening & Nature
 permalink: /talks-and-demos/gardening-and-nature/
 description: ""
 ---
-#### Saturday
-**23rd September 2023** <br>
+#### 23 Sep (Sat)
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
-| 10am | Pot-a-plant! | Edible Garden City |
-| 11am | Companion Planting as Pest Management | Nagip Elimad (City Sprouts) |
-| 2pm | Introduction of Preserved Moss  |  Arnold Kokezen  |
+| 10am | Pot-a-Plant! | Edible Garden City |
+| 11am | Companion Planting as Pest Management | Nagib Elimad (City Sprouts) |
+| 2pm | Introduction of Preserved Moss  |  Arnold (Koke.zen)  |
 
 
-#### Sunday
-**24th September 2023** <br>
+#### 24 Sep (Sun)
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
-| 10am | Pot-a-plant! | Edible Garden City |
+| 10am | Pot-a-Plant! | Edible Garden City |
 | 11am | Companion Planting as Pest Management | Ian Sim (City Sprouts) |
-| 1pm | Mushroom World Academy  |  Liam Lee  |
+| 1pm | All About Mushrooms  |  Liam Lee (Mushroom World Academy) |
 | 2pm | Plant Care &amp; Styling  |  Leo Tay  |
 
 
@@ -28,7 +26,7 @@ description: ""
 <br>
 
 
-#### More on the Talks!
+#### More on the Talks
 
 <br>
 
@@ -45,7 +43,7 @@ description: ""
 
 <br>
 
-* **Pot-a-plant! by Edible Garden City**
+* **Pot-a-Plant! by Edible Garden City**
 <br>Come pot a plant to take home with you and start your edible growing journey! 
 <br> - Learn how to pot a cutting
 <br> - Get tips to nurture it into a productive plant for fresh harvest to add to your meals

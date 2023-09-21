@@ -3,16 +3,13 @@ title: Festival Promotions
 permalink: /promotions/
 description: ""
 ---
-Check out the festival promotions happening at participating tenants in our parks all over Singapore! From delicious food and drinks to exciting activities and discounts, there's something for everyone to enjoy. Take a stroll through the park and discover the amazing deals and offers available at our participating tenants. Don't miss out on this opportunity to celebrate the festive season with your loved ones while enjoying the beauty of our parks. Visit the parks during the festival period to enjoy these promotions!
+Check out the festival promotions happening at participating tenants in our parks all over Singapore! From delicious food and drinks to exciting activities and discounts, there's something for everyone to enjoy. 
 
 <br>
 
-##### Bishan-Ang Mo Kio Park and HortPark
-
-| Canopy Garden Dining |
-| -------- |
-|![Canopy Garden Dining](/images/canopy%20garden%20dining.jpg)
-
+#### Bishan-Ang Mo Kio Park and HortPark 
+##### Canopy Garden Dining
+![Canopy Garden Dining](/images/canopy%20garden%20dining.jpg) 
 
 Free Caesar Salad with purchase of any main dish. Quote "NParks Festival 2023" to redeem.
 
@@ -21,15 +18,11 @@ Free Caesar Salad with purchase of any main dish. Quote "NParks Festival 2023" t
 
 For more information, visit [https://www.canopygardendining.com/](https://www.canopygardendining.com/)
 
-<br>
-<br>
 
+#### East Coast Park 
 
-##### East Coast Park
-
-| Bike Stop by Coastline Leisure |
-| -------- |
-|![Bike Stop at Coastline Leisure](/images/coastline%20leisure.jpg)
+##### Bike Stop by Coastline Leisure
+![Bike Stop at Coastline Leisure](/images/coastline%20leisure.jpg)
 
 $5 off for family bike rental.  
 * Valid for 1 bike redemption per person. 
@@ -40,20 +33,21 @@ For more information, visit [ www.coastlineleisure.com.sg]( www.coastlineleisure
 
 <br>
 
-| Pedal for Gelato by Fico |
-| -------- |
-| ![Pedal for Gelato](/images/gelato%20fico%201.jpeg)
+##### Fico
+![Pedal for Gelato](/images/gelato%20fico%201.jpeg)
+
+**Pedal for Gelato**
 
 Cycle to, from, or around the park for a choice of one complimentary scoop of Solein Chocolate Gelato or Burrata Gelato at the Fico takeaway kiosk. <br><br> To redeem, let us know that you're participating in the NParks Parks Festival, and simply:  <br> (1) show us your total cycled distance on any fitness tracking app, and <br>(2) follow us @ficomasseria on Instagram.
 
-* Minimum of 15 KM cycled and limited to one complimentary gelato per person; only redeemable on the day of completion from 23-24 September, 3 to 5.30PM.
+* Minimum of 15 KM cycled and limited to one complimentary gelato per person 
+* Only redeemable on the day of completion from 23-24 September, 3-5.30pm
 * Limited to a total of 20 redemptions per day 
 
 <br>
 
-| Singapore Wake Park |
-| -------- |
-| ![Wake Boarding](/images/sg%20wake%20park.jpeg)
+##### Singapore Wake Park
+![Wake Boarding](/images/sg%20wake%20park.jpeg)
 
 Spend $80 nett at Singapore Wake Park’s Coastal Rhythm Cafe &amp; Bar between 18 and 24 September 2023 and redeem a pair of riding vouchers on the beginners riding system (System A) worth $100 ($50 x 2). 
 * Voucher is valid for use on weekdays only. Other T&amp;Cs apply.  
@@ -67,11 +61,10 @@ or contact 66364266 / 97722780 (WhatsApp).
 
 
 
-##### Pasir Ris Park
+#### Pasir Ris Park
 
-| Georges at the Cove  |
-| -------- |
-|![Georges at the Cove](/images/georges%20at%20the%20cove.jpg)
+##### Georges at the Cove
+![Georges at the Cove](/images/georges%20at%20the%20cove.jpg)
 
 Free Ice Cream worth $5.90 (regular scoop in a 100ml cup) with every main course or kid’s meal ordered. 
 * Only available in 2 flavours – Chocolate and Cookies n Cream. 
@@ -86,9 +79,8 @@ For more information, visit [www.georges.com.sg](www.georges.com.sg)
 
 
 
-| Kokomo Beach Club |
-| -------- |
-| ![Kayaking](/images/kayaking%20expedition%20to%20coney%20island.jpeg)
+##### Kokomo Beach Club 
+![Kayaking](/images/kayaking%20expedition%20to%20coney%20island.jpeg)
 
 Kayaking Coastal Clean-Up 
 Fantastic opportunity for families to engage in a meaningful activity while enjoying the serene coastal environment from Pasir Ris Park to the scenic Coney Island. 
@@ -105,9 +97,8 @@ or contact 9834 7984.
 
 
  
-| Rasa Istimewa |
-| -------- |
-| ![Rasa Istimewa @ Pasir Ris Park](/images/rasa%20istimewa%20pasir%20ris%203.jpeg)
+##### Rasa Istimewa
+![Rasa Istimewa @ Pasir Ris Park](/images/rasa%20istimewa%20pasir%20ris%203.jpeg)
 
 Spend in a single receipt and enjoy free items on your next visit! 
 * $50 and above for a free Baby Kailan (worth $8). 
@@ -124,11 +115,10 @@ or contact 6386 9339.
 
 
 
-##### Singapore Botanic Gardens
+#### Singapore Botanic Gardens
 
-| Garden Shop at Tanglin Gate |
-| -------- |
-|![Garden Shop at Tanglin Gate](/images/garden%20shop%20at%20tanglin%20gate.jpg)
+##### Garden Shop at Tanglin Gate
+![Garden Shop at Tanglin Gate](/images/garden%20shop%20at%20tanglin%20gate.jpg)
 
 **Tea Bar Specials**
 Enjoy a cup of Chelsea Straight Tea at $2.80 (U.P $3.80), exclusively at Gardens Shops at Tanglin Gate. 
@@ -141,11 +131,10 @@ For more information, visit  [www.nparks.gov.sg/sbg/shop-and-dine/gardens-shops]
 
 
 
-##### Woodlands Waterfront Park
+#### Woodlands Waterfront Park
 
-| Rasa Istimewa |
-| -------- |
-|![Rasa Istimewa @ Woodlands Waterfont](/images/rasa%20istimewa%20@%20waterfront.jpg)
+##### Rasa Istimewa 
+![Rasa Istimewa @ Woodlands Waterfont](/images/rasa%20istimewa%20@%20waterfront.jpg)
 
 Spend in a single receipt and enjoy free items on your next visit! 
 * $50 and above for a free Baby Kailan (worth $8). 
@@ -161,11 +150,10 @@ or contact 6366 9339.
 
 
 
-##### Fitness Promotions
+#### Various Parks
 
-| The Gym Pod |
-| -------- |
-|![The Gym Pod at various parks](/images/the%20gym%20pod.jpg)
+##### The Gym Pod
+![The Gym Pod at various parks](/images/the%20gym%20pod.jpg)
 
 10% off Starter Pack.  
 Use code: NPARKSFESTIVAL23 on The Gym Pod App to redeem.  
@@ -182,7 +170,9 @@ or contact support@thegympod.com for enquiries.
 | -------- |
 | ![The Gym Pod at various parks](/images/the%20gym%20pod.jpg)
 
-Join us for a rejuvenating fitness and wellness event at Holland Village Park. This two-day festival is designed to celebrate health, happiness, and the beauty of nature. Whether you're a fitness enthusiast or someone looking to embark on a journey of well-being, this event has something for you! <br> FREE 2 sessions of Sunrise Yoga i.e 1 session each on 23 and 24 Sep + 1 session of Metcon on 23 Sep. <br>
+Join us for a rejuvenating fitness and wellness event at Holland Village Park. This two-day festival is designed to celebrate health, happiness, and the beauty of nature. Whether you're a fitness enthusiast or someone looking to embark on a journey of well-being, this event has something for you! <br> 
+
+FREE 2 sessions of Sunrise Yoga i.e 1 session each on 23 and 24 Sep + 1 session of Metcon on 23 Sep. <br>
 
 3 Sessions - 10 pax per session
 * 1x Sunrise yoga on 23 Sept
