@@ -6,11 +6,11 @@ links:
     collection: programmes
   - title: Talks
     collection: talks-and-demos
-  - title: Promotions
+  - title: MARKETPLACE
+    url: /marketplace
+  - title: Promotions & Giveaways
     collection: promotions
   - title: Visit
     url: /visit
   - title: DOWNLOAD
     url: /handbook
-  - title: MARKETPLACE
-    url: /marketplace
