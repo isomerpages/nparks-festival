@@ -12,8 +12,7 @@ description: ""
 | 2pm | Introduction of Preserved Moss  |  Arnold (Koke.zen)  |
 
 
-#### Sunday
-**24th September 2023** <br>
+#### 24 Sep (Sun)
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
@@ -27,7 +26,7 @@ description: ""
 <br>
 
 
-#### More on the Talks!
+#### More on the Talks
 
 <br>
 
