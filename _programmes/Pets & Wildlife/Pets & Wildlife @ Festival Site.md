@@ -42,7 +42,7 @@ Click [here](https://www.facebook.com/groups/BirdCraze.sg) for more information 
 
 Learn about responsible pet ownership and consider adopting instead of buying a pet! Featuring animals up for adoption and merchandise booths, the Adoption Drive aims to fund-raise the rescue efforts of our Animal Welfare Group partners (AWGs) and encourage the re-homing of shelter animals.
 
-Participating AWGs: 
+**Participating AWGs:**
 * Action for Singapore Dogs (ASD)
 * Animal Lovers League (ALL)
 * Causes for Animals (CAS)
