@@ -3,19 +3,17 @@ title: Sports & Wellness
 permalink: /talks-and-demos/sports-and-wellness/
 description: ""
 ---
-#### Saturday
-**23rd September 2023** <br>
+#### 23 Sep (Sat)
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
-| 11am | General Wellness the TCM Way   |   Lee Hui Fang (Ouch!)  |
+| 11am | General Wellness the TCM Way |   Lee Hui Fang (Ouch!)  |
 | 1pm  | Demonstration on Plant Propagation | Joshua Liang (NParks, CIB Ambassador &amp; Nature Kakis @ Boon Lay Member) |
 | 2pm | Forest Therapy  | Chew Ting Ching    |
 | 3pm | Therapeutic Horticulture and Boonlay in Green Spaces (BLinGs) | David Yu (NParks, CIB Ambassador &amp; Nature Kakis @ Boon Lay Member) |
 
 
-#### Sunday
-**24th September 2023** <br>
+#### 24 Sep (Sun)
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
@@ -25,7 +23,7 @@ description: ""
 
 <br>
 
-#### More about the Talks!
+#### More about the Talks
 * **General Wellness the TCM Way by Lee Hui Fang (Ouch!)**
 <br>Keep healthy with simple acupressure massage, qigong exercises and easy to grow herbs in Singapore. Learn simple receipes with easy to grow herbs like mint and basil. <br>
 <br> Register [here](https://go.gov.sg/pf2023-generalwellness).
