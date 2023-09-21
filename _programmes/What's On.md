@@ -8,7 +8,7 @@ Over one weekend, the festival brings together NParks’ signature programmes an
 
 | [Arts &amp; Culture](https://parksfestival.nparks.gov.sg/programmes/arts-and-culture/onsite/) | |
 | -------- | -------- |
-| Be inspired with sculptural displays by talented local creatives. You can also unveil your artistic side by creating your own masterpieces in the park!     |![](/images/parks%20fest%20wood%20cookie%20art.jpg)     |
+| Be inspired with sculptural displays by talented local creatives. You can also unveil your artistic side by creating your own masterpieces in the park with upcycled wood cookies!     |![](/images/parks%20fest%20wood%20cookie%20art.jpg)     |
 
 <br>
 <br>
@@ -29,14 +29,14 @@ Over one weekend, the festival brings together NParks’ signature programmes an
 
 | [Sports &amp; Wellness](https://parksfestival.nparks.gov.sg/programmes/sports-and-wellness/onsite/)|  |
 | -------- | -------- |
-| Take charge of your health with exciting wellness activities lined up! Have a game or two in the park together with your family and friends.      | ![wellness activities](/images/picture1_2.jpg)    |
+| Take charge of your health with exciting wellness activities lined up! Have a game or two in the park with your family and friends.      | ![wellness activities](/images/picture1_2.jpg)    |
 
 <br>
 <br>
 
 |[Pets &amp; Wildlife](https://parksfestival.nparks.gov.sg/programmes/pets-and-wildlife/onsite/) | |
 | -------- | -------- |
-| Spot wildlife and native biodiversity together with guided tours. Pet owners can chat with our vets to learn more on your pet's health and how to better care for them.     |  ![](/images/wildlife%20display.JPG)    |
+| Take part in the fun, interactive activities to learn more about our native wildlife and how you can conserve and manage them! Pet owners, chat with vets, trainers and groomers to learn more about how to better care for your pets.     |  ![](/images/wildlife%20display.JPG)    |
 
 <br>
 <br>
