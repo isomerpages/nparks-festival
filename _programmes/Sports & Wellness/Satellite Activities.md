@@ -10,7 +10,7 @@ third_nav_title: Sports & Wellness
 | TIme | Programme | Location
 | -------- | -------- | -------- |
 | 8.40am – 9.20am | Sunrise Yoga | The Gym Pod @ Holland Village Park |
-| 9am – 10.30am | KPMG Wellness Garden Tour and Scent Bag Making | East Coast Park |
+| 9am – 10.30am | KPMG Wellness Garden Tour and Scent Bag Making | East Coast Park, Area D |
 | 9am – 10.30am | Therapeutic Garden Walk &amp; Therapeutic Horticulture Activities | Bedok Reservoir Park |
 | 9am – 11am | Therapeutic Horticulture Activity | Choa Chu Kang Park |
 | 9.40am – 10.20am | Metabolic Conditioning (MetCon) | The Gym Pod @ Holland Village Park |
@@ -37,6 +37,15 @@ Join us for a rejuvenating fitness and wellness event at Holland Village Park. T
 
 Register [here](https://5667agjbl30.typeform.com/to/ATwiUZSx).
 
+##### **East Coast Park: KPMG Wellness Garden Tour: Scent Bag-making Workshop** 
+**23 Sep (Sat), 9am – 10.30am**
+
+Join us for a tour at the KPMG Wellness Garden, a first-of-its-kind multigenerational wellness garden at East Coast Park. Envisioned as an inclusive nature oasis for park visitors of all ages and abilities, it offers a mix of tranquil, nature-based interactions. Learn how to make scented bags at the end of the tour! 
+
+Register [here](https://go.gov.sg/parksfestival-th).
+
+![KMPG Wellness Garden](/images/kpmg%20ecp%20wellness%20garden%20tg.jpeg)
+
 
 ##### **Bedok Reservoir Park: Therapeutic Garden Walk and Therapeutic Horticultuture activities** <br>
 The Therapeutic Horticulture Programme uses plants and nature related activities to maximise the benefits of a therapeutic garden. With growing interest in the benefits of therapeutic gardens and therapeutic horticulture, we have developed a series of workshops which are suitable for elderly groups, persons with dementia and other special needs.  <br>
@@ -46,12 +55,7 @@ To sign up, visit: [https://go.gov.sg/parksfestival-th](https://go.gov.sg/parksf
 
 <br>
 
-##### **East Coast Park: KPMG Wellness Garden Tour (Therapeutic Garden): Making scented bags** <br>
-**East Coast Park Area D**<br>
-Join us for a tour at the KPMG Wellness Garden, a first-of-its-kind multigenerational wellness garden at East Coast Park. Envisioned as an inclusive nature oasis for park visitors of all ages and abilities, it offers a mix of tranquil, nature-based interactions. Learn how to make scented bags at the end of the tour! <br>
-To sign up, visit: [https://go.gov.sg/parksfestival-th](https://go.gov.sg/parksfestival-th)
 
-![KMPG Wellness Garden](/images/kpmg%20ecp%20wellness%20garden%20tg.jpeg)
 
 <br>
 
