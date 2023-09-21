@@ -6,9 +6,7 @@ description: ""
 ---
 Find your inspiration at the park! 
 
-Grab a paintbrush and showcase your creativity on repurposed wood cookies, check out masterfully crafted wooden sculptures designed from upcycled felled timber by the talented sculptors from the Sculpture Society (Singapore), immerse yourself in the nature-inspired artworks by passionate nature artist Tham Pui San. 
-
-Bringing your kids? Let them take part in fun, family-friendly activities available on site, such as bouncy inflatables, temporary tattoo sticker booths and more!
+Grab a paintbrush and showcase your creativity on repurposed wood cookies, check out masterfully crafted wooden sculptures designed from upcycled felled timber by the talented sculptors from the Sculpture Society (Singapore), or immerse yourself in the nature-inspired artworks by passionate nature artist Tham Pui San. 
 
 
 #### 23 Sep (Sat) &amp; 24 Sep (Sun) <br>
