@@ -15,6 +15,12 @@ The fun-filled weekend also provides the community an opportunity to gather and 
 
 Explore this website to learn more about the programmes offered at the event, as well as satellite activities happening all over Singapore during the festival period at our parks and green spaces!
 
+#### Event & Programme Partners
+![](/images/event%20partners%20-%20website.png)
+
+#### Participating Tenants
+![](/images/participating%20tenants%20-%20website.png)
+
 ##### Past Park Festival editions
 
 *   19 &amp; 20 Nov 2016 @ Bishan-Ang Mo Kio Park
@@ -22,8 +28,3 @@ Explore this website to learn more about the programmes offered at the event, as
 *   27 &amp; 28 Oct 2018 @ Esplanade Park &amp; Empress Lawn
 
 * 26 &amp; 27 Oct 2019 @ Esplanade Park, Empress Lawn &amp; Queen Elizabeth Walk
-
-<br>
-<br>
-
-![Acknowledgements](/images/acknowledgements.png)
