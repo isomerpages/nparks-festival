@@ -51,7 +51,7 @@ Over one weekend, the festival brings together NParks’ signature programmes an
 
 | [Satellite Programes](https://parksfestival.nparks.gov.sg/programmes/satellite-programmes/) | |
 | -------- | -------- |
-| Check out the satellite programmes taking place during the festival period at our parks and green spaces island-wide. |  |
+| Check out the satellite programmes taking place during the festival period at our parks and green spaces island-wide. | ![](/images/bird%20watching%20along%20the%20southern%20ridges%20cropped.jpg) *Fun Walk Along the Southern Ridges (23 Sep (Sat), 9am – 11am)* |
 
 #### #SGParksFest <br>
 Share your experience with us! Post your stories, photos and videos on social media with the hashtag **#SGParksFest**. Let's make some unforgettable memories together in this year's Parks Festival 2023!
