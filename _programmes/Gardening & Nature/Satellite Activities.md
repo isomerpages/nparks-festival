@@ -74,10 +74,12 @@ Please register at the Visitor Services Desk, Tanglin Gate 15 mins before the sc
 
 ##### **HortPark: The Gardening Hub Trail**<br>
 **23 Sep (Sat), 9am – 10am &amp; 5pm – 6pm**
+**24 Sep (Sun), 9am – 10am**
+
 Join us for a short, informative tour around HortPark. Learn all about interesting plants and gardening ideas as we take you through some of our themed gardens. <br> Don't miss out on this chance to reconnect with nature and revitalize your mental and physical well-being! disappointment. 
 
-Register for the sessions here:
-[9am – 10am](https://www.nparks.gov.sg/activities/events-and-workshops/2023/9/parkfest-hortpark-tour,-23-sep-2023-9am) | [5pm – 6pm](https://www.nparks.gov.sg/activities/events-and-workshops/2023/9/parkfest-hortpark-tour,-23-sep-2023-5pm)
+Register for the sessions here: <br>
+[23 Sep, 9am – 10am](https://www.nparks.gov.sg/activities/events-and-workshops/2023/9/parkfest-hortpark-tour,-23-sep-2023-9am) | [23 Sep, 5pm – 6pm](https://www.nparks.gov.sg/activities/events-and-workshops/2023/9/parkfest-hortpark-tour,-23-sep-2023-5pm) | [24 Sep, 9am – 10am](https://www.nparks.gov.sg/activities/events-and-workshops/2023/9/parkfest-hortpark-tour,-24-sep-2023-9am)
 ![The Gardening Hub Trail](/images/the%20gardening%20hub%20trail.png)
 
 <br>
@@ -132,7 +134,7 @@ To register, click [here](https://www.nparks.gov.sg/activities/events-and-worksh
 
 <br>
 
-##### **Nature Appreciation @ Bukit Timah Nature Reserve**
+##### **Nature Appreciation Walk @ Bukit Timah Nature Reserve**
 **23 Sep (Sat), 11am – 12pm**
 
 Experience nature in its pristine form at Bukit Timah Nature Reserve, which is a mere 12 km from the bustling city centre. Join us for a Guided Nature Appreciation Walk to find out more about the flora &amp; fauna that can be found in the reserve! 
@@ -142,17 +144,21 @@ To register, click [here](https://www.nparks.gov.sg/activities/events-and-worksh
 
 <br>
 
-##### **Nature Appreciation @ Rifle Range Nature Park**
-**23 Sep (Sat), 11am – 12pm**
+##### **Rifle Range Nature Park Guided Tour**
+**24 Sep (Sun), 9.30am – 10.30am**
 
-Join us for a free guided walk at Rifle Range Nature Park to learn more about our rich biodiversity and the animal crossing features such as rope bridges and colugo poles. <br> For interest, please write in to [Fadzleen_ARRIFFIN@nparks.gov.sg](Fadzleen_ARRIFFIN@nparks.gov.sg)
+Join us for a free guided walk at Rifle Range Nature Park to learn more about our rich biodiversity and the animal crossing features such as rope bridges and colugo poles. 
 
+To register, click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2023/9/cn-rifle-range-nature-park-guided-tour_24-sept-2023).
 ![Rifle Range Nature Park](/images/rrnp%20nature%20appreciation%20walk_2.jpeg)
 
-<br>
 
-* **Trees of the Fort @ Fort Canning Park**<br>Did you know that a Kapok tree can grow up to 40 metres high? Let our nature-loving guides bring you on a journey to find out more about our heritage trees and other beautiful trees like the Kapok, flaky Gelam and magnificent Madras Thorn! <br> For interest, visit the link here: [https://form.gov.sg/64e6fb01bab63100113af58a ](https://form.gov.sg/64e6fb01bab63100113af58a )
+##### **Trees of the Fort @ Fort Canning Park**
+**24 Sep (Sun), 9am – 11am**
 
+Did you know that a Kapok tree can grow up to 40 metres high? Let our nature-loving guides bring you on a journey to find out more about our heritage trees and other beautiful trees like the Kapok, flaky Gelam and magnificent Madras Thorn! 
+
+To register, click [here](https://form.gov.sg/64e6fb01bab63100113af58a).
 ![Trees of the Fort](/images/trees%20of%20the%20fort.jpeg)
 
 <br>
