@@ -3,8 +3,7 @@ title: Gardening & Nature
 permalink: /talks-and-demos/gardening-and-nature/
 description: ""
 ---
-#### Saturday
-**23rd September 2023** <br>
+#### 23 Sep (Sat)
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
