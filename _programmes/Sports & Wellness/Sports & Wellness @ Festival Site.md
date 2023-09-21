@@ -5,22 +5,25 @@ description: ""
 third_nav_title: Sports & Wellness
 ---
 Discover a world of vitality and excitement at this year's Parks Festival with our exhilarating sports and wellness programs! <br>
+
 Whether you're a wellness enthusiast or just looking to unwind, our diverse lineup ensures there's something for everyone. <br>
+
 Embrace a journey of health, happiness, and unforgettable memories and join us in celebrating the perfect fusion of fun and wellness at Parks Festival!
 
-#### Saturday &amp; Sunday <br>
-**23 &amp; 24 September 2023, 10am - 6pm**
+#### 23 Sep (Sat) &amp; 24 Sep (Sun) <br>
+**23 Sep (Sat) – 10am to 6pm** <br>
+**24 Sep (Sun) – 10am to 5pm**
 
 <br>
 
-| Sports &amp; Wellness Zone - All Day Programmes | 
+| Sports &amp; Wellness Zone – All Day Programmes | 
 | -------- |
-| Haywecare: How Are You? - An Interactive Check-in |
-| Health Promotion Board: Active Family - Frisbee Games and NERF Fun Shots |
+| Haywecare: How Are You? |
+| Health Promotion Board: Active Family Programme |
 | Health Promotion Board: Healthy 365 Recruitment Drive |
-| Health Promotion Board: Role Modelling - " You are your child's first nature guide" |
-| Health Promotion Board: "What's your supporting style?" - Pop Up Booth |
-| Ministry of Social and Family Development: Families For Life |
+| Health Promotion Board: Role Modelling Activtation – " You Are Your Child's First Nature Guide" Interactive Booth |
+| Health Promotion Board: What's Your Supporting Style? – Pop Up Booth |
+| Ministry of Social and Family Development: Family Activities |
 
 <br>
 
@@ -28,10 +31,10 @@ Embrace a journey of health, happiness, and unforgettable memories and join us i
 
 | Time| Programme | 
 | -------- | -------- | 
-| 10am - 11am | Zumba session with Idzhar, Sid and Fadzheel  | 
-| 11am - 12pm | Kardio Kickboxing with Ahmad |
-| 10am - 6pm | Futsal |
-| 10am - 6pm | Air Badminton |
+| 10am – 11am | Zumba® with Idzhar, Sid and Fadzheel **(23 Sep (Sat) only)**  | 
+| 11am – 12pm | Kardio Kickboxing with Ahmad **(23 Sep (Sat) only)** |
+| 10am – 6pm | Futsal |
+| 10am – 6pm | Air Badminton |
 
 <br>
 
@@ -39,10 +42,10 @@ Embrace a journey of health, happiness, and unforgettable memories and join us i
 
 <br>
 
-* **10am - 11am: Zumba session with Idzhar, Sid and Fadzheel** <br>Zumba is a high-energy dance fitness program that involves moves to international beats. Join the zumba trio, Idzhar, Sid and Fadzheel for a fun morning workout and dance off the sweats to a better fitter you! 
+* **10am – 11am: Zumba® session with Idzhar, Sid and Fadzheel** <br> Zumba® is a high-energy dance fitness program that involves moves to international beats. Join the Zumba® trio, Idzhar, Sid and Fadzheel for a fun morning workout and dance off the sweats to a better, fitter you! 
 
 
-* **11am - 12pm: Kardio Kickboxing by Ahmad** <br> Kardio kickboxing incorporates with music that can improve flexibility, balance, stamina and coordination, and can help you build faster reflexes. Lead by Ahmad, follow the beats and punch in those reps to maximise your workout for the day!
+* **11am – 12pm: Kardio Kickboxing by Ahmad** <br> Kardio kickboxing incorporates with music that can improve flexibility, balance, stamina and coordination, and can help you build faster reflexes. Lead by Ahmad, follow the beats and punch in those reps to maximise your workout for the day!
 
 ![Zumba and Kickboxing](/images/zumba%20and%20kickboxing.jpg)
 
@@ -53,22 +56,25 @@ Embrace a journey of health, happiness, and unforgettable memories and join us i
 
 <br>
 
-* **Haywecare: How are you? - An interactive check-in**
+* **How are you? by HAY.WeCare**
 <br>
-An interactive check-in with the members of the public, which helps them to understand themselves better and serve as an avenue for them to express their feelings.
+Understand yourself better and convey your feelings at this interactive booth by HAY.WeCare – express yourself yourself on a sticky note when you first head over to the booth and respond to a random sticky note with an uplifting message after. Spread kindness through words of encouragement and affirmation to others!
 
 ![Haywecare booth](/images/haywecare_photo2.jpg)
 
 <br>
 
-* **Active Family by Health Promotion Board** <br> Active Family is an integrated programme that focuses on fundamental movement skills development and promotes bonding between parent and child (4 to 12 years old) through a variety of physical activities, and physical and health education. Join us for Frisbee and Archery Battleground! <br><br>To register a slot with your child, log into your Healthy365 App &gt; “Events” &gt; “Explore” &gt; Search for “Active Family Programme” &gt; Filter “West Coast Park”.
+* **Active Family Programme by Health Promotion Board** <br> Active Family is an integrated programme that focuses on fundamental movement skills development and promotes bonding between parent and child (4 to 12 years old) through a variety of physical activities, and physical and health education. Join us for Frisbee and Archery Battleground! <br><br>To register a slot with your child, log into your Healthy365 App &gt; “Events” &gt; “Explore” &gt; Search for “Active Family Programme” &gt; Filter “West Coast Park”.
 
 
 ![Active Family Poster](/images/afp%20image.png)
 
 <br>
 
-* **Role Modelling: “You are your child’s first nature guide” by Health Promotion Board** <br> Be Your Child’s First Nature Guide, join us at HPB’s Role Modelling Activity Booth and take home an activity kit to continue making healthier choices!
+* **Role Modelling Activtation – " You Are Your Child's First Nature Guide" Interactive Booth by Health Promotion Board** <br> 
+Nuture your child's lifelong love of nature. Spark a new sense of curiosity in your child when you spend time in the parks and appreciate nature together.
+
+	Come participate in interactive games at the Health Promotion Board's (HPB) fun booth. Upon completion, you will receive a pack of edible seeds from the activity Booth. start your gardening journey, grow your own edibles and be *Your Child's First Nature Guide*.
 
 ![Role Modelling Booth](/images/role%20modelling%20booth.jpg)
 
