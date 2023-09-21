@@ -11,13 +11,14 @@ Check out the festival promotions happening at participating tenants in our park
 ##### Canopy Garden Dining
 ![Canopy Garden Dining](/images/canopy%20garden%20dining.jpg) 
 
-Free Caesar Salad with purchase of any main dish. Quote "NParks Festival 2023" to redeem.
+Free Caesar salad with purchase of any main dish. Quote "NParks Festival 2023" to redeem.
 
 * Valid on 23 and 24 September 2023. 
 <br>
 
-For more information, visit [https://www.canopygardendining.com/](https://www.canopygardendining.com/)
-
+Click [here](https://www.canopygardendining.com/) for more information.
+ 
+ <br>
 
 #### East Coast Park 
 
@@ -29,7 +30,7 @@ $5 off for family bike rental. 
 * Valid on 23 and 24 September 2023. 
 <br>
 
-For more information, visit [ www.coastlineleisure.com.sg]( www.coastlineleisure.com.sg)
+Click [here](www.coastlineleisure.com.sg) for more information.
 
 <br>
 
@@ -53,12 +54,11 @@ Spend $80 nett at Singapore Wake Park’s Coastal Rhythm Cafe &amp; Bar between 
 * Voucher is valid for use on weekdays only. Other T&amp;Cs apply.  
 <br>  
 
-For more information, visit [www.singaporewakepark.com ](www.singaporewakepark.com )  
-or contact 66364266 / 97722780 (WhatsApp).
+Click [here](www.singaporewakepark.com) for more information, or contact 66364266 / 97722780 (WhatsApp).
+
+
 
 <br>
-<br>
-
 
 
 #### Pasir Ris Park
@@ -72,9 +72,8 @@ Free Ice Cream worth $5.90 (regular scoop in a 100ml cup) with every main course
 * For dine-in patrons only. Show NParks’ website/Social Media Post to redeem. While stocks last.  
 <br> 
 
-For more information, visit [www.georges.com.sg](www.georges.com.sg)
+Click [here](www.georges.com.sg) for more information.
 
-<br>
 <br>
 
 
@@ -88,11 +87,8 @@ Fantastic opportunity for families to engage in a meaningful activity while enjo
 * Price per participant: $60 (individual), $55 (group of 2-3 persons) or $45 (group of 4 or more persons) 
 * Children under 12: FREE (one child per accompanying adult) 
 
-For more information, 
-visit [ https://kokomo-beachclub.com/ ]( https://kokomo-beachclub.com/ )  
-or contact 9834 7984. 
+Click [here](https://kokomo-beachclub.com/) for more information, or contact 9834 7984.
 
-<br>
 <br>
 
 
@@ -105,15 +101,11 @@ Spend in a single receipt and enjoy free items on your next visit!
 * $150 and above for a free small Seabass dish (worth $26). 
 * $200 and above for a free Baby Kailan and a small Seabass dish (worth $34). 
 * For dine-in only. Redeem by showing original receipt from Pasir Ris Park outlet in the next visit. Valid from 23 September 2023 till 22 October 2023. 
+
+Click [here](https://www.rasaistimewa.sg/pasir-ris-park-menu) for more information, or contact 6386 9339.
+
+
 <br>
-
-For more information, visit [ https://kokomo-beachclub.com/ ]( https://kokomo-beachclub.com/ )  
-or contact 6386 9339.
-
-<br>
-<br>
-
-
 
 #### Singapore Botanic Gardens
 
@@ -124,9 +116,8 @@ or contact 6386 9339.
 Enjoy a cup of Chelsea Straight Tea at $2.80 (U.P $3.80), exclusively at Gardens Shops at Tanglin Gate. 
 * Valid on 23 and 24 September 2023. 
 
-For more information, visit  [www.nparks.gov.sg/sbg/shop-and-dine/gardens-shops](https://www.nparks.gov.sg/sbg/shop-and-dine/gardens-shops)
+Click [here](www.nparks.gov.sg/sbg/shop-and-dine/gardens-shops) for more information.
 
-<br>
 <br>
 
 
@@ -142,12 +133,10 @@ Spend in a single receipt and enjoy free items on your next visit!
 * $200 and above for a free Baby Kailan and a small Seabass dish (worth $34). 
 * For dine-in only. Redeem by showing original receipt from Woodlands Waterfront outlet in the next visit. Valid from 23 September 2023 till 22 October 2023. 
 
-For more information, visit [www.rasaistimewa.sg/woodlands-waterfront-menu](https://www.rasaistimewa.sg/woodlands-waterfront-menu)   
-or contact 6366 9339. 
+
+Click [here](www.rasaistimewa.sg/woodlands-waterfront-menu) for more information, or contact 6366 9339.
 
 <br>
-<br>
-
 
 
 #### Various Parks
@@ -160,7 +149,7 @@ Use code: NPARKSFESTIVAL23 on The Gym Pod App to redeem.
 * Valid until 31 October 2023. 
 * Terms and conditions apply (refer to The Gym Pod app) 
 
-For outlet locations in the parks, visit [https://www.thegympod.com/locations/ ](https://www.thegympod.com/locations/ )  
+For outlet locations in the parks, click [here](https://www.thegympod.com/locations/ )  
 or contact support@thegympod.com for enquiries.
 
 
@@ -172,19 +161,11 @@ or contact support@thegympod.com for enquiries.
 
 Join us for a rejuvenating fitness and wellness event at Holland Village Park. This two-day festival is designed to celebrate health, happiness, and the beauty of nature. Whether you're a fitness enthusiast or someone looking to embark on a journey of well-being, this event has something for you! <br> 
 
-FREE 2 sessions of Sunrise Yoga i.e 1 session each on 23 and 24 Sep + 1 session of Metcon on 23 Sep. <br>
+FREE 2 sessions of Sunrise Yoga i.e 1 session each on 23 and 24 Sep + 1 session of Metcon (Metabolic Conditioning) on 23 Sep. <br>
 
-3 Sessions - 10 pax per session
-* 1x Sunrise yoga on 23 Sept
-* 1x Sunrise yoga on 24 Sept
+3 Sessions – 10 pax per session
+* 1x Sunrise Yoga on 23 Sept
+* 1x Sunrise Yoga on 24 Sept
 * 1x Metcon on 23 Sept
 
-Register your interest here:
-[https://5667agjbl30.typeform.com/to/ATwiUZSx](https://5667agjbl30.typeform.com/to/ATwiUZSx)
-
-
- 
- Check out The Gym Pod website here:
- [www.thegympod.com](www.thegympod.com)
- 
- <br>
+Register [here](https://5667agjbl30.typeform.com/to/ATwiUZSx).
