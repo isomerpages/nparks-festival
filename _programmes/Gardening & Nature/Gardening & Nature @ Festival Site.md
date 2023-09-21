@@ -16,14 +16,14 @@ For the nature and wildlife lover, learn about our green spaces and our rich bio
 | City Sprouts: Workshops in Garden Dome |
 | City Sprouts: Farmers' Stories Exhibition |
 | Horticulture and Community: Therapeutic Garden Showcase &amp; Outreach |
-| Conservation: Wildlife Kaleidoscope - Spotlighting Native Biodiversity |
-| National Biodiversity Centre: Community in Nature:
+| Conservation: Wildlife Kaleidoscope – Spotlighting Native Biodiversity |
+| NParks Community in Nature
 |Destination Parks Engagement - West Coast Park |
 
 
 <br>
 
-#### More about programmes at Gardening &amp; Nature
+#### More about programmes at Gardening &amp; Nature at West Coast Park
 
 <br>
 
