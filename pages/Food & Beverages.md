@@ -3,7 +3,8 @@ title: Food & Beverages
 permalink: /fnb/
 description: ""
 ---
-Hungry? We got you! Take your pick from the mouth-watering selection at the festival available from:
+### Hungry? Thirsty?
+We got you! Take your pick from the mouth-watering selection at the festival available from:
 
 **23 Sep (Sat), 10am – 10pm <br>
 24 Sep (Sun), 10am – 5pm**
@@ -25,4 +26,6 @@ Hungry? We got you! Take your pick from the mouth-watering selection at the fest
 ##### The Travelling Cow
 | |  |
 | -------- | -------- |
-| Established as the first food truck in Singapore since 2012, Chef On Wheels aims to bring gourmet bistro bites and creative cuisine across our sunny island. Look forward to tantalising food &amp; drinks on sale at the festival! |  ![](/images/the%20travelling%20cow.jpeg) | 
+| Established as the first food truck in Singapore since 2012, Chef On Wheels aims to bring gourmet bistro bites and creative cuisine across our sunny island. Look forward to tantalising food &amp; drinks on sale at the festival! |  ![](/images/the%20travelling%20cow.jpeg) |
+
+*Watch this space for more updates!*
