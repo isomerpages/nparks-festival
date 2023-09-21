@@ -42,7 +42,14 @@ Click [here](https://www.facebook.com/groups/BirdCraze.sg) for more information 
 
 Learn about responsible pet ownership and consider adopting instead of buying a pet! Featuring animals up for adoption and merchandise booths, the Adoption Drive aims to fund-raise the rescue efforts of our Animal Welfare Group partners (AWGs) and encourage the re-homing of shelter animals.
 
-Participating AWGs: Animal Lovers League (ALL), Purely Adoptions (PA), SOSD, Exclusively Mongrels (EM), Causes for Animals (CAS), Society for the Prevention of Cruelty to Animals (SPCA) and Action for Singapore Dogs (ASD)
+Participating AWGs: 
+* Action for Singapore Dogs (ASD)
+* Animal Lovers League (ALL)
+* Causes for Animals (CAS)
+* Exclusively Mongrels (EM)
+* Purely Adoptions (PA)
+* Society for the Prevention of Cruelty to Animals (SPCA)  
+* SOSD
 
 ![Adoption Drive](/images/adoption%20drive.jpg)
 
