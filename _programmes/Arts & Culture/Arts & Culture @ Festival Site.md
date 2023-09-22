@@ -19,11 +19,8 @@ Grab a paintbrush and showcase your creativity on repurposed wood cookies, check
 * Exhibition: My Encounters with Nature (Tham Pui San)
 
 
-<br>
 
 #### More on Arts &amp; Culture activites at West Coast Park
-
-<br>
 
 
 #####  **Upcycled Wood Cookie Ornament Painting by NParks** <br>
