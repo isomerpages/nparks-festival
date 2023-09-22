@@ -7,19 +7,19 @@ description: ""
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
-| 11am – 12pm | General Wellness the TCM Way |   Lee Hui Fang (Ouch!)  |
-| 1pm – 2pm | Demonstration on Plant Propagation | Joshua Liang (NParks, CIB Ambassador &amp; Nature Kakis @ Boon Lay Member) |
-| 2pm – 3pm | Forest Therapy  | Chew Ting Ching    |
-| 3pm – 4pm | Therapeutic Horticulture and Boonlay in Green Spaces (BLinGs) | David Yu (NParks, CIB Ambassador &amp; Nature Kakis @ Boon Lay Member) |
+| 11am – 12pm | General Wellness the TCM Way |   **Lee Hui Fang** (Ouch!)  |
+| 1pm – 2pm | Demonstration on Plant Propagation | **Joshua Liang** <br> (CIB Ambassador &amp; Nature Kakis @ Boon Lay Member) |
+| 2pm – 3pm | Forest Therapy  | **Chew Ting Ching**    |
+| 3pm – 4pm | Therapeutic Horticulture and Boonlay in Green Spaces (BLinGs) | **David Yu**<br> (CIB Ambassador &amp; Nature Kakis @ Boon Lay Member) |
 
 
 #### 24 Sep (Sun)
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
-| 11am – 12pm | Forest Therapy  | Chew Ting Ching  |
-| 1pm – 2pm | Therapeutic Horticulture and Bukit Gombak Nature Kakis | Jewelle Koh (Bukit Gombak Nature Kakis Member) |
-| 2pm – 3pm | #JalanKakis - Wellness and Positivity through Walks | Iman Samsi |
+| 11am – 12pm | Forest Therapy  | **Chew Ting Ching**  |
+| 1pm – 2pm | Therapeutic Horticulture and Bukit Gombak Nature Kakis | **Jewelle Koh**<br> (Bukit Gombak Nature Kakis Member) |
+| 2pm – 3pm | #JalanKakis - Wellness and Positivity through Walks | **Iman Samsi** |
 
 <br>
 
