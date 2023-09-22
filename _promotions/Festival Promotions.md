@@ -8,8 +8,16 @@ Check out the festival promotions happening at participating tenants in our park
 <br>
 
 #### Bishan-Ang Mo Kio Park and HortPark 
-##### Canopy Garden Dining
-![Canopy Garden Dining](/images/canopy%20garden%20dining.jpg) 
+
+
+| Canopy Garden Dining |  |  |
+| -------- | -------- | -------- |
+| Text     | Text     | ![Canopy Garden Dining](/images/canopy%20garden%20dining.jpg)      |
+
+
+
+##### 
+
 
 Free Caesar salad with purchase of any main dish. Quote "NParks Festival 2023" to redeem.
 
