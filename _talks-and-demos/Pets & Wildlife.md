@@ -8,16 +8,16 @@ description: ""
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
-| 11am – 12pm | Dugongs: The Sirens of Singapore | Sirius Ng Zheng Hui (Department of Biological Sciences, National University of Singapore) |
-| 1pm – 2pm | An Introduction to Terrestrial Arthopods of Singapore | Sean Yap (Tropical Ecology and Entomology Lab, Asian School of the Environment, Nanyang Technological University) | 
-| 2pm – 3pm | Wildlife Commonly Seen in Parks | Foo Zhi Jie (NParks) |
-| 3pm – 4pm | “Hands Off!” Understanding and Addressing Resource Guarding in Dogs | Chong Qi Ai &amp; Webster Cheong (NParks) |
+| 11am – 12pm | Dugongs: The Sirens of Singapore | **Sirius Ng Zheng Hui**<br>(Department of Biological Sciences, National University of Singapore) |
+| 1pm – 2pm | An Introduction to Terrestrial Arthopods of Singapore | **Sean Yap** <br>(Tropical Ecology and Entomology Lab, Asian School of the Environment, Nanyang Technological University) | 
+| 2pm – 3pm | Wildlife Commonly Seen in Parks | **Foo Zhi Jie** (NParks) |
+| 3pm – 4pm | “Hands Off!” Understanding and Addressing Resource Guarding in Dogs | **Chong Qi Ai &amp; Webster Cheong** (NParks) |
 
 ##### **Demonstrations** 
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
-| 10.30am – 11.30am, 12.30pm – 1.30pm &amp; 3pm – 4pm | Let's Train Without Pain! | June Lim (A Smiling Leash), Yap Shi Ying (Click With Dogs), Candy Lim-Soliano (Kaizen 4 Dogs) |
+| 10.30am – 11.30am, 12.30pm – 1.30pm &amp; 3pm – 4pm | Let's Train Without Pain! | **June Lim** (A Smiling Leash), **Yap Shi Ying** (Click With Dogs), **Candy Lim-Soliano** (Kaizen 4 Dogs) |
 
 <br>
 
@@ -26,19 +26,19 @@ description: ""
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
-| 10am – 11am | Dogs in Translation | Candy Lim-Soliano (Kaizen 4 Dogs) &amp; Liu Xiao Xuan (Allies of Dogs) |
-| 11am – 12pm | Obesity in Pets | Dr Suria Fabbri, Veterinarian &amp; Co-founder of Pawkit
-| 2pm – 3pm | Wildlife commonly seen in Parks | Foo Zhi Jie (NParks) |
-| 3pm – 4pm | The Great Diversity of Insects in Singapore | Foo Maosheng (Lee Kong Chian Natural History Museum (NUS))
+| 10am – 11am | Dogs in Translation | **Candy Lim-Soliano** (Kaizen 4 Dogs) &amp; **Liu Xiao Xuan** (Allies of Dogs) |
+| 11am – 12pm | Obesity in Pets | **Dr Suria Fabbri**, Veterinarian &amp; Co-founder of Pawkit
+| 2pm – 3pm | Wildlife commonly seen in Parks | **Foo Zhi Jie** (NParks) |
+| 3pm – 4pm | The Great Diversity of Insects in Singapore | **Foo Maosheng** <br>(Lee Kong Chian Natural History Museum (NUS))
 
 
 ##### **Demonstrations**
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
-| 10am – 11am | "Friend Friend?" | Wilson Song (Supaw Dog Training) |
-| 10am – 2pm | Workshop &amp; Chat with the Trainers | Angie Tan, Alan Tibtem Tay Zi Jian, Cheryl Goi |
-| 11.30am – 12.30pm | All About Dog Parks | Al Chong (My Dog Trainer (M.D.T)) &amp; Cheryl Goi (My Dog Trainer (M.D.T)) |
+| 10am – 11am | "Friend Friend?" | **Wilson Song** <br> (Supaw Dog Training) |
+| 10am – 6pm | Chat with a Trainer | **Angie Tan** (Puppylove Dog Training), **Alan Tibtem Tay Zi Jian** (Pawsitivemind), **Cheryl Goi** (My Dog Trainer (M.D.T))|
+| 11.30am – 12.30pm | All About Dog Parks | **Al Chong** (My Dog Trainer (M.D.T)) &amp; **Cheryl Goi** (My Dog Trainer (M.D.T)) |
 
 
 
