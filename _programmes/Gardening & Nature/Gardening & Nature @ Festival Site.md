@@ -18,7 +18,7 @@ For the nature and wildlife lover, learn about our green spaces and our rich bio
 | Therapeutic Garden Showcase &amp; Outreach (NParks) |
 | Wildlife Kaleidoscope: Spotlighting Native Biodiversity (NParks) |
 | Community in Nature (NParks)
-| Public Engagement: West Coast Park Pop-up (NParks * ThinkPlace) |
+| Public Engagement: West Coast Park Pop-up (NParks &amp; ThinkPlace) |
 
 
 <br>
@@ -76,7 +76,7 @@ $9/pax**
 <br>
 
 * **(23 Sep (Sat) ONLY) Farm-to-Table: Mocktail Making (5pm – 6pm)  
-$10/pax****
+$10/pax**
 <br>Unleash your inner mixologist in this farm-to-table mocktail making experience! Freshness to taste, soak into nature's flavours where you will be harvesting vibrant mint and transforming them into a refreshingly Virgin Mojito, all while learning about mint cultivation and its properties.
 
 Register [here](https://citysprouts.com.sg/products/parks-festival-2023-west-coast).
