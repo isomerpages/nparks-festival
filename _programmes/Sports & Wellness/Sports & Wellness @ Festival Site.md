@@ -40,8 +40,6 @@ Embrace a journey of health, happiness, and unforgettable memories and join us i
 
 #### More on Fitness Activities
 
-<br>
-
 ##### **Zumba® session with Idzhar, Sid and Fadzheel** <br> 
 **23 Sep (Sat), 10am – 11am**
 
