@@ -11,7 +11,7 @@ third_nav_title: Sports & Wellness
 | -------- | -------- | -------- |
 | 8.40am – 9.20am | Sunrise Yoga | The Gym Pod @ Holland Village Park |
 | 9am – 10.30am | KPMG Wellness Garden Tour and Scent Bag Making | East Coast Park, Area D |
-| 9am – 10.30am | Therapeutic Garden Walk &amp; Therapeutic Horticulture Activities | Bedok Reservoir Park |
+| 9am – 10.30am | Therapeutic Garden Walk &amp; Therapeutic Horticulture Activities | Bedok Reservoir Park|
 | 9am – 11am | Therapeutic Horticulture Activity | Choa Chu Kang Park |
 | 9.40am – 10.20am | Metabolic Conditioning (MetCon) | The Gym Pod @ Holland Village Park |
 <br>
