@@ -38,8 +38,6 @@ Keep healthy with simple acupressure massage, qigong exercises and easy to grow 
 
 Come learn more on how to grow your own culinary herbs and spices such as Basil, Chieve and Mint. You can grow some of these back at your home and use it as garnish in your dishes!
 
-
-
 <br>
 
 ##### **Forest Therapy by Chew Ting Ching**
@@ -50,24 +48,22 @@ Forest Therapy is a way to re-introduce people to the Forest and other natural e
 
 <br>
 
-##### **#JalanKakis - Wellness and Positivity through walks by Iman Samsi**
-**24 Sep (Sun), 2pm – 3pm**
-
-#JalanKakis is a program that promotes positivity and mental wellness through walking and hiking in the parks. The program encourages individuals to explore Singapore's beautiful parks and nature reserves while engaging in physical activity. Participants can join guided walks or organize their own hikes with friends and family. By connecting with nature and engaging in physical activity, #JalanKakis aims to improve mental health and overall well-being. Join Iman Samsi in sharing his walks with fellow peers!
-<br>
-
-![#JalanKakis Walks](/images/img_2026.jpg)
-
-
-<br>
-
 ##### **Therapeutic Horticulture and Boon Lay in Green Spaces) by David Yu (NParks, CIB Ambassador &amp; Nature Kakis @ Boon Lay Member)**
 **23 Sep (Sat), 3pm – 4pm**
 
 Learn about Therapeutic Horticulture and how BLinGs is intending to bring the programme to Boon Lay Community.
 
-
 <br>
 
 ##### **Therapeutic Horticulture and Bukit Gombak Nature Kakis (NK) by Jewelle Koh (Bukit Gombak Nature Kakis Member)**
-<br>Learn more on how to DIY your own scent bag using Lemon Grass or Pandan leaves. This activity can be done together with your family members!
+**24 Sep (Sun), 1pm – 2pm**
+
+Learn more on how to DIY your own scent bag using Lemon Grass or Pandan leaves. This activity can be done together with your family members!
+
+<br>
+
+##### **#JalanKakis - Wellness and Positivity through walks by Iman Samsi**
+**24 Sep (Sun), 2pm – 3pm**
+
+#JalanKakis is a program that promotes positivity and mental wellness through walking and hiking in the parks. The program encourages individuals to explore Singapore's beautiful parks and nature reserves while engaging in physical activity. Participants can join guided walks or organize their own hikes with friends and family. By connecting with nature and engaging in physical activity, #JalanKakis aims to improve mental health and overall well-being. Join Iman Samsi in sharing his walks with fellow peers!
+![#JalanKakis Walks](/images/img_2026.jpg)
