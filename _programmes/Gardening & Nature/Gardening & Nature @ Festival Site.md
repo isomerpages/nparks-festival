@@ -21,7 +21,7 @@ For the nature and wildlife lover, learn about our green spaces and our rich bio
 | Public Engagement: West Coast Park Pop-up (NParks &amp; ThinkPlace) |
 
 
-#### More about programmes at Gardening &amp; Nature at West Coast Park
+#### More on the programmes
 
 ##### **Wildlife Kaleidoscope: Spotlighting Native Biodiversity by NParks**  
 Learn more about the habitats and diverse biodiversity we have at Bukit Timah Nature Reserve , Pulau Ubin and Sungei Buloh Wetland Reserve. Our aim is to educate and empower individuals to be custodians of our protected areas and to help mitigate conflict and foster safe and responsible human-wildlife encounters. The activity space will comprise of craftwork and mini quizzes to spur children’s interest and love for nature.
