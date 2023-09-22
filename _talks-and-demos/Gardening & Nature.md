@@ -7,19 +7,19 @@ description: ""
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
-| 10am – 11am | Pot-a-Plant! | Edible Garden City |
-| 11am – 12pm | Companion Planting as Pest Management | Nagib Elimad (City Sprouts) |
-| 2pm – 3pm | Introduction of Preserved Moss  |  Arnold (Koke.zen)  |
+| 10am – 11am | Pot-a-Plant! | **Edible Garden City** |
+| 11am – 12pm | Companion Planting as Pest Management | **Nagib Elimad** (City Sprouts) |
+| 2pm – 3pm | Introduction of Preserved Moss  |  **Arnold** (Koke.zen)  |
 
 
 #### 24 Sep (Sun)
 
 | Time | Program | Speaker |
 | -------- | -------- | -------- |
-| 10am – 11am | Pot-a-Plant! | Edible Garden City |
-| 11am – 12pm | Companion Planting as Pest Management | Ian Sim (City Sprouts) |
-| 1pm – 2pm | All About Mushrooms  |  Liam Lee (Mushroom World Academy) |
-| 2pm – 3pm | Plant Care &amp; Styling  |  Leo Tay  |
+| 10am – 11am | Pot-a-Plant! | **Edible Garden City** |
+| 11am – 12pm | Companion Planting as Pest Management | **Ian Sim**<br> (City Sprouts) |
+| 1pm – 2pm | All About Mushrooms  |  **Liam Lee** <br>(Mushroom World Academy) |
+| 2pm – 3pm | Plant Care &amp; Styling  |  **Leo Tay**  |
 
 
 
