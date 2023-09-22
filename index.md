@@ -15,10 +15,10 @@ sections:
           description: Plan your festival activities
           url: /whats-on
         - title: Talks & Demos
-          description: Learn new skills
+          description: Learn something new!
           url: /talks-and-demos/listings/
         - title: Getting here
-          description: How to get to West Coast Park
+          description: Getting to West Coast Park
           url: /visit
       background: /images/pf for isomer2.png
   - infopic:
@@ -42,6 +42,6 @@ sections:
       title: "#SGParksFest"
       subtitle: Share your experience
       description: Hashtag your event experience with us and see others in action!
-      button: what's happening!
+      button: what's happening
       url: /media/
 ---

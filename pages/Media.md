@@ -12,9 +12,6 @@ Don't forget to share your stories, photos, and videos on social media with the 
 So get your cameras ready, put on your dancing shoes, and let's make some unforgettable memories together!
 
 
-<br>
+##### Check out what's happening at Parks Festival 2023 on Instagram &amp; Facebook!
 
-| Check out what's happening at Parks Festival 2023 via these links below! |
-| -------- |
-| [Facebook link here! ](https://www.facebook.com/hashtag/sgparksfest)  | 
-|[Instagram link here!](https://www.instagram.com/explore/tags/sgparksfest/) |
+[Instagram](https://www.instagram.com/explore/tags/sgparksfest/) | [Facebook](https://www.facebook.com/hashtag/sgparksfest)

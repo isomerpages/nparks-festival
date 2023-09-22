@@ -5,15 +5,16 @@ collections:
       - What's On.md
       - Arts & Culture/.keep
       - Arts & Culture/Arts & Culture @ Festival Site.md
-      - Arts & Culture/Satelite Activities.md
-      - Concert & Performances/Concert & Performances @ Festival Site.md
-      - Concert & Performances/Satellite Activities.md
+      - Arts & Culture/Satelite Programmes.md
       - Concert & Performances/.keep
-      - Gardening & Nature/Gardening & Nature @ Festival Site.md
-      - Gardening & Nature/Satellite Activities.md
+      - Concert & Performances/Concert & Performances @ Festival Site.md
+      - Concert & Performances/Satellite Programmes.md
       - Gardening & Nature/.keep
-      - Pets & Wildlife/Pets & Wildlife @ Festival Site.md
+      - Gardening & Nature/Gardening & Nature @ Festival Site.md
+      - Gardening & Nature/Satellite Programmes.md
       - Pets & Wildlife/.keep
+      - Pets & Wildlife/Pets & Wildlife @ Festival Site.md
       - Sports & Wellness/.keep
       - Sports & Wellness/Sports & Wellness @ Festival Site.md
-      - Sports & Wellness/Satellite Activities.md
+      - Sports & Wellness/Satellite Programmes.md
+      - Satellite Programmes.md
