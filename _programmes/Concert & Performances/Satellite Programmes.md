@@ -14,7 +14,7 @@ third_nav_title: Concert & Performances
 
 
 
-#### More on Concerts &amp; Performances at other parks
+#### More on the programmes
 
 ##### **Singapore Botanic Gardens: Australian Youth Band in Concert**
 **6pm – 7pm**
