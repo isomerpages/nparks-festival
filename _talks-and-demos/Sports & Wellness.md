@@ -30,6 +30,7 @@ description: ""
 
 Keep healthy with simple acupressure massage, qigong exercises and easy to grow herbs in Singapore. Learn simple receipes with easy to grow herbs like mint and basil. <br>
 <br> Register [here](https://go.gov.sg/pf2023-generalwellness).
+![](/images/tcm%20wellness.jpg)
 
 <br>
 
