@@ -60,3 +60,8 @@ Over one weekend, the festival brings together NParks’ signature programmes an
 
 #### #SGParksFest
 Share your experience with us! Post your stories, photos and videos on social media with the hashtag **#SGParksFest**. Let's make some unforgettable memories together in this year's Parks Festival 2023!
+
+<br>
+
+##### Event &amp; Programme Partners
+![](/images/event%20partners%20-%20website.png)
