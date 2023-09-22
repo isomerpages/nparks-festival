@@ -39,11 +39,7 @@ third_nav_title: Arts & Culture
 
 
 
-
-
-<br>
-
-#### More on Arts &amp; Culture programmes at other parks
+#### More on the programmes
 
 
 ##### **Arts@Hortpark – Oil Painting Workshop**

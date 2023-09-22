@@ -14,9 +14,7 @@ third_nav_title: Concert & Performances
 
 
 
-#### More on Concerts &amp; Performances at other parks
-
-<br>
+#### More on the programmes
 
 ##### **Singapore Botanic Gardens: Australian Youth Band in Concert**
 **6pm – 7pm**
@@ -30,7 +28,6 @@ Click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2023/9/sb
 ![Australian Youth Band](/images/australian%20youth%20band.PNG)
 
 <br>
-<br>
 
 ##### **Jurong Lake Gardens: Music Oasis by Singapore Chinese Orchestra** <br>
 
@@ -40,5 +37,3 @@ Experience the captivating tunes of the Singapore Chinese Orchestra as they ench
 Click [here](https://www.nparks.gov.sg/activities/events-and-workshops/2023/9/lights-by-the-lake-2023-festival-of-lights) for more info.
 
 ![Singapore Chinese Orchestra](/images/music%20oasis%20jlg.jpeg)
-
-<br>

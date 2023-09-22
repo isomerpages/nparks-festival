@@ -31,12 +31,7 @@ third_nav_title: Gardening & Nature
 | 9am – 10am | The Gardening Hub Trail | HortPark |
 | 9am – 11am | Trees of the Fort| Fort Canning Park |
 
-<br>
-<br>
-
-#### More on Gardening &amp; Nature programmes at other parks
-
-<br>
+#### More on the programmes
 
 ##### **Jurong Lake Gardens: Biodiversity Guided Walk**
 **23 Sep (Sat), 8am – 9am**

@@ -19,9 +19,9 @@ Embrace a journey of health, happiness, and unforgettable memories and join us i
 | Sports &amp; Wellness Zone – All Day Programmes | 
 | -------- |
 | Haywecare: How Are You? |
-| Health Promotion Board: Active Family Programme |
+| Health Promotion Board: Active Family Programme <br> **4pm – 5pm** |
 | Health Promotion Board: Healthy 365 Recruitment Drive |
-| Health Promotion Board: Role Modelling Activation – "You Are Your Child's First Nature Guide" Interactive Booth |
+| Health Promotion Board: Role Modelling Activation – "You Are Your Child's First Nature Guide" Interactive Booth <br> **23 Sep (Sat) ONLY** |
 | Health Promotion Board: What's Your Supporting Style? – Pop Up Booth |
 | Ministry of Social and Family Development: Families For Life Family Activities |
 
@@ -38,9 +38,7 @@ Embrace a journey of health, happiness, and unforgettable memories and join us i
 
 <br>
 
-#### More on Fitness Activities
-
-<br>
+#### More on the programmes
 
 ##### **Zumba® session with Idzhar, Sid and Fadzheel** <br> 
 **23 Sep (Sat), 10am – 11am**
@@ -71,6 +69,8 @@ Understand yourself better and convey your feelings at this interactive booth by
 <br>
 
 ##### **Active Family Programme by Health Promotion Board** <br> 
+**23 Sep (Sat), 4pm – 5pm<br>
+24 Sep (Sun), 4pm – 5pm**
 
 Active Family is an integrated programme that focuses on fundamental movement skills development and promotes bonding between parent and child (4 to 12 years old) through a variety of physical activities, and physical and health education. 
 
@@ -81,7 +81,9 @@ At Parks Festival, take part in fun games such as Frisbee and Archery Battlegrou
 
 <br>
 
-##### **Role Modelling Activtation – " You Are Your Child's First Nature Guide" Interactive Booth by Health Promotion Board** <br> 
+##### **Role Modelling Activtation – " You Are Your Child's First Nature Guide" Interactive Booth by Health Promotion Board** 
+**23 Sep (Sat) ONLY**
+
 Nuture your child's lifelong love of nature. Spark a new sense of curiosity in your child when you spend time in the parks and appreciate nature together.
 
 Come participate in interactive games at the Health Promotion Board's (HPB) fun booth. Upon completion, you will receive a pack of edible seeds from the activity Booth. start your gardening journey, grow your own edibles and be *Your Child's First Nature Guide*.

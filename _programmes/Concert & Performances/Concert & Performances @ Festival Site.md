@@ -18,19 +18,12 @@ Celebrate the weekend by partying with us at NParks Concert Series in the Parks:
 
 
 
-
-<br>
-
-#### More on the Performances at West Coast Park
-
-<br>
+#### More on the programmes
 
 #####  **Singapore Kindness Movement - Singapore and the Kindness Cubbies, K-I-N-D-ness Show**
 Click [here](https://www.kindness.sg/parents-and-educators/kindsville/) for more information on Singa and the Kindness Cubbies.
 
 ![Kindness Cubbies](/images/pxl_20230716_085058241.jpg)
-
-<br>
 
 
 <br>
