@@ -27,7 +27,7 @@ third_nav_title: Sports & Wellness
 
 <br>
 
-#### More on activities happening at other parks
+#### More on the programmes
 
 ##### **The Gym Pod@Holland Village Park: Sunrise Yoga &amp; Metabolic Conditioning (MetCon)**
 **23 Sep (Sat), 8.40am – 9.20am (Sunrise Yoga)**
