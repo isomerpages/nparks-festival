@@ -44,14 +44,7 @@ description: ""
 
 #### More about the Talks &amp; Demonstrations
 
-##### Talks
-
-##### **An Introduction to Terrestrial Arthopods of Singapore by Sean Yap (Tropical Ecology and Entomology Lab, Asian School of the Environment, Nanyang Technological University)** 
-**23 Sep (Sat), 1pm – 2pm**
-
-What makes a beetle an insect, a spider not? What terrestrial arthopods call Singapore home, and what can we discover about the secret lives of these critters that share our spaces while living vibrant lives completely separate from our own? Join Sean in discovering the answers to some of these questions, and learn about the creepy crawlers you've seen as well as those you haven't, and why they are all important in the ecosystem we are also a part of.
-![](/images/sean%20yap.jpeg)
-<br>
+#### Talks
 
 ##### **Dugongs: The Sirens of Singapore by Sirius Ng Zheng Hui (Department of Biological Sciences, National University of Singapore)**
 **23 Sep (Sat), 11am – 12pm**
@@ -59,14 +52,21 @@ What makes a beetle an insect, a spider not? What terrestrial arthopods call Sin
 The dugong is a marine mammal that is highly associated to the seagrass habitats of the tropical Indo-Pacific. This shy and elusive species feature in many regional folklores and local rituals but scientific information of Southeast Asian populations is poorly understood. Already ‘Vulnerable to Extinction’ throughout its range, dugong populations are further impacted by marine urbanisation and the consequential loss of suitable habitats. In this talk, our team shares what we understand about the dugong populations within the territorial waters of Singapore and suggest ways we can better aid in saving this species.
 ![Sirius Ng](/images/sirius.jpeg)
 
+<br>
+
+##### **An Introduction to Terrestrial Arthopods of Singapore by Sean Yap (Tropical Ecology and Entomology Lab, Asian School of the Environment, Nanyang Technological University)** 
+**23 Sep (Sat), 1pm – 2pm**
+
+What makes a beetle an insect, a spider not? What terrestrial arthopods call Singapore home, and what can we discover about the secret lives of these critters that share our spaces while living vibrant lives completely separate from our own? Join Sean in discovering the answers to some of these questions, and learn about the creepy crawlers you've seen as well as those you haven't, and why they are all important in the ecosystem we are also a part of.
+![](/images/sean%20yap.jpeg)
 
 <br>
 
-##### **The Great Diversity of Insects in Singapore by Foo Maosheng (Lee Kong Chian Natural History Museum (NUS))** 
-**23 Sep (Sat), 3pm – 4pm**
+##### **Wildlife Commonly Seen in Parks by Foo Zhi Jie (NParks)** 
+**23 Sep (Sat) &amp; 24 Sep (Sun), 2pm – 3pm**
 
-Singapore is known to be a city in nature with many greens spaces, where one is able to see the large diversity of animals and plants that live around us. Among the animals, insect is the largest group of animals with at least 1.1 million species have been described, and there are many more still awaiting to be discovered. Walking through some of our green spaces, such as the nearby parks and nature reserves, one will get to see a number of insects such as butterflies, bees, dragonflies and beetles. However, that's only a tiny fraction of the huge diversity in Singapore, with some are actually hiding in plain sight. In this talk, you will get to see some of the insects that you may not have seen before but have been living among us for the longest time.
-![Foo Maosheng](/images/foo%20maosheng%202.jpeg)
+Zhi Jie will share on how to interact with wildlife and nature responsibly, with a focus on wildlife species commonly encountered in parks such as long-tailed macaques, otters, snakes, monitor lizards etc.
+![Foo Zhi Jie](/images/foo%20zhi%20jie.png)
 
 <br>
 
@@ -74,7 +74,6 @@ Singapore is known to be a city in nature with many greens spaces, where one is 
 **23 Sep (Sat), 3pm – 4pm**
 
 Ever wondered why your furry friend gets a little too possessive over their stuff? Join us for a 40-minute chat about the ins and outs of resource guarding in dogs. We'll break it down, share some tips and effective strategies for prevention and management.
-
 ![Qi Ai &amp; Webster](/images/qi%20ai%20&amp;%20webster.png)
 
 <br>
@@ -104,27 +103,18 @@ Obesity is a common problem in pets, and it can lead to a variety of health issu
 ![Dr Suria Fabbri](/images/dr%20suria%20fabbri.jpg)
 
 <br>
-<br>
 
-##### **Wildlife Commonly Seen in Parks by Foo Zhi Jie (NParks)** 
-**24 Sep (Sun), 2pm – 3pm**
+##### **The Great Diversity of Insects in Singapore by Foo Maosheng (Lee Kong Chian Natural History Museum (NUS))** 
+**23 Sep (Sat), 3pm – 4pm**
 
-Zhi Jie will share on how to interact with wildlife and nature responsibly, with a focus on wildlife species commonly encountered in parks such as long-tailed macaques, otters, snakes, monitor lizards etc.
-![Foo Zhi Jie](/images/foo%20zhi%20jie.png)
-
-<br>
-
-##### Demonstrations
-
-##### **All About Dog Parks by Al Chong (My Dog Trainer (M.D.T)) &amp; Cheryl Goi (My Dog Trainer (M.D.T))**
-**24 Sep (Sun), 11.30am – 12.30pm**
-
-Dog parks can be a great place for dogs to exercise off-leash and have fun. Come find out about the proper etiquette and safety considerations when taking your dog to one. Also learn to read canine body language and steps you can do to minimise dog fights.   
-
-Trainers: Al Chong, AVS-PADT, Fear Free Shelter Graduate, and Cheryl Goi, IAABC, Karen Pryor Academy Puppy Straight Right for Instructors, Fear Free Shelter Graduate, from&nbsp;My Dog Trainer (M.D.T)
-![Al Chong &amp; Cheryl Goi](/images/al%20chong_cheryl%20goi.jpg)
+Singapore is known to be a city in nature with many greens spaces, where one is able to see the large diversity of animals and plants that live around us. Among the animals, insect is the largest group of animals with at least 1.1 million species have been described, and there are many more still awaiting to be discovered. Walking through some of our green spaces, such as the nearby parks and nature reserves, one will get to see a number of insects such as butterflies, bees, dragonflies and beetles. However, that's only a tiny fraction of the huge diversity in Singapore, with some are actually hiding in plain sight. In this talk, you will get to see some of the insects that you may not have seen before but have been living among us for the longest time.
+![Foo Maosheng](/images/foo%20maosheng%202.jpeg)
 
 <br>
+
+
+
+#### Demonstrations
 
 ##### **Let's Train without Pain! by June Lim (A Smiling Leash), Yap Shi Ying (Click With Dogs), Candy Lim-Soliano (Kaizen 4 Dogs)**
 **23 Sep (Sat), 10.30am – 11.30am, 12.30pm – 1.30pm &amp; 3pm – 4pm**
@@ -148,3 +138,13 @@ Learn how to set up successful introductions between 2 dogs and how to tell if t
 
 Trainer: Wilson Song, IAABC-ADT, AVS-ACDT, ISCP.Dip.Canine.Prac, from&nbsp;Supaw Dog Training
 ![Wilson Song](/images/wilson%20song.jpg)
+
+<br>
+
+##### **All About Dog Parks by Al Chong (My Dog Trainer (M.D.T)) &amp; Cheryl Goi (My Dog Trainer (M.D.T))**
+**24 Sep (Sun), 11.30am – 12.30pm**
+
+Dog parks can be a great place for dogs to exercise off-leash and have fun. Come find out about the proper etiquette and safety considerations when taking your dog to one. Also learn to read canine body language and steps you can do to minimise dog fights.   
+
+Trainers: Al Chong, AVS-PADT, Fear Free Shelter Graduate, and Cheryl Goi, IAABC, Karen Pryor Academy Puppy Straight Right for Instructors, Fear Free Shelter Graduate, from&nbsp;My Dog Trainer (M.D.T)
+![Al Chong &amp; Cheryl Goi](/images/al%20chong_cheryl%20goi.jpg)
