@@ -20,7 +20,7 @@ Grab a paintbrush and showcase your creativity on repurposed wood cookies, check
 
 
 
-#### More on Arts &amp; Culture activites at West Coast Park
+#### More on the programmes
 
 
 #####  **Upcycled Wood Cookie Ornament Painting by NParks** <br>
