@@ -9,36 +9,31 @@ Check out the festival promotions happening at participating tenants in our park
 
 #### Bishan-Ang Mo Kio Park and HortPark 
 
+##### Canopy Garden Dining
+![Canopy Garden Dining](/images/canopy%20garden%20dining.jpg)
 
-| Canopy Garden Dining |  |  |
-| -------- | -------- | -------- |
-| Text     | Text     | ![Canopy Garden Dining](/images/canopy%20garden%20dining.jpg)      |
+Free Caesar salad with purchase of any main dish. <br>Quote "NParks Festival 2023" to redeem. 
 
+Valid on 23 and 24 September 2023.  
 
+Click [here](https://www.canopygardendining.com/) for more information. 
 
-##### 
-
-
-Free Caesar salad with purchase of any main dish. Quote "NParks Festival 2023" to redeem.
-
-* Valid on 23 and 24 September 2023. 
-<br>
-
-Click [here](https://www.canopygardendining.com/) for more information.
  
  <br>
 
 #### East Coast Park 
 
 ##### Bike Stop by Coastline Leisure
-![Bike Stop at Coastline Leisure](/images/coastline%20leisure.jpg)
 
-$5 off for family bike rental.  
+![Bike Stop at Coastline Leisure](/images/coastline%20leisure.jpg) 
+
+$5 off for family bike rental.
+
 * Valid for 1 bike redemption per person. 
 * Valid on 23 and 24 September 2023. 
-<br>
 
-Click [here](www.coastlineleisure.com.sg) for more information.
+Click [here](www.coastlineleisure.com.sg) for more information.  
+
 
 <br>
 
