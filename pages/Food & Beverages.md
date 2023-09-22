@@ -13,7 +13,7 @@ We got you! Take your pick from the mouth-watering selection at the festival ava
 
 | Lavi Taco|  |
 | -------- | -------- |
-| Lavi Taco offers a distinctive perspective on traditional Mexican flavors with a contemporary twist. From classic dishes to plant-based options, there is something for everyone to enjoy and indulge in! |  ![](/images/lavi%20taco.jpeg) | 
+| Lavi Taco offers a distinctive perspective on traditional Mexican flavors with a contemporary twist. From classic dishes to plant-based options, there is something for everyone to enjoy and indulge in! | ![](/images/tacos%20lavi.jpeg) | 
 
 <br>
 
@@ -26,6 +26,8 @@ We got you! Take your pick from the mouth-watering selection at the festival ava
 
 |The Travelling Cow |  |
 | -------- | -------- |
-| Established as the first food truck in Singapore since 2012, Chef On Wheels aims to bring gourmet bistro bites and creative cuisine across our sunny island. Look forward to tantalising food &amp; drinks on sale at the festival! |  ![](/images/the%20travelling%20cow.jpeg) |
+| Established as the first food truck in Singapore since 2012, Chef On Wheels aims to bring gourmet bistro bites and creative cuisine across our sunny island. <br><br> Look forward to tantalising food &amp; drinks on sale at the festival! |  ![](/images/the%20travelling%20cow.jpeg) |
 
-*Watch this space for more updates!*
+|Yeo's |  |
+| -------- | -------- |
+| Yeo's has been bringing crafted Asian drinks to Singaporeans for generations since 1900. Try our newest First Harvest Green Tea! Rich in flavor and filled with natural antioxidants. <br><br> You can also enjoy our other beverages: H-TWO-O, Pink Dolphin, Coconut Water and Sparkle Water. All surely to cool you down in the heat! <br><br> Visit the Yeo’s booth and spot the life-size First Harvest Green Tea Inflatable Can, and take a photo to stand a chance to win prize at the Gachapon machine! | ![](/images/yeo's%20drinks.jpeg) |
