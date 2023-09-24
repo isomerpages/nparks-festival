@@ -5,8 +5,8 @@ description: Parks Festival celebrates NParks’ signature programmes and
   activities that are offered in our parks and nature spaces in Singapore.
 image: /images/park festival event id.png
 permalink: /
-notification: Due to inclement weather at West Coast Park, outdoor activities
-  will be delayed till further notice.
+notification: Due to inclement weather at West Coast Park, some outdoor
+  activities will be delayed till further notice.
 sections:
   - hero:
       button: Whats On?
@@ -48,5 +48,5 @@ sections:
   - infobar:
       subtitle: Weather updates (as of 11am)
       description: "Lawn activities are suspended till further notice:   Air Badminton
-        | Futsal "
+        | Futsal"
 ---
