@@ -47,6 +47,6 @@ sections:
       url: /media/
   - infobar:
       subtitle: Weather updates (as of 11am)
-      description: "Lawn activities are suspended till further notice:   Bird Displays
-        | Dog Run | Air Badminton | Futsal"
+      description: "Lawn activities are suspended till further notice:   Air Badminton
+        | Futsal "
 ---
