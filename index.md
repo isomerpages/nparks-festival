@@ -5,7 +5,8 @@ description: Parks Festival celebrates NParks’ signature programmes and
   activities that are offered in our parks and nature spaces in Singapore.
 image: /images/park festival event id.png
 permalink: /
-notification: ""
+notification: Due to inclement weather at West Coast Park, outdoor activities
+  will be delayed till further notice.
 sections:
   - hero:
       button: Whats On?
