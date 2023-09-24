@@ -45,4 +45,8 @@ sections:
       description: Hashtag your event experience with us and see others in action!
       button: what's happening
       url: /media/
+  - infobar:
+      subtitle: Weather updates (as of 11am)
+      description: "Lawn activities are suspended till further notice:   Bird Displays
+        | Dog Run | Air Badminton | Futsal "
 ---
