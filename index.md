@@ -10,16 +10,6 @@ sections:
   - hero:
       button: Whats On?
       url: /whats-on/
-      key_highlights:
-        - title: Programmes
-          description: Plan your festival activities
-          url: /whats-on
-        - title: Talks & Demos
-          description: Learn something new!
-          url: /talks-and-demos/listings/
-        - title: Getting here
-          description: Getting to West Coast Park
-          url: /visit
       background: /images/pf for isomer2.png
   - infopic:
       title: 23 - 24 September 2023
