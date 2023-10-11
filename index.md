@@ -12,30 +12,27 @@ sections:
       url: /whats-on/
       background: /images/pf for isomer2.png
   - infopic:
-      title: 23 - 24 September 2023
+      title: Thank you for joining us this year!
       button: About Parks Festival 2023
       url: /about
       image: /images/5 categories_2208_2.png
-      alt: Programs at Parks Festival
-      subtitle: Parks Festival is back!
-      description: A kaleidoscope of programmes awaits!
+      alt: About Parks Festival
+      subtitle: 23 - 24 September 2023
   - infopic:
-      title: Festival Handbook
-      subtitle: What's On
-      description: Don't know where to start? Download a copy of our festival handbook
-        and you'll have everything you need in the palm of your hand!
-      button: Download Here
-      url: https://go.gov.sg/parksfestival2023hb
-      image: /images/fb-visual-cover.png
-      alt: Handbook Cover
-  - infobar:
-      title: "#SGParksFest"
-      subtitle: Share your experience
-      description: Hashtag your event experience with us and see others in action!
-      button: what's happening
+      title: Post Event Highlights
+      subtitle: "#SGParksFest"
+      id: infopic
+      description: See yourself and others in action during the 2-day evet at West
+        Coast Park!
+      button: Let's go!
       url: /media/
-  - infobar:
-      subtitle: Weather updates (as of 11am)
-      description: "Lawn activities are suspended till further notice:   Air Badminton
-        | Futsal"
+      alt: Image alt text
+  - infopic:
+      title: Parks for Everyone
+      subtitle: Past Programmes - 2023
+      description: Have a read on what activities were offered at our Parks Festival in 2023
+      button: Check it out
+      url: /whats-on/
+      image: /images/fb-visual-cover.png
+      alt: Past Programmes
 ---
