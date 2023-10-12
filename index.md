@@ -8,7 +8,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      button: Whats On?
       url: /whats-on/
       background: /images/pf for isomer2.png
   - infopic:
@@ -22,7 +21,7 @@ sections:
       title: Post Event Highlights
       subtitle: "#SGParksFest"
       id: infopic
-      description: See yourself and others in action during the 2-day evet at West
+      description: See yourself and others in action during the 2-day event at West
         Coast Park!
       button: Let's go!
       url: /media/
