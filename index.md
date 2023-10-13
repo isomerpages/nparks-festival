@@ -25,7 +25,7 @@ sections:
         Coast Park!
       button: Let's go!
       url: /media/
-      alt: Image alt text
+      alt: Event Photo
   - infopic:
       title: Parks for Everyone
       subtitle: Past Programmes - 2023
