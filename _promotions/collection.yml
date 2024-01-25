@@ -1,0 +1,6 @@
+collections:
+  promotions:
+    output: true
+    order:
+      - Festival Promotions.md
+      - Festival Giveaways.md

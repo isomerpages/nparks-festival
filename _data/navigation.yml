@@ -1,0 +1,18 @@
+logo: /images/park festival event id.png
+links:
+  - title: About
+    url: /about/
+  - title: Programmes
+    collection: programmes
+  - title: Talks
+    collection: talks-and-demos
+  - title: MARKETPLACE
+    url: /marketplace
+  - title: F&B
+    url: /fnb
+  - title: Promotions & Giveaways
+    collection: promotions
+  - title: Visit
+    url: /visit
+  - title: DOWNLOAD
+    url: /handbook

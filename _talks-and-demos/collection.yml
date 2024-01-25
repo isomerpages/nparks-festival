@@ -1,0 +1,8 @@
+collections:
+  talks-and-demos:
+    output: true
+    order:
+      - Listen in!.md
+      - Gardening & Nature.md
+      - Pets & Wildlife.md
+      - Sports & Wellness.md
