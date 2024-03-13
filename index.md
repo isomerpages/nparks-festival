@@ -18,15 +18,6 @@ sections:
       alt: About Parks Festival
       subtitle: 23 - 24 September 2023
   - infopic:
-      title: Post Event Highlights
-      subtitle: "#SGParksFest"
-      id: infopic
-      description: See yourself and others in action during the 2-day event at West
-        Coast Park!
-      button: Let's go!
-      url: /media/
-      alt: Event Photo
-  - infopic:
       title: Parks for Everyone
       subtitle: Past Programmes - 2023
       description: Have a read on what activities were offered at our Parks Festival in 2023
